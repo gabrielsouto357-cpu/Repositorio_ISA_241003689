@@ -1,0 +1,30 @@
+{
+  "_sobre": "Parâmetros dos testes do Bloco 08 (PT 530 / PT 450 simulado). Valores monetários em R$ (centavos inteiros no código). Base SINTÉTICA – cenário TESTE.",
+  "entradas_permitidas": [
+    "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_lancamentos_2025_TESTE.csv.gz",
+    "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_lancamentos_2026_jan_fev_TESTE.csv.gz",
+    "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_saldos_TESTE.csv",
+    "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_cadastro_fornecedores.csv",
+    "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_cadastro_usuarios_pagadores.csv",
+    "03_Base_sintetica/base_B07/dados_reais_derivados/REAL_contratos_F0003_p36.csv",
+    "03_Base_sintetica/base_B07/dados_reais_derivados/REAL_catalogo_modulos_ANEEL_28_contratos.csv"],
+  "entradas_proibidas_nos_testes": ["gabarito_LACRADO/*", "*_REFERENCIA.*", "codigo/inserir_erros.py", "codigo/gerar_referencia.py", "SINTETICO_parametros_contratos.csv", "controle/VERIFICACOES_RESULTADO.csv"],
+  "materialidade_mil": {"MG": 139000, "ME": 90000, "CT": 7000, "fonte": "D-014; D-017 (população única do ativo contratual = 90.000)"},
+  "mus": {
+    "confianca": 0.95,
+    "fator_confianca_0_erros": "Poisson exato: gamma.ppf(0,95; 1) = 2,9957",
+    "fator_expansao_erro_esperado": 1.6,
+    "_fonte_fator_expansao": "Tabela usual de MUS para risco de aceitação incorreta de 5% (AICPA Audit Sampling Guide); julgamento didático, não exigência da NBC TA 530",
+    "erro_esperado_mil": 9000,
+    "_erro_esperado": "Premissa didática validada no projeto (10% da ME; Desenho_amostral B06). Não é taxa real da ISA.",
+    "distorcao_toleravel_base_mil": 90000,
+    "regra_distorcao_toleravel_amostra": "TM_amostra = ME − max(Σ|efeito no saldo|, Σ|efeito no resultado|) das distorções identificadas no Estágio 1, presumidas não corrigidas",
+    "semente_selecao": 2025123108,
+    "ordem_populacao": "id_lancamento crescente (ordem cronológica de gravação)",
+    "inicio_aleatorio": "inteiro uniforme em [1, J] centavos (numpy PCG64)"
+  },
+  "tolerancias": {"recalculo_margem_brl": 0.02, "remuneracao_brl": 1.00, "janela_duplicidade_dias": 10, "classificacao_pp": 10, "classificacao_valor_minimo_mil": 7000,
+                  "lancamento_manual_horario": ["07:00", "20:00"], "janela_fim_periodo": ["2025-12-26", "2026-01-15"], "usuario_incomum_max_lancamentos_ano": 4},
+  "tipos_populacao_infra": ["RECEITA_INFRA", "PROVISAO_MEDICAO", "AJUSTE_MANUAL"],
+  "tipos_custo_obra": ["Fiscalização e meio ambiente", "Serviço de montagem", "Equipamento", "Material", "Engenharia e projeto", "Obra civil", "Mão de obra própria"]
+}

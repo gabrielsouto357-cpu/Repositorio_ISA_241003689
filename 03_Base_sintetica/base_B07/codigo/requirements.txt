@@ -1,0 +1,5 @@
+# Testado com Python 3.13.16 (Linux). Versões fixadas das bibliotecas usadas na execução registrada em controle/EXECUCAO_LOG.json
+# Opcional: LibreOffice, só para gravar valores calculados das fórmulas no .xlsx (o Excel recalcula ao abrir)
+numpy==2.5.3
+pandas==3.0.5
+openpyxl==3.1.5

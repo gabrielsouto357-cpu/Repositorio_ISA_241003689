@@ -1,0 +1,170 @@
+# Consulta CVM RAD (ENETWeb, frmConsultaExternaCVM.aspx) — empresa 018376 ISA ENERGIA BRASIL; data de entrega 01/01/2025 00:00 a 21/10/2026 23:59
+# Executada pelo navegador integrado em 21/10/2026 ~18:35 (Brasília); 387 registros; abaixo os 200 mais recentes (14/11/2025 a 21/10/2026), transcritos do resultado da tela.
+# Campos: Categoria;Tipo;Assunto/Espécie;Data referência;Data e hora de entrega;Status;Versão;Protocolo (visualização)
+FRE - Formulário de Referência;-;-;2026;21/10/2026 15:15;Ativo;10;
+Comunicado ao Mercado;OutrosCom;Participação em evento online -;19/10/2026;19/10/2026 18:14;Ativo;1;1578388
+FRE - Formulário de Referência;-;-;2026;15/10/2026 16:17;Inativo;9;
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/10/2026;14/10/2026 13:47;Ativo;1;1577045
+Comunicado ao Mercado;OutrosCom;Alteração de participação relevante -;13/10/2026;13/10/2026 17:16;Ativo;1;1576753
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;09/2026;05/10/2026 08:16;Ativo;1;1574091
+Relatório Proventos;-;-;09/2026;30/09/2026 10:33;Ativo;1;1572744
+Aviso aos Acionistas;Outros avisos;Dividendos/Juros sobre Capital Próprio -;29/09/2026;29/09/2026 19:39;Ativo;1;1572663
+Reunião da Administração;Conselho de Administração;Distribuição de Dividendos/Juros sobre Capital Próprio Ata;29/09/2026 17:00;29/09/2026 19:34;Ativo;1;1572659
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/09/2026;14/09/2026 16:01;Ativo;1;1567916
+FRE - Formulário de Referência;-;-;2026;10/09/2026 15:54;Inativo;8;
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;UBS Global Emerging Markets Conference -;08/09/2026;08/09/2026 08:41;Ativo;1;1565414
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;08/2026;04/09/2026 13:56;Ativo;1;1565047
+FRE - Formulário de Referência;-;-;2026;02/09/2026 16:20;Inativo;7;
+FRE - Formulário de Referência;-;-;2026;21/08/2026 16:29;Inativo;6;
+Reunião da Administração;Conselho de Administração;Ata RCA 17-2026 - 12/08/2026 Ata;12/08/2026 09:00;20/08/2026 16:34;Ativo;1;1559817
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;07/2026;10/08/2026 09:44;Ativo;1;1554694
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;Apresentação de Resultados 2T26 -;04/08/2026;04/08/2026 08:06;Ativo;1;1551492
+Dados Econômico-Financeiros;Press-release;Release de resultados 2T26 -;30/06/2026;03/08/2026 18:23;Ativo;1;1551318
+Dados Econômico-Financeiros;Demonstrações Financeiras Intermediárias;Demonstrações Financeiras Intermediárias 2T26 -;30/06/2026;03/08/2026 18:18;Ativo;1;1551315
+ITR - Informações Trimestrais;-;-;30/06/2026;03/08/2026 18:07;Ativo;1;
+Reunião da Administração;Conselho de Administração;Deliberação das informações financeiras (2T26) Ata;03/08/2026 17:00;03/08/2026 18:04;Ativo;1;1551304
+Reunião da Administração;Conselho Fiscal;Parecer acerca das Demonstrações Financeiras Ata;03/08/2026 09:00;03/08/2026 18:00;Ativo;1;1551299
+Fato Relevante;-;Conclusão do descruzamento de participações na IE Madeira e IE Garanhuns -;31/07/2026;31/07/2026 17:14;Ativo;1;1550490
+FRE - Formulário de Referência;-;-;2026;31/07/2026 15:19;Inativo;5;
+Estatuto Social;-;-;24/07/2026;31/07/2026 10:47;Ativo;1;1550179
+Informe do Código de Governança;-;-;31/12/2026;31/07/2026 09:58;Ativo;1;
+Documentos de Oferta de Distribuição Pública;Anúncio de Encerramento de Distribuição Pública;Anúncio de encerramento de oferta pública de distribuição primária -;29/07/2026;29/07/2026 18:22;(truncado);;
+Assembleia;AGE;Mapa final de votação detalhado - AGE 24/07/2026;24/07/2026 11:00;24/07/2026 22:01;Ativo;1;1548036
+Assembleia;AGE;Alterar os artigos 4 e 5º do Estatuto Social da Companhia Ata;24/07/2026 11:00;24/07/2026 11:27;Ativo;1;1547720
+FRE - Formulário de Referência;-;-;2026;24/07/2026 08:49;Inativo;4;
+Reunião da Administração;Conselho Fiscal;Aprovação Oferta Pública de Ações Ata;22/07/2026 17:00;24/07/2026 01:54;Ativo;1;1547626
+Reunião da Administração;Conselho de Administração;Definição do Preço por Ação na Oferta Pública de Ações Ata;23/07/2026 20:30;24/07/2026 01:49;Ativo;1;1547625
+Documentos de Oferta de Distribuição Pública;Anúncio de Início de Distribuição Pública;Oferta Pública de Ações -;23/07/2026;24/07/2026 01:43;Ativo;1;1547624
+Fato Relevante;-;Oferta Pública de Ações - Definição do Preço por Ação -;23/07/2026;24/07/2026 01:40;Ativo;1;1547623
+Documentos de Oferta de Distribuição Pública;Anúncio de Encerramento de Distribuição Pública;Anúncio de encerramento 24ª emissão -;23/07/2026;23/07/2026 18:52;Ativo;1;1547568
+Assembleia;AGE;Mapa sintético consolidado das instruções de voto a distância - AGE 24/07/2026;24/07/2026 11:00;22/07/2026 18:17;Ativo;1;1547066
+Documentos de Oferta de Distribuição Pública;Anúncio de Início de Distribuição Pública;DISTRIBUIÇÃO DA 24ª EMISSÃO DE DEBENTURES -;21/07/2026;21/07/2026 19:55;Ativo;1;1546726
+Dados Econômico-Financeiros;Relatório de Agente Fiduciário;Relatório de rating 24ª emissão -;17/07/2026;17/07/2026 17:10;Ativo;1;1545940
+Escrituras e aditamentos de debêntures;-;Emissão de Valores Mobiliários -;06/07/2026;16/07/2026 20:04;Ativo;1;1545700
+Documentos de Oferta de Distribuição Pública;Aviso ao Mercado;24ª Emissão de debêntures -;16/07/2026;16/07/2026 19:57;Ativo;1;1545695
+Documentos de Oferta de Distribuição Pública;Anúncio de Encerramento de Distribuição Pública;23ª Emissão de Debêntures - Anúncio de Encerramento -;16/07/2026;16/07/2026 19:09;Ativo;1;1545667
+FRE - Formulário de Referência;-;-;2026;15/07/2026 10:39;Inativo;3;
+Reunião da Administração;Conselho de Administração;Aprovar a Oferta Pública Primária Ata;14/07/2026 18:00;15/07/2026 09:48;Ativo;1;1544929
+Documentos de Oferta de Distribuição Pública;Aviso ao Mercado;Oferta Pública Primária -;15/07/2026;15/07/2026 09:41;Ativo;1;1544924
+Fato Relevante;-;Lançamento de Oferta Pública Primária -;15/07/2026;15/07/2026 09:38;Ativo;1;1544922
+Documentos de Oferta de Distribuição Pública;Anúncio de Início de Distribuição Pública;23ª Emissão -;14/07/2026;14/07/2026 20:31;Ativo;1;1544854
+Reunião da Administração;Conselho de Administração;23ª emissão de debentures Ata;02/07/2026 17:00;14/07/2026 17:33;Ativo;2;1544758
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/07/2026;14/07/2026 13:54;Ativo;1;1544653
+Documentos de Oferta de Distribuição Pública;Aviso ao Mercado;23ª Emissão - Alteração de cronograma e divulgação do resultado da coleta de intenções de investimento -;08/07/2026;08/07/2026 (truncado);;;
+FRE - Formulário de Referência;-;-;2026;08/07/2026 11:59;Inativo;2;
+Calendário de Eventos Corporativos;-;-;31/12/2026;07/07/2026 10:18;Ativo;7;1542291
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;06/2026;06/07/2026 11:10;Ativo;1;1541942
+Fato Relevante;-;POTENCIAL OFERTA PÚBLICA -;06/07/2026;06/07/2026 07:44;Ativo;1;1541896
+Escrituras e aditamentos de debêntures;-;Escritura - 23ª Emissão de Debêntures -;03/07/2026;03/07/2026 19:21;Ativo;1;1541860
+Documentos de Oferta de Distribuição Pública;Aviso ao Mercado;23ª Emissão de Debêntures -;03/07/2026;03/07/2026 19:19;Ativo;1;1541859
+Reunião da Administração;Conselho de Administração;23ª emissão de debentures Ata;02/07/2026 17:00;03/07/2026 17:19;Inativo;1;1541787
+Assembleia;AGE;Manual para participação;24/07/2026 11:00;03/07/2026 10:04;Ativo;2;1541619
+Assembleia;AGE;Boletim de voto a distância;24/07/2026 11:00;03/07/2026 09:20;Ativo;1;1541614
+Assembleia;AGE;Proposta da Administração (alterar arts. 4º e 5º do Estatuto; consolidar);24/07/2026 11:00;03/07/2026 08:34;Ativo;2;(truncado)
+Assembleia;AGE;Manual para participação;24/07/2026 11:00;03/07/2026 08:31;Inativo;1;1541610
+Fato Relevante;-;Potencial Oferta Pública -;03/07/2026;03/07/2026 08:18;Ativo;1;1541609
+Assembleia;AGE;Proposta da Administração (versão anterior);24/07/2026 11:00;03/07/2026 08:15;Inativo;1;(truncado)
+Assembleia;AGE;Edital de Convocação (alterar arts. 4º e 5º; consolidar Estatuto);24/07/2026 11:00;03/07/2026 08:10;Ativo;1;(truncado)
+Dados Econômico-Financeiros;Relatório de Agência de Rating;Relatório de Rating - agente fiduciário -;26/06/2026;26/06/2026 17:40;Ativo;1;1538949
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;Conferência CITI -;17/06/2026;18/06/2026 17:07;Ativo;1;1536060
+Reunião da Administração;Conselho de Administração;Ata RCA 12-2026 - 03/06/2026 Ata;03/06/2026 09:00;12/06/2026 17:47;Ativo;1;1534202
+Aviso aos Debenturistas;-;Pagamento de principal e juros da 1a Emissão de Debêntures Simples da IE Ivaí -;12/06/2026;12/06/2026 17:17;Ativo;1;1534102
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;12/06/2026;12/06/2026 13:36;Ativo;1;1534022
+Comunicado ao Mercado;OutrosCom;Comunicado ao mercado - Piraquê -;11/06/2026;11/06/2026 08:42;Ativo;1;1533471
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;05/2026;10/06/2026 08:32;Ativo;1;1532765
+FRE - Formulário de Referência;-;-;2026;28/05/2026 17:50;Inativo;1;
+Comunicado ao Mercado;OutrosCom;Obtenção de LI - Projeto Serra Dourada (Bloco 2) -;27/05/2026;27/05/2026 17:33;Ativo;1;1527416
+Fato Relevante;-;JULGAMENTO DO TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (TRF1) SOBRE O RBSE -;27/05/2026;27/05/2026 08:39;Ativo;1;1527167
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/05/2026;14/05/2026 11:22;Ativo;1;1521908
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;04/2026;11/05/2026 15:57;Ativo;1;1519724
+Relatório de Sustentabilidade;-;-;06/05/2026;06/05/2026 10:18;Ativo;1;1516547
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;Apresentação de resultados 1T26 -;05/05/2026;05/05/2026 15:00;Ativo;1;1515884
+FRE - Formulário de Referência;-;-;2025;05/05/2026 11:38;Ativo;16;
+FCA - Formulário Cadastral;-;-;2026;05/05/2026 11:35;Ativo;1;
+Dados Econômico-Financeiros;Press-release;Release de resultados 1T26 -;31/03/2026;04/05/2026 18:54;Ativo;1;1515445
+Dados Econômico-Financeiros;Demonstrações Financeiras Intermediárias;Demonstrações Financeiras Intermediárias -;31/03/2026;04/05/2026 18:50;Ativo;1;1515444
+ITR - Informações Trimestrais;-;-;31/03/2026;04/05/2026 18:44;Ativo;1;
+Reunião da Administração;Conselho Fiscal;Parecer acerca das Demonstrações Financeiras Ata;04/05/2026 09:00;04/05/2026 18:39;Ativo;1;1515437
+Reunião da Administração;Conselho de Administração;Deliberação das informações financeiras (1T26) Ata;04/05/2026 17:00;04/05/2026 18:36;Ativo;1;1515436
+Comunicado ao Mercado;Mudança de Auditor;-;30/04/2026;04/05/2026 18:29;Ativo;1;1515429
+Dados Econômico-Financeiros;Relatório de Agente Fiduciário;Relatórios do agente fiduciário (7ª a 20ª emissões e IE Ivaí), 14 registros;29/04/2026;30/04/2026 15:21–15:36;Ativo;1;1512653–1512749
+Dados Econômico-Financeiros;Relatório de Agência de Rating;Relatórios de rating (9ª a 20ª emissões), 12 registros;29/04/2026;29/04/2026 18:52–19:09;Cancelado;1;1511429–1511465
+FRE - Formulário de Referência;-;-;2025;24/04/2026 16:27;Inativo;15;
+Comunicado ao Mercado;Aquisição/Alienação de Participação Acionária Relevante;Declaração de Alienação de Participação Acionária Relevante;22/04/2026;23/04/2026 22:06;Ativo;1;1508071
+Comunicado ao Mercado;OutrosCom;Comunicado ao Mercado - Alteração de participação relevante -;22/04/2026;22/04/2026 17:27;Cancelado;1;1507224
+FRE - Formulário de Referência;-;-;2025;22/04/2026 14:07;Inativo;14;
+Comunicado ao Mercado;OutrosCom;Energização Jacarandá -;22/04/2026;22/04/2026 08:48;Ativo;1;1507001
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/04/2026;14/04/2026 15:59;Ativo;1;1504730
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;Apresentação - Bradesco BBI 12th Brazil Investment Forum -;08/07/2026;10/04/2026 10:14;Ativo;1;1503417
+FRE - Formulário de Referência;-;-;2025;08/04/2026 19:23;Inativo;13;
+Reunião da Administração;Conselho de Administração;Ata RCA 08-2026 - 07/04/2026 Ata;07/04/2026 09:00;08/04/2026 18:53;Ativo;1;1502697
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;03/2026;08/04/2026 14:09;Ativo;1;1502399
+Fato Relevante;-;Conversão de Ações -;07/04/2026;07/04/2026 18:31;Ativo;1;1502158
+FRE - Formulário de Referência;-;-;2025;06/04/2026 19:10;Inativo;12;
+Documentos de Oferta de Distribuição Pública;Anúncio de Encerramento de Distribuição Pública;Anúncio de encerramento 22a Emissão de Debêntures -;06/04/2026;06/04/2026 18:34;Ativo;1;1501618
+Reunião da Administração;Conselho de Administração;Ata 05-RCA de 11 de março de 2026 Ata;11/03/2026 17:00;02/04/2026 17:13;Ativo;1;1500640
+Escrituras e aditamentos de debêntures;-;1º Aditamento 22ª emissão -;01/04/2026;01/04/2026 18:47;Ativo;1;1500152
+Comunicado ao Mercado;OutrosCom;22ª Emissão de debêntures -;01/04/2026;01/04/2026 18:43;Ativo;1;1500148
+Documentos de Oferta de Distribuição Pública;Anúncio de Início de Distribuição Pública;22ª Emissão de debêntures -;01/04/2026;01/04/2026 18:39;Ativo;1;1500142
+Calendário de Eventos Corporativos;-;-;31/12/2026;31/03/2026 09:43;Inativo;6;1498679
+Assembleia;AGO;Mapa final de votação detalhado - AGO 2026;25/03/2026 15:00;25/03/2026 19:21;Ativo;1;1495225
+Assembleia;AGO;Ata AGO 2026 Ata;25/03/2026 15:00;25/03/2026 19:15;Ativo;1;1495216
+Assembleia;AGO;Mapa sintético consolidado das instruções de voto a distância - AGO 2026;25/03/2026 15:00;24/03/2026 14:43;Ativo;1;1494332
+FRE - Formulário de Referência;-;-;2025;24/03/2026 10:07;Inativo;11;
+Comunicado ao Mercado;OutrosCom;Energização bloco 2 - Projeto Piraquê -;23/03/2026;23/03/2026 17:58;Ativo;1;1493811
+Aviso aos Acionistas;Outros avisos;Reapresentação da proposta -;23/02/2026;23/03/2026 17:41;Ativo;1;1493795
+Assembleia;AGO/E;Proposta da Administração (DFs e gestão 2025; destinação do lucro; eleições; remuneração);25/03/2026 15:00;(truncado);;;
+Escrituras e aditamentos de debêntures;-;Escritura - 22a Emissão de Debêntures -;19/03/2026;20/03/2026 19:22;Ativo;1;1493302
+Documentos de Oferta de Distribuição Pública;Aviso ao Mercado;Aviso ao mercado - 22ª Emissão de Debêntures -;20/03/2026;20/03/2026 19:17;Ativo;1;1493291
+Reunião da Administração;Conselho de Administração;Compra e Venda de Ativos; Conversão das Ações Ordinárias (ISAE3) em Ações Preferenciais (ISAE4) Ata;19/03/2026 17:00;20/03/2026 17:07;Ativo;(truncado);
+Fato Relevante;-;CONVERSÃO DE AÇÕES ORDINÁRIAS -;19/03/2026;19/03/2026 21:19;Ativo;1;1492846
+Fato Relevante;-;DESCRUZAMENTO DE PARTICIPAÇÕES NA IE MADEIRA E IE GARANHUNS -;19/03/2026;19/03/2026 21:17;Ativo;1;1492844
+Reunião da Administração;Conselho de Administração;Conversão de ações; Compra e Venda de Ativos Ata (versão anterior);19/03/2026 17:00;19/03/2026 21:13;Inativo;(truncado);
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;13/03/2026;13/03/2026 09:59;Ativo;1;1490039
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;02/2026;09/03/2026 18:15;Ativo;1;1487503
+Comunicado ao Mercado;OutrosCom;Renúncia do Presidente e Membro do Conselho de Administração -;06/03/2025 [sic];06/03/2026 18:01;Ativo;1;1486782
+Relatório Proventos;-;-;02/2026;25/02/2026 19:01;Ativo;1;1481976
+Assembleia;AGO/E;Manual para participação;25/03/2026 15:00;25/02/2026 18:51;Ativo;1;1481928
+Assembleia;AGO/E;Proposta da Administração e Edital (DFs e gestão 2025 etc.);25/03/2026 15:00;(truncado);;;
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;Apresentação de resultados 4T25 -;25/02/2026;25/02/2026 09:34;Ativo;1;1481580
+Dados Econômico-Financeiros;Press-release;Earnings Release 4T25 -;31/12/2025;24/02/2026 23:12;Ativo;1;1481512
+Dados Econômico-Financeiros;Demonstrações Financeiras Anuais Completas;-;31/12/2025;24/02/2026 23:08;Ativo;1;1481511
+DFP - Demonstrações Financeiras Padronizadas;-;-;31/12/2025;24/02/2026 23:02;Ativo;1;
+Aviso aos Acionistas;Outros avisos;Dividendos/Juros sobre Capital Próprio -;24/02/2026;24/02/2026 22:41;Ativo;1;1481501
+Reunião da Administração;Conselho Fiscal;Parecer acerca das Demonstrações Financeiras Ata;24/02/2026 09:00;24/02/2026 22:27;Ativo;1;1481500
+Reunião da Administração;Conselho de Administração;Manifestação sobre o Relatório da Administração e das Demonstrações Financeiras Ata;24/02/2026 17:00;24/02/2026 22:24;Ativo;1;1481499
+Assembleia;AGO;Boletim de voto a distância;25/03/2026 15:00;24/02/2026 18:48;Ativo;1;1481244
+Documentos de Oferta de Distribuição Pública;Anúncio de Encerramento de Distribuição Pública;Anúncio de encerramento -;12/02/2026;12/02/2026 20:09;Ativo;1;1477326
+FRE - Formulário de Referência;-;-;2025;12/02/2026 09:49;Inativo;10;
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;BTG CEO CONFERENCE -;11/02/2026;11/02/2026 09:21;Ativo;1;1476283
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;01/2026;10/02/2026 13:11;Ativo;1;1475525
+Calendário de Eventos Corporativos;-;-;31/12/2026;06/02/2026 16:39;Inativo;5;1474355
+Reunião da Administração;Conselho de Administração;21ª Emissão de Debêntures Ata;30/01/2026 17:00;30/01/2026 19:42;Ativo;1;1471767
+Escrituras e aditamentos de debêntures;-;Primeiro Aditamento da 21ª Emissão de Debêntures -;30/01/2026;30/01/2026 19:34;Ativo;1;1471764
+Comunicado ao Mercado;OutrosCom;21ª Emissão de Debêntures - Exercício parcial do Lote adicional -;30/01/2026;30/01/2026 19:26;Ativo;1;1471763
+Comunicado ao Mercado;OutrosCom;Comunicado a mercado 21ª emissão -;29/01/2026;29/01/2026 21:31;Ativo;1;1471362
+Documentos de Oferta de Distribuição Pública;Anúncio de Início de Distribuição Pública;Anúncio de Início - 21ª emissão -;29/01/2026;29/01/2026 21:26;Ativo;1;1471360
+Calendário de Eventos Corporativos;-;-;31/12/2026;29/01/2026 16:49;Inativo;4;1471135
+Comunicado ao Mercado;OutrosCom;21ª Emissão de Debêntures -;28/01/2026;28/01/2026 22:13;Ativo;1;1470911
+Comunicado ao Mercado;Apresentações a analistas/agentes do mercado;Apresentação conferência UBS -;28/01/2026;28/01/2026 09:16;Ativo;1;1470566
+FRE - Formulário de Referência;-;-;2025;15/01/2026 17:52;Inativo;9;
+Reunião da Administração;Conselho de Administração;Ata RCA 01-2026 Ata;08/01/2026 17:00;15/01/2026 17:18;Ativo;1;1467513
+Aviso aos Acionistas;Data prevista para a assembleia;Data Assembleia Geral Ordinária (AGO) 2026 -;25/03/2026 15:00;15/01/2026 17:00;Ativo;1;1467498
+Comunicado ao Mercado;OutrosCom;21ª Emissão de Debêntures -;15/01/2026;15/01/2026 10:35;Ativo;1;1467403
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/01/2026;14/01/2026 14:19;Ativo;1;1467084
+Escrituras e aditamentos de debêntures;-;Escritura - 21a Emissão de Debêntures -;09/01/2026;09/01/2026 20:26;Ativo;1;1466045
+Documentos de Oferta de Distribuição Pública;Aviso ao Mercado;Aviso ao mercado - 21ª Emissão de Debêntures -;09/01/2026;09/01/2026 20:23;Ativo;1;1466044
+Valores Mobiliários Negociados e Detidos;Posição Consolidada;-;12/2025;06/01/2026 12:23;Ativo;1;1464082
+Comunicado ao Mercado;OutrosCom;Início da operação comercial do Sistema FACTS do tipo M-SSSC -;22/12/2025;22/12/2025 18:07;Ativo;1;1460371
+FRE - Formulário de Referência;-;-;2025;22/12/2025 16:01;Inativo;8;
+Relatório Proventos;-;-;12/2025;22/12/2025 14:57;Ativo;1;1460124
+Aviso aos Acionistas;Outros avisos;Dividendos/Juros sobre Capital Próprio -;19/12/2025;19/12/2025 18:18;Ativo;1;1459639
+Reunião da Administração;Conselho de Administração;Distribuição de Dividendos/Juros sobre Capital Próprio Ata;19/12/2025 17:00;19/12/2025 18:14;Ativo;1;1459623
+Comunicado ao Mercado;OutrosCom;Realização do Resgate Antecipado da 12 Emissão -;12/12/2025;12/12/2025 18:23;Ativo;1;1456808
+Reunião da Administração;Conselho de Administração;i) Pré pagamento 12ª emissão; ii) Aprovação de política de informação Ata;03/12/2025 10:00;12/12/2025 18:17;Ativo;1;1456803
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;12/12/2025;12/12/2025 16:38;Ativo;1;1456672
+Comunicado ao Mercado;OutrosCom;Resgate antecipado facultativo - 12ª Emissão de debêntures -;05/12/2025;05/12/2025 18:05;Ativo;1;1453486
+Comunicado ao Mercado;OutrosCom;Pedido de anuência prévia ao BNDES -;01/12/2025;01/12/2025 18:08;Ativo;1;1451413
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;21/11/2025;26/11/2025 16:31;Ativo;1;1450067
+Comunicado ao Mercado;OutrosCom;Energização bloco 1 projeto Piraquê -;17/11/2025;17/11/2025 18:02;Ativo;1;1446404
+Aviso aos Debenturistas;-;Pagamento de juros/remuneração -;14/11/2025;14/11/2025 14:46;Ativo;1;1445549

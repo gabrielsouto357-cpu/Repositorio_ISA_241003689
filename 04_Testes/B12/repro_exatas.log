@@ -1,0 +1,6 @@
+gerar_referencia.py: retorno 0 em 33.4s
+inserir_erros.py: retorno 0 em 14.3s
+conciliar.py: retorno 0 em 10.0s
+verificar.py: retorno 0 em 18.0s
+gerar_dicionario.py: retorno 0 em 7.7s
+log: controle/EXECUCAO_LOG.json; hashes: controle/HASHES_SHA256.txt

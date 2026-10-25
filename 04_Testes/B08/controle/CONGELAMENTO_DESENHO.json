@@ -1,0 +1,8 @@
+{
+ "evento": "Congelamento do desenho antes da execução dos testes e antes de qualquer acesso ao gabarito",
+ "horario_brasilia": "2026-10-21T02:29:10-03:00",
+ "arquivos": {
+  "desenho/DESENHO_TESTES_B08.md": "663d2559c731f4622248d8e4e2f4a1d2f2d03b63dabd17af8c26b285905ecb42",
+  "desenho/PARAMETROS_B08.json": "19d8e3d42e5af2283caf5f7acb3b7bd7862b7226cac54b61e55647b4c33a994d"
+ }
+}

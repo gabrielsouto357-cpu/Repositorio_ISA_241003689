@@ -1,0 +1,26 @@
+{
+  "_sobre": "Configuração da base SINTÉTICA de Ativos da concessão (Bloco 07; D-019, D-020, D-021). Valores em R$ mil, salvo indicação. Totais de grupo = DFs reais (F0003 p.45 e p.47); abertura por contrato, mês, linha, usuário e fornecedor = sintética (premissa).",
+  "semente": 20251231,
+  "valor_medio_item_medicao_brl": 23500,
+  "sigma_lognormal_medicao": 1.3,
+  "usuarios_pagadores_total": 480,
+  "ipca_anual_premissa": 0.0426,
+  "_ipca_fonte": "F0003 (Relatório da Administração): IPCA de 4,26% em 2025; usado só como premissa de cálculo da remuneração mensal",
+  "fator_rap_jan_jun": 0.965,
+  "vencimento_dia": 15,
+  "prob_atraso": 0.04,
+  "sazonalidade_obras": [0.065,0.070,0.078,0.080,0.081,0.082,0.086,0.088,0.090,0.092,0.093,0.095],
+  "metas_mil": {
+    "fonte": "F0003 p.45 (nota 5.3), p.47 (nota 5.5) e p.23; perda esperada: p.47 (8.103 consolidado; 6.780 controladora)",
+    "OEM": {"Controladora": {"abertura_liquida": 136678, "perda_abertura": -3190, "receita": 1139825, "perda_movimento": -3590, "recebimentos": -1177581, "fechamento_liquido": 95332},
+            "Controlada":   {"abertura_liquida": 56386,  "perda_abertura": -627,  "receita": 125042,  "perda_movimento": -696,  "recebimentos": -117801,  "fechamento_liquido": 62931}},
+    "SE_FIN": {"abertura": 4990315, "remuneracao_bruta": 445000, "evento_REH_3466": -898790, "recebimentos": -1424270, "fechamento": 3112255},
+    "SE_ECO": {"abertura": 3113419, "remuneracao": 138858, "recebimentos": -140430, "fechamento": 3111847},
+    "IMPL":  {"Controladora": {"abertura": 15469771, "infraestrutura": 5682056, "eficiencia": -25884, "rtp": 166331, "remuneracao": 2432923, "recebimentos": -1792373, "fechamento": 21932824},
+              "Controlada":   {"abertura": 7280254,  "infraestrutura": 647992,  "eficiencia": 15371,  "rtp": -7128,  "remuneracao": 831246,  "recebimentos": -651626,  "fechamento": 8116109}},
+    "circulante": {"2024": {"consolidado": 3604640, "controladora": 2995312}, "2025": {"consolidado": 4106084, "controladora": 3389862}},
+    "publicado_total": {"2024": 31046823, "2025": 36431298, "controladora_2024": 23710183, "controladora_2025": 28252258, "ativo_contratual_2025": 36273035}
+  },
+  "_premissas_arbitradas": "Separação do SE em remuneração bruta 445.000 + evento REH 3.466/2025 (-898.790, real); remuneração SE_ECO = IPCA × saldo; divisão O&M × ativo contratual por grupo (O&M = toda a receita de O&M e a perda esperada); aberturas por contrato; taxas, margens e nº de usuários por contrato (arquivo SINTETICO_parametros_contratos.csv).",
+  "erro_esperado_didatico_mil": 9000
+}

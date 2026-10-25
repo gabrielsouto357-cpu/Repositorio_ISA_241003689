@@ -1,0 +1,9 @@
+{
+  "extrator_original": "99_Trabalho/scripts_B02/b02_extrair_dfs.py",
+  "sha256_extrator_original": "822487a6630ef1c7d692dd6b4eed37d56229c498b6152feb592b22a26145d864",
+  "poppler": "26.07.0",
+  "url_pacote": "https://conda.anaconda.org/conda-forge/win-64/poppler-26.07.0-h6618ce5_3.conda",
+  "sha256_pacote": "3fdbb4caf50ecae4fa447cb7a7d6d5b521a39ae8d4de4f6565e0ce9cd6d7f903",
+  "sha256_pdftotext": "1d1007cd28967c616282a6b29c2daac7902d68ba4563f8c57fcc8e153bb0466f",
+  "observacao": "Dependência executável externa, instalada no PATH; nenhum caminho temporário necessário aos scripts publicados. Consulta e execução efetivas em 22/10/2026."
+}

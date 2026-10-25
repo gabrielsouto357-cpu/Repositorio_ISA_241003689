@@ -1,0 +1,554 @@
+id_erro;id_lancamento_ref;campo;antes;depois;valor_brl
+E01;L2500035887;data_documento;2025-01-28;2024-12-19;9338.34
+E01;L2500027867;data_documento;2025-01-22;2024-12-09;3506.34
+E01;L2500035703;data_documento;2025-01-31;2024-12-19;3731.16
+E01;L2500029475;data_documento;2025-01-22;2024-12-13;38695.68
+E01;L2500003726;data_documento;2025-01-08;2024-12-21;48455.91
+E01;L2500028579;data_documento;2025-01-20;2024-12-18;14466.80
+E01;L2500023183;data_documento;2025-01-15;2024-12-21;1855.10
+E01;L2500002331;data_documento;2025-01-07;2024-12-22;14318.11
+E01;L2500042390;data_documento;2025-01-29;2024-12-15;40603.13
+E01;L2500025300;data_documento;2025-01-13;2024-12-15;32911.57
+E01;L2500028991;data_documento;2025-01-20;2024-12-14;46116.37
+E01;L2500030548;data_documento;2025-01-27;2024-12-18;28176.49
+E01;L2500031788;data_documento;2025-01-22;2024-12-12;123795.05
+E01;L2500027331;data_documento;2025-01-22;2024-12-09;30200.18
+E01;L2500001103;data_documento;2025-01-06;2024-12-04;845.97
+E01;L2500009911;data_documento;2025-01-13;2024-12-04;3596.11
+E01;L2500030529;data_documento;2025-01-24;2024-12-12;5641.97
+E01;L2500003793;data_documento;2025-01-06;2024-12-11;729.86
+E01;L2500030219;data_documento;2025-01-20;2024-12-05;73109.32
+E01;L2500005006;data_documento;2025-01-10;2024-12-18;13090.03
+E01;L2500002749;data_documento;2025-01-02;2024-12-17;310213.58
+E01;L2500031849;data_documento;2025-01-27;2024-12-02;3384.99
+E01;L2500005422;data_documento;2025-01-14;2024-12-13;9706.21
+E01;L2500032637;data_documento;2025-01-23;2024-12-05;1500.19
+E01;L2500004550;data_documento;2025-01-07;2024-12-22;86214.51
+E01;L2500027048;data_documento;2025-01-17;2024-12-05;112993.48
+E01;L2500032540;data_documento;2025-01-28;2024-12-07;12807.52
+E01;L2500023138;data_documento;2025-01-13;2024-12-15;82689.53
+E01;L2500027447;data_documento;2025-01-15;2024-12-07;18335.65
+E01;L2500035738;data_documento;2025-01-31;2024-12-16;9976.08
+E01;L2500042781;data_documento;2025-01-28;2024-12-21;67960.98
+E01;L2500029306;data_documento;2025-01-20;2024-12-16;5723.02
+E01;L2500003898;data_documento;2025-01-08;2024-12-14;45544.68
+E01;L2500035321;data_documento;2025-01-31;2024-12-14;23050.62
+E01;L2500032620;data_documento;2025-01-28;2024-12-05;5626.31
+E01;L2500000178;data_documento;2025-01-01;2024-12-03;21500.43
+E01;L2500009883;data_documento;2025-01-13;2024-12-15;38668.75
+E01;L2500000632;data_documento;2025-01-03;2024-12-18;35422.03
+E01;L2500035894;data_documento;2025-01-30;2024-12-17;39961.77
+E01;L2500026313;data_documento;2025-01-17;2024-12-17;9826.56
+E01;L2500025060;data_documento;2025-01-10;2024-12-06;20198.10
+E01;L2500031379;data_documento;2025-01-28;2024-12-15;3334.52
+E01;L2500031029;data_documento;2025-01-27;2024-12-06;118268.16
+E01;L2500042632;data_documento;2025-01-31;2024-12-05;17736.68
+E01;L2500027124;data_documento;2025-01-14;2024-12-12;4310.05
+E01;L2500026185;data_documento;2025-01-14;2024-12-08;121971.69
+E01;L2500025908;data_documento;2025-01-20;2024-12-08;2660.67
+E01;L2500029815;data_documento;2025-01-21;2024-12-19;20905.96
+E01;L2500004894;data_documento;2025-01-09;2024-12-16;20381.11
+E01;L2500027393;data_documento;2025-01-22;2024-12-05;1949.07
+E01;L2500027789;data_documento;2025-01-16;2024-12-18;4862.21
+E01;L2500031332;data_documento;2025-01-27;2024-12-16;2571.96
+E01;L2500026980;data_documento;2025-01-21;2024-12-11;3578.04
+E01;L2500042678;data_documento;2025-01-27;2024-12-15;8258.92
+E01;L2500042810;data_documento;2025-01-30;2024-12-22;4500.69
+E01;L2500032541;data_documento;2025-01-29;2024-12-12;9842.13
+E01;L2500042766;data_documento;2025-01-28;2024-12-18;30381.38
+E01;L2500005320;data_documento;2025-01-08;2024-12-19;2075.06
+E01;L2500003478;data_documento;2025-01-07;2024-12-06;21472.65
+E01;L2500001901;data_documento;2025-01-06;2024-12-23;26163.51
+E01;L2500002947;data_documento;2025-01-08;2024-12-10;10240.98
+E01;L2500024214;data_documento;2025-01-13;2024-12-11;23597.88
+E01;L2500009879;data_documento;2025-01-13;2024-12-21;15742.88
+E01;L2500035485;data_documento;2025-01-27;2024-12-23;7935.83
+E01;L2500003750;data_documento;2025-01-08;2024-12-23;9568.09
+E01;L2500029389;data_documento;2025-01-23;2024-12-23;12610.52
+E01;L2500042754;data_documento;2025-01-31;2024-12-16;75813.97
+E01;L2500005728;data_documento;2025-01-13;2024-12-10;1712.35
+E01;L2500035366;data_documento;2025-01-30;2024-12-09;4339.15
+E01;L2500042671;data_documento;2025-01-31;2024-12-16;10602.57
+E01;L2500028676;data_documento;2025-01-20;2024-12-04;26895.31
+E01;L2500032150;data_documento;2025-01-27;2024-12-07;247.44
+E01;L2500030706;data_documento;2025-01-24;2024-12-06;15192.80
+E01;L2500028962;data_documento;2025-01-24;2024-12-09;20914.86
+E01;L2500025874;data_documento;2025-01-14;2024-12-15;48594.43
+E01;L2500026935;data_documento;2025-01-20;2024-12-12;648.64
+E01;L2500032574;data_documento;2025-01-29;2024-12-05;17786.94
+E01;L2500027352;data_documento;2025-01-20;2024-12-02;19347.93
+E01;L2500025037;data_documento;2025-01-15;2024-12-21;73499.31
+E01;L2500001960;data_documento;2025-01-01;2024-12-05;3333.38
+E01;L2500025897;data_documento;2025-01-13;2024-12-20;14379.52
+E01;L2500032509;data_documento;2025-01-23;2024-12-04;7142.18
+E01;L2500005729;data_documento;2025-01-13;2024-12-06;104.21
+E01;L2500005018;data_documento;2025-01-08;2024-12-12;1760.97
+E01;L2500024985;data_documento;2025-01-17;2024-12-10;43187.77
+E01;L2500028542;data_documento;2025-01-16;2024-12-16;15321.45
+E01;L2500025427;data_documento;2025-01-15;2024-12-02;7587.39
+E01;L2500026304;data_documento;2025-01-16;2024-12-13;8785.95
+E01;L2500002675;data_documento;2025-01-02;2024-12-05;3293.58
+E01;L2500028267;data_documento;2025-01-23;2024-12-03;2925.32
+E01;L2500000616;data_documento;2025-01-03;2024-12-06;1369.72
+E01;L2500027480;data_documento;2025-01-22;2024-12-23;24918.26
+E01;L2500042619;data_documento;2025-01-27;2024-12-06;14069.36
+E01;L2500003388;data_documento;2025-01-09;2024-12-10;5226.08
+E01;L2500030530;data_documento;2025-01-21;2024-12-07;145577.44
+E01;L2500023130;data_documento;2025-01-10;2024-12-10;38389.39
+E01;L2500026182;data_documento;2025-01-13;2024-12-08;3363.53
+E01;L2500002605;data_documento;2025-01-08;2024-12-14;56461.22
+E01;L2500002636;data_documento;2025-01-08;2024-12-20;8989.42
+E01;L2500028969;data_documento;2025-01-17;2024-12-13;10122.30
+E01;L2500005682;data_documento;2025-01-08;2024-12-03;5797.98
+E01;L2500001305;data_documento;2025-01-06;2024-12-14;1266.20
+E01;L2500002643;data_documento;2025-01-08;2024-12-08;12045.62
+E01;L2500004972;data_documento;2025-01-07;2024-12-17;4817.63
+E01;L2500000794;data_documento;2025-01-02;2024-12-10;11708.02
+E01;L2500035633;data_documento;2025-01-31;2024-12-05;10456.18
+E01;L2500025312;data_documento;2025-01-16;2024-12-14;10269.13
+E01;L2500030682;data_documento;2025-01-24;2024-12-21;13630.10
+E01;L2500024308;data_documento;2025-01-14;2024-12-07;87.69
+E01;L2500035459;data_documento;2025-01-29;2024-12-05;3409.24
+E01;L2500026960;data_documento;2025-01-15;2024-12-18;14709.38
+E01;L2500028280;data_documento;2025-01-17;2024-12-04;99103.65
+E01;L2500026622;data_documento;2025-01-16;2024-12-09;2260.48
+E01;L2500035639;data_documento;2025-01-30;2024-12-19;2366.75
+E01;L2500031482;data_documento;2025-01-24;2024-12-06;2559.32
+E01;L2500025491;data_documento;2025-01-13;2024-12-06;71631.66
+E01;L2500003911;data_documento;2025-01-07;2024-12-13;5419.93
+E01;L2500030962;data_documento;2025-01-23;2024-12-10;1020.01
+E01;L2500002739;data_documento;2025-01-06;2024-12-14;46074.72
+E01;L2500001304;data_documento;2025-01-06;2024-12-17;39046.03
+E01;L2500028980;data_documento;2025-01-17;2024-12-20;8831.66
+E01;L2500029894;data_documento;2025-01-20;2024-12-15;3277.86
+E01;L2500043055;data_documento;2025-01-31;2024-12-19;1647.56
+E01;L2500029402;data_documento;2025-01-23;2024-12-06;1411.15
+E01;L2500000672;data_documento;2025-01-03;2024-12-07;32081.69
+E01;L2500005703;data_documento;2025-01-14;2024-12-05;1579.32
+E01;L2500004964;data_documento;2025-01-13;2024-12-14;11765.15
+E01;L2500027134;data_documento;2025-01-16;2024-12-17;4453.53
+E01;L2500030563;data_documento;2025-01-27;2024-12-21;3042.07
+E01;L2500042797;data_documento;2025-01-24;2024-12-20;1815.01
+E01;L2500001280;data_documento;2025-01-02;2024-12-22;7837.43
+E01;L2500005756;data_documento;2025-01-07;2024-12-05;8905.20
+E01;L2500005054;data_documento;2025-01-09;2024-12-19;24091.97
+E01;L2500003387;data_documento;2025-01-07;2024-12-06;8167.69
+E01;L2500042541;data_documento;2025-01-30;2024-12-10;5511.07
+E01;L2500001357;data_documento;2025-01-01;2024-12-18;798.13
+E01;L2500024680;data_documento;2025-01-15;2024-12-22;61151.93
+E01;L2500028220;data_documento;2025-01-22;2024-12-11;18919.00
+E01;L2500032596;data_documento;2025-01-29;2024-12-09;5891.37
+E01;L2500035631;data_documento;2025-01-31;2024-12-06;4486.41
+E01;L2500027742;data_documento;2025-01-20;2024-12-09;44136.88
+E01;L2500030165;data_documento;2025-01-23;2024-12-16;3491.68
+E01;L2500025936;data_documento;2025-01-14;2024-12-10;7819.75
+E01;L2500023038;data_documento;2025-01-09;2024-12-22;4927.00
+E01;L2500003897;data_documento;2025-01-10;2024-12-15;31499.46
+E01;L2500042946;data_documento;2025-01-29;2024-12-10;3938.17
+E01;L2500027910;data_documento;2025-01-22;2024-12-14;94995.14
+E01;L2500026939;data_documento;2025-01-20;2024-12-08;921.18
+E01;L2500028224;data_documento;2025-01-23;2024-12-14;10865.87
+E01;L2500035770;data_documento;2025-01-27;2024-12-22;20267.83
+E02;L2500577496;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-19;72927.61
+E02;L2500573499;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-09;7260.06
+E02;L2500544451;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-19;1422.56
+E02;L2500580491;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-19;6226.15
+E02;L2500582442;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-08;7319.11
+E02;L2500599010;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-08;2591.09
+E02;L2500543770;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-08;106825.86
+E02;L2500598848;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-08;257337.52
+E02;L2500584173;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-16;31593.60
+E02;L2500576659;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-17;17306.68
+E02;L2500572799;data_lancamento (movida para o arquivo de 2026);2025-12-17;2026-01-14;7662.42
+E02;L2500548764;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-20;1608.80
+E02;L2500574399;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-20;2637.30
+E02;L2500547776;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-08;59313.65
+E02;L2500576833;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-10;4014.74
+E02;L2500592823;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-18;66354.85
+E02;L2500582307;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-20;36743.25
+E02;L2500589353;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-11;21766.71
+E02;L2500545319;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-11;20288.51
+E02;L2500575423;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-18;3125.67
+E02;L2500599755;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-05;1668.78
+E02;L2500599766;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-06;36124.96
+E02;L2500579295;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-11;44187.79
+E02;L2500554624;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-18;1867.88
+E02;L2500544617;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-06;1342.68
+E02;L2500592903;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;8248.08
+E02;L2500598992;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;103792.62
+E02;L2500576705;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-12;64222.95
+E02;L2500548921;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-06;9387.79
+E02;L2500582335;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-15;8012.19
+E02;L2500580231;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-18;177645.72
+E02;L2500550484;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-11;2445.86
+E02;L2500589024;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-06;31253.41
+E02;L2500582269;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-15;7122.32
+E02;L2500577746;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-06;198616.64
+E02;L2500574805;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-15;17883.68
+E02;L2500569948;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-15;1711.55
+E02;L2500581069;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-12;37061.32
+E02;L2500571202;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-12;10204.02
+E02;L2500547576;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-20;1927.64
+E02;L2500580100;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-16;48740.82
+E02;L2500575604;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-19;111382.13
+E02;L2500544460;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-15;2469.46
+E02;L2500577893;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-20;846.38
+E02;L2500582385;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-13;5174.71
+E02;L2500547128;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-15;5374.29
+E02;L2500598674;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;21197.75
+E02;L2500550069;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-14;4265.77
+E02;L2500572017;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-17;13357.12
+E02;L2500576823;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-14;21407.40
+E02;L2500544749;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-14;11796.73
+E02;L2500544127;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-06;48078.90
+E02;L2500576398;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-18;13429.97
+E02;L2500544951;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-11;7517.43
+E02;L2500586491;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-11;8891.68
+E02;L2500582748;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-05;42494.24
+E02;L2500559100;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-07;17966.96
+E02;L2500571289;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-11;3291.84
+E02;L2500588904;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-13;731.50
+E02;L2500546618;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-20;4544.01
+E02;L2500571284;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-09;44630.39
+E02;L2500574654;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-17;67172.01
+E02;L2500547650;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-10;42489.00
+E02;L2500589253;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-05;45701.28
+E02;L2500576650;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-20;118317.02
+E02;L2500543589;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-11;1657.33
+E02;L2500593224;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-20;6840.66
+E02;L2500546486;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-09;152473.35
+E02;L2500580921;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-18;60608.30
+E02;L2500580252;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-09;3183.31
+E02;L2500544000;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-10;135768.36
+E02;L2500599299;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-06;7810.81
+E02;L2500548788;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-19;49141.14
+E02;L2500548267;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-15;2151.03
+E02;L2500546420;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-06;103536.05
+E02;L2500582415;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-17;2419.50
+E02;L2500542993;data_lancamento (movida para o arquivo de 2026);2025-12-01;2026-01-11;3241.58
+E02;L2500577553;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-17;10944.35
+E02;L2500588844;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-20;9412.12
+E02;L2500550454;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-08;1123.25
+E02;L2500598987;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-06;6835.71
+E02;L2500543426;data_lancamento (movida para o arquivo de 2026);2025-12-02;2026-01-20;104913.20
+E02;L2500543110;data_lancamento (movida para o arquivo de 2026);2025-12-02;2026-01-06;31006.14
+E02;L2500580091;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-13;6761.87
+E02;L2500577058;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-18;27879.13
+E02;L2500545364;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-10;59119.03
+E02;L2500547887;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-14;2406.23
+E02;L2500571899;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-18;3091.36
+E02;L2500551358;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-06;519.70
+E02;L2500599101;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-09;121851.25
+E02;L2500593090;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-17;13685.03
+E02;L2500549050;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-15;3696.46
+E02;L2500589167;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-09;18256.33
+E02;L2500582495;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-12;11948.44
+E02;L2500581055;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-09;12530.76
+E02;L2500544831;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-06;151679.54
+E02;L2500545893;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-11;648.66
+E02;L2500582296;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-11;1222.69
+E02;L2500580887;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-08;11124.42
+E02;L2500576993;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-17;2261.27
+E02;L2500571262;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-08;9355.60
+E02;L2500580340;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-19;2606.22
+E02;L2500586472;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-13;5915.57
+E02;L2500592867;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;4951.93
+E02;L2500544123;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-19;3948.80
+E02;L2500570029;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-14;18935.92
+E02;L2500549335;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-10;25825.00
+E02;L2500576453;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-11;11561.20
+E02;L2500574002;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-05;14143.36
+E02;L2500576450;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-14;29516.54
+E02;L2500554625;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-19;15629.26
+E02;L2500598927;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-19;21071.71
+E02;L2500581219;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-05;3272.95
+E02;L2500574273;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-20;2267.44
+E02;L2500579915;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-19;6652.11
+E02;L2500549001;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-20;39495.81
+E02;L2500543528;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-06;4094.10
+E02;L2500584069;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-20;115015.95
+E02;L2500581082;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-12;2967.35
+E02;L2500574364;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-05;2538.51
+E02;L2500593064;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;233544.78
+E02;L2500544768;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-10;1763.11
+E02;L2500577111;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-19;6359.15
+E02;L2500549435;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-13;9188.70
+E02;L2500576413;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-06;14763.78
+E02;L2500574037;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-08;25923.44
+E02;L2500543604;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-16;10403.34
+E02;L2500569996;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-16;2218.39
+E02;L2500599649;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-12;36005.88
+E02;L2500571282;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-18;13492.78
+E02;L2500549301;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-05;70298.52
+E02;L2500549879;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-16;48824.50
+E02;L2500550406;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-09;10012.06
+E02;L2500588875;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-10;3471.17
+E02;L2500543382;data_lancamento (movida para o arquivo de 2026);2025-12-02;2026-01-10;1713.30
+E02;L2500547925;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-13;39591.36
+E02;L2500581637;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-05;23370.83
+E02;L2500580257;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-05;18590.23
+E02;L2500598718;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-10;1167.73
+E02;L2500559076;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-18;14663.55
+E02;L2500549264;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-12;5822.90
+E02;L2500580189;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-07;2885.63
+E02;L2500551161;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-15;126786.39
+E02;L2500577028;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-17;18986.41
+E02;L2500575259;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-15;9136.40
+E02;L2500582275;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-12;10690.29
+E02;L2500592801;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-13;639.17
+E02;L2500582736;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-16;24344.03
+E02;L2500545599;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-16;25598.51
+E02;L2500582716;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-18;989.86
+E02;L2500550503;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-13;6394.89
+E02;L2500572278;data_lancamento (movida para o arquivo de 2026);2025-12-17;2026-01-15;3787.38
+E02;L2500551193;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-18;8846.25
+E02;L2500589425;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-13;18802.01
+E02;L2500579371;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-19;9088.00
+E02;L2500559172;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-05;66220.91
+E02;L2500572263;data_lancamento (movida para o arquivo de 2026);2025-12-17;2026-01-08;4715.71
+E02;L2500582272;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-17;21421.38
+E02;L2500578875;data_lancamento (movida para o arquivo de 2026);2025-12-24;2026-01-17;135.95
+E02;L2500588856;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-14;81466.71
+E02;L2500551038;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-17;45605.31
+E02;L2500551233;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-13;4390.25
+E02;L2500548947;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-08;97378.66
+E02;L2500577628;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-10;12768.60
+E02;L2500542837;data_lancamento (movida para o arquivo de 2026);2025-12-01;2026-01-05;45736.10
+E02;L2500586251;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-19;2877.95
+E02;L2500588942;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;11328.87
+E02;L2500548625;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-12;51326.31
+E02;L2500589162;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-09;9093.73
+E02;L2500580857;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-18;10756.49
+E02;L2500573307;data_lancamento (movida para o arquivo de 2026);2025-12-17;2026-01-13;2939.34
+E02;L2500559124;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-11;1808.91
+E02;L2500549834;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-17;2406.56
+E02;L2500580106;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-11;107689.49
+E02;L2500554745;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-05;14329.46
+E02;L2500559106;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-16;8764.61
+E02;L2500544215;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-08;4491.66
+E02;L2500580367;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-19;10163.98
+E02;L2500579255;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-11;28951.72
+E02;L2500582750;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-19;4673.49
+E02;L2500574657;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-17;506.50
+E02;L2500581485;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-13;14825.37
+E02;L2500599618;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-16;8424.21
+E02;L2500544752;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-19;6867.93
+E02;L2500543031;data_lancamento (movida para o arquivo de 2026);2025-12-01;2026-01-18;55793.18
+E02;L2500544015;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-07;1720.43
+E02;L2500573507;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-10;3669.53
+E02;L2500581573;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-13;12696.46
+E02;L2500574526;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-12;347481.60
+E02;L2500582698;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-09;46291.35
+E02;L2500544941;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-18;6438.95
+E02;L2500582500;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-15;10563.83
+E02;L2500547046;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-18;4717.99
+E02;L2500544868;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-11;2120.74
+E02;L2500586303;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-06;1798.91
+E02;L2500545539;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-13;20186.83
+E02;L2500592949;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-19;20964.99
+E02;L2500577596;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-19;14401.78
+E02;L2500582461;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-10;23950.96
+E02;L2500593137;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-05;2677.10
+E02;L2500543085;data_lancamento (movida para o arquivo de 2026);2025-12-02;2026-01-06;15550.24
+E02;L2500598629;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-20;8258.95
+E02;L2500575991;data_lancamento (movida para o arquivo de 2026);2025-12-22;2026-01-06;18391.40
+E02;L2500545952;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-12;711.54
+E02;L2500542930;data_lancamento (movida para o arquivo de 2026);2025-12-01;2026-01-18;8261.22
+E02;L2500582544;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-10;20211.78
+E02;L2500598860;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-13;991.03
+E02;L2500571149;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-08;12987.46
+E02;L2500544783;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-15;10940.02
+E02;L2500578727;data_lancamento (movida para o arquivo de 2026);2025-12-24;2026-01-09;3081.95
+E02;L2500577573;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-20;4694.03
+E02;L2500546644;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-17;31951.92
+E02;L2500554718;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-16;1827.87
+E02;L2500543992;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-15;16042.83
+E02;L2500577837;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-08;10050.48
+E02;L2500574351;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-14;3810.67
+E02;L2500549113;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-17;5734.88
+E02;L2500581250;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-09;29410.04
+E02;L2500544773;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-09;7026.75
+E02;L2500575161;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-14;11126.39
+E02;L2500546610;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-16;15208.71
+E02;L2500571160;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-20;8203.48
+E02;L2500545638;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-09;636.06
+E02;L2500580373;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-08;16339.24
+E02;L2500571290;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-16;61150.76
+E02;L2500549277;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-20;6849.54
+E02;L2500584155;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-18;742.96
+E02;L2500548943;data_lancamento (movida para o arquivo de 2026);2025-12-10;2026-01-07;471.46
+E02;L2500578954;data_lancamento (movida para o arquivo de 2026);2025-12-24;2026-01-20;2806.91
+E02;L2500544626;data_lancamento (movida para o arquivo de 2026);2025-12-04;2026-01-11;1627.35
+E02;L2500575494;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-15;58230.65
+E02;L2500551331;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-13;1695.50
+E02;L2500572084;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-14;8079.95
+E02;L2500575408;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-14;20020.42
+E02;L2500573657;data_lancamento (movida para o arquivo de 2026);2025-12-18;2026-01-20;3984.09
+E02;L2500574686;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-11;32374.41
+E02;L2500581178;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-05;2901.74
+E02;L2500586173;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-08;26772.52
+E02;L2500593068;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-20;10644.08
+E02;L2500572071;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-08;9871.88
+E02;L2500543994;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-11;166752.54
+E02;L2500570003;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-12;1990.52
+E02;L2500554722;data_lancamento (movida para o arquivo de 2026);2025-12-15;2026-01-10;2338.67
+E02;L2500550331;data_lancamento (movida para o arquivo de 2026);2025-12-12;2026-01-08;6002.36
+E02;L2500544858;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-12;229.05
+E02;L2500543959;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-17;8344.02
+E02;L2500580159;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-06;18527.79
+E02;L2500549909;data_lancamento (movida para o arquivo de 2026);2025-12-11;2026-01-14;24339.72
+E02;L2500545466;data_lancamento (movida para o arquivo de 2026);2025-12-05;2026-01-15;74756.76
+E02;L2500575462;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-09;27160.89
+E02;L2500577803;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-14;35248.87
+E02;L2500581339;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-10;4503.38
+E02;L2500575575;data_lancamento (movida para o arquivo de 2026);2025-12-19;2026-01-07;9173.50
+E02;L2500543979;data_lancamento (movida para o arquivo de 2026);2025-12-03;2026-01-17;998.99
+E02;L2500578988;data_lancamento (movida para o arquivo de 2026);2025-12-24;2026-01-10;96415.29
+E02;L2500578627;data_lancamento (movida para o arquivo de 2026);2025-12-24;2026-01-15;858.00
+E02;L2500579753;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-15;19643.03
+E02;L2500547889;data_lancamento (movida para o arquivo de 2026);2025-12-09;2026-01-20;6222.92
+E02;L2500545911;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-15;16445.49
+E02;L2500581290;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-05;204.93
+E02;L2500580909;data_lancamento (movida para o arquivo de 2026);2025-12-26;2026-01-10;34315.12
+E02;L2500543112;data_lancamento (movida para o arquivo de 2026);2025-12-02;2026-01-16;10387.67
+E02;L2500572279;data_lancamento (movida para o arquivo de 2026);2025-12-17;2026-01-08;29201.13
+E02;L2500546716;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-19;19996.00
+E02;L2500584040;data_lancamento (movida para o arquivo de 2026);2025-12-30;2026-01-17;12120.86
+E02;L2500582061;data_lancamento (movida para o arquivo de 2026);2025-12-29;2026-01-20;4671.29
+E02;L2500571921;data_lancamento (movida para o arquivo de 2026);2025-12-16;2026-01-06;11972.30
+E02;L2500577557;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-09;16924.88
+E02;L2500576937;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-17;8391.00
+E02;L2500545865;data_lancamento (movida para o arquivo de 2026);2025-12-08;2026-01-12;1290.92
+E02;L2500598756;data_lancamento (movida para o arquivo de 2026);2025-12-31;2026-01-18;30438.55
+E02;L2500577600;data_lancamento (movida para o arquivo de 2026);2025-12-23;2026-01-05;90168.71
+E02;L2500579819;data_lancamento (movida para o arquivo de 2026);2025-12-25;2026-01-15;94267.96
+E03;L2500135978;linha nova (duplicata do documento);;MED-0592001-0044025;154606.39
+E03;L2500097268;linha nova (duplicata do documento);;MED-0592001-0054652;225410.60
+E03;L2500549391;linha nova (duplicata do documento);;MED-0062023-0036863;110748.52
+E03;L2500392057;linha nova (duplicata do documento);;MED-0592001-0007764;120616.35
+E03;L2500287423;linha nova (duplicata do documento);;MED-0122023-0039084;135571.64
+E03;L2500094040;linha nova (duplicata do documento);;MED-0592001-0014706;115503.67
+E03;L2500524380;linha nova (duplicata do documento);;MED-0592001-0032774;243034.42
+E03;L2500286771;linha nova (duplicata do documento);;MED-0062023-0002374;127054.34
+E03;L2500268128;linha nova (duplicata do documento);;MED-0592001-0065530;130894.17
+E03;L2500521307;linha nova (duplicata do documento);;MED-0122023-0006722;85358.64
+E03;L2500141859;linha nova (duplicata do documento);;MED-0592001-0078320;126046.84
+E03;L2500070814;linha nova (duplicata do documento);;MED-0592001-0074383;80759.09
+E03;L2500548256;linha nova (duplicata do documento);;MED-0062023-0035006;134958.88
+E03;L2500386824;linha nova (duplicata do documento);;MED-0592001-0000724;80371.46
+E03;L2500289441;linha nova (duplicata do documento);;MED-0122023-0038241;113676.86
+E03;L2500189913;linha nova (duplicata do documento);;MED-0122023-0029911;228355.11
+E03;L2500472895;linha nova (duplicata do documento);;MED-0592001-0061036;344969.42
+E03;L2500498779;linha nova (duplicata do documento);;MED-0592001-0015166;205067.34
+E03;L2500497648;linha nova (duplicata do documento);;MED-0592001-0033737;168430.93
+E03;L2500528340;linha nova (duplicata do documento);;MED-0592001-0034853;84722.05
+E03;L2500034393;linha nova (duplicata do documento);;MED-0062023-0005664;118467.13
+E03;L2500232565;linha nova (duplicata do documento);;MED-0592001-0018183;93618.96
+E03;L2500426438;linha nova (duplicata do documento);;MED-0062023-0034032;92532.47
+E03;L2500188874;linha nova (duplicata do documento);;MED-0122023-0010975;146530.50
+E03;L2500265968;linha nova (duplicata do documento);;MED-0592001-0049379;153873.33
+E03;L2500094453;linha nova (duplicata do documento);;MED-0062023-0028994;118781.23
+E03;L2500094031;linha nova (duplicata do documento);;MED-0592001-0013464;80480.87
+E03;L2500093328;linha nova (duplicata do documento);;MED-0062023-0013732;98638.69
+E03;L2500422623;linha nova (duplicata do documento);;MED-0592001-0048781;93018.11
+E03;L2500573178;linha nova (duplicata do documento);;MED-0592001-0035676;132390.64
+E03;L2500426282;linha nova (duplicata do documento);;MED-0062023-0022813;100265.75
+E03;L2500497680;linha nova (duplicata do documento);;MED-0592001-0042356;214619.84
+E03;L2500361532;linha nova (duplicata do documento);;MED-0062023-0050358;149518.65
+E03;L2500472066;linha nova (duplicata do documento);;MED-0062023-0029293;147238.74
+E03;L2500284527;linha nova (duplicata do documento);;MED-0122023-0022190;137378.49
+E04;L2500312502;valor_movimento_brl;31385.49;33185.49;1800.00
+E04;L2500540882;valor_movimento_brl;33918.32;39318.32;5400.00
+E04;L2500438178;valor_movimento_brl;32435.80;34235.80;1800.00
+E04;L2500463246;valor_movimento_brl;61732.33;67132.33;5400.00
+E04;L2500214818;valor_movimento_brl;92749.95;97249.95;4500.00
+E04;L2500027094;valor_movimento_brl;223516.48;225316.48;1800.00
+E04;L2500262007;valor_movimento_brl;53918.32;59318.32;5400.00
+E04;L2500598876;valor_movimento_brl;21823.03;28123.03;6300.00
+E04;L2500188988;valor_movimento_brl;91969.23;99169.23;7200.00
+E04;L2500045284;valor_movimento_brl;52748.81;57248.81;4500.00
+E04;L2500546725;valor_movimento_brl;22410.45;24210.45;1800.00
+E04;L2500033128;valor_movimento_brl;25703.07;27503.07;1800.00
+E04;L2500269430;valor_movimento_brl;30327.00;33027.00;2700.00
+E04;L2500476663;valor_movimento_brl;32338.70;33238.70;900.00
+E04;L2500497192;valor_movimento_brl;51394.45;53194.45;1800.00
+E04;L2500235658;valor_movimento_brl;42930.82;49230.82;6300.00
+E04;L2500227120;valor_movimento_brl;52752.62;57252.62;4500.00
+E04;L2500286920;valor_movimento_brl;130168.83;131068.83;900.00
+E04;L2500524868;valor_movimento_brl;62448.78;64248.78;1800.00
+E04;L2500002347;valor_movimento_brl;849948.99;8499489.90;7649540.91
+E05;;linha nova;;006/2023 23:41;12000000.00
+E05;;linha nova;;012/2023 23:47;3500000.00
+E06;L2500487389;"valor_movimento_brl; taxa_implicita_aa";6743592.95;8413645.62;1670052.67
+E06;L2500540592;"valor_movimento_brl; taxa_implicita_aa";6753520.47;8426031.69;1672511.22
+E06;L2500598581;"valor_movimento_brl; taxa_implicita_aa";6763924.57;8439012.37;1675087.80
+E07;;linha nova;;MED-0592001-9100000;92661.30
+E07;;linha nova;;MED-0592001-9100037;46427.58
+E07;;linha nova;;MED-0592001-9100074;78726.38
+E07;;linha nova;;MED-0592001-9100111;50812.51
+E07;;linha nova;;MED-0592001-9100148;74664.29
+E07;;linha nova;;MED-0592001-9100185;61984.45
+E07;;linha nova;;MED-0592001-9100222;61508.75
+E07;;linha nova;;MED-0592001-9100259;24672.27
+E07;;linha nova;;MED-0592001-9100296;112255.89
+E07;;linha nova;;MED-0592001-9100333;32150.36
+E07;;linha nova;;MED-0592001-9100370;27081.23
+E07;;linha nova;;MED-0592001-9100407;25324.73
+E07;;linha nova;;MED-0592001-9100444;54872.51
+E07;;linha nova;;MED-0592001-9100481;158094.39
+E07;;linha nova;;MED-0592001-9100518;18986.76
+E07;;linha nova;;MED-0592001-9100555;40688.28
+E07;;linha nova;;MED-0592001-9100592;116109.87
+E07;;linha nova;;MED-0592001-9100629;79920.65
+E07;;linha nova;;MED-0592001-9100666;115218.29
+E07;;linha nova;;MED-0592001-9100703;41842.80
+E07;;linha nova;;MED-0592001-9100740;38628.31
+E07;;linha nova;;MED-0592001-9100777;383944.31
+E07;;linha nova;;MED-0592001-9100814;146381.67
+E07;;linha nova;;MED-0592001-9100851;227691.76
+E07;;linha nova;;MED-0592001-9100888;36447.03
+E07;;linha nova;;MED-0592001-9100925;28680.72
+E07;;linha nova;;MED-0592001-9100962;55619.77
+E07;;linha nova;;MED-0592001-9100999;251955.26
+E07;;linha nova;;MED-0592001-9101036;120863.92
+E07;;linha nova;;MED-0592001-9101073;65674.72
+E07;;linha nova;;MED-0592001-9101110;64472.50
+E07;;linha nova;;MED-0592001-9101147;34532.04
+E07;;linha nova;;MED-0592001-9101184;243126.01
+E07;;linha nova;;MED-0592001-9101221;34481.39
+E07;;linha nova;;MED-0592001-9101258;66088.16
+E07;;linha nova;;MED-0592001-9101295;43632.90
+E07;;linha nova;;MED-0592001-9101332;35784.22
+E07;;linha nova;;MED-0592001-9101369;24047.77
+E07;;linha nova;;MED-0592001-9101406;35244.64
+E07;;linha nova;;MED-0592001-9101443;69928.27
+E07;;linha nova;;MED-0592001-9101480;154367.85
+E07;;linha nova;;MED-0592001-9101517;44290.31
+E07;;linha nova;;MED-0592001-9101554;62573.14
+E07;;linha nova;;MED-0592001-9101591;43169.43
+E07;;linha nova;;MED-0592001-9101628;31187.03
+E07;;linha nova;;MED-0592001-9101665;124575.75
+E07;;linha nova;;MED-0592001-9101702;26996.03
+E07;;linha nova;;MED-0592001-9101739;43041.87
+E07;;linha nova;;MED-0592001-9101776;47312.58
+E07;;linha nova;;MED-0592001-9101813;70589.36
+E07;;linha nova;;MED-0592001-9101850;123224.91
+E07;;linha nova;;MED-0592001-9101887;62346.85
+E07;;linha nova;;MED-0592001-9101924;37301.56
+E07;;linha nova;;MED-0592001-9101961;79544.94
+E07;;linha nova;;MED-0592001-9101998;21414.77
+E07;;linha nova;;MED-0592001-9102035;48174.33
+E07;;linha nova;;MED-0592001-9102072;107104.47
+E07;;linha nova;;MED-0592001-9102109;32536.68
+E07;;linha nova;;MED-0592001-9102146;63819.44
+E07;;linha nova;;MED-0592001-9102183;55200.04
+E08;L2500355965;"contrato; entidade";027/2017;018/2017;-635681.28
+E08;L2500355967;"contrato; entidade";027/2017;018/2017;-312385.31
+E08;L2500355979;"contrato; entidade";027/2017;018/2017;-296811.81
+E08;L2500355969;"contrato; entidade";027/2017;018/2017;-201808.82
+E08;L2500355991;"contrato; entidade";027/2017;018/2017;-164948.00
+E08;L2500355971;"contrato; entidade";027/2017;018/2017;-152623.41
+E08;L2500355973;"contrato; entidade";027/2017;018/2017;-118949.31
+E08;L2500356007;"contrato; entidade";027/2017;018/2017;-102836.84
+E09;L2500589958;valor_movimento_brl;-3589995.17;-2389995.17;1200000.00
+E10;(tabela de saldos);parcela_circulante_brl;65105919.74;125105919.74;60000000.00

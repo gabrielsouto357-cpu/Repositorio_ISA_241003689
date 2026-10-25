@@ -1,0 +1,589 @@
+teste;regra;arquivo;id_lancamento;id_documento;contrato;tipo_movimento;valor_brl;observacao;dist_saldo_brl;dist_resultado_brl
+TD-01;R6;2025;L2500582500;;006/2023;AJUSTE_MANUAL;12000000.0;Sem documento-suporte;12000000.0;12000000.0
+TD-01;R6;2025;L2500583897;;012/2023;AJUSTE_MANUAL;3500000.0;Sem documento-suporte;3500000.0;3500000.0
+TD-01;R4;2025;L2500005883;MED-0592001-9100037;059/2001;RECEITA_INFRA;46427.58;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";46427.58;46427.58
+TD-01;R4;2025;L2500005884;MED-0592001-9100925;059/2001;RECEITA_INFRA;28680.72;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";28680.72;28680.72
+TD-01;R4;2025;L2500024753;MED-0592001-9101998;059/2001;RECEITA_INFRA;21414.77;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";21414.77;21414.77
+TD-01;R4;2025;L2500025516;MED-0592001-9100333;059/2001;RECEITA_INFRA;32150.36;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";32150.36;32150.36
+TD-01;R4;2025;L2500026339;MED-0592001-9100444;059/2001;RECEITA_INFRA;54872.51;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";54872.51;54872.51
+TD-01;R4;2025;L2500029535;MED-0592001-9100222;059/2001;RECEITA_INFRA;61508.75;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";61508.75;61508.75
+TD-01;R4;2025;L2500072727;MED-0592001-9101110;059/2001;RECEITA_INFRA;64472.5;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";64472.5;64472.5
+TD-01;R4;2025;L2500076672;MED-0592001-9101924;059/2001;RECEITA_INFRA;37301.56;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";37301.56;37301.56
+TD-01;R4;2025;L2500113969;MED-0592001-9100629;059/2001;RECEITA_INFRA;79920.65;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";79920.65;79920.65
+TD-01;R4;2025;L2500118955;MED-0592001-9100555;059/2001;RECEITA_INFRA;40688.28;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";40688.28;40688.28
+TD-01;R4;2025;L2500121006;MED-0592001-9100592;059/2001;RECEITA_INFRA;116109.87;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";116109.87;116109.87
+TD-01;R4;2025;L2500139052;MED-0592001-9100962;059/2001;RECEITA_INFRA;55619.77;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";55619.77;55619.77
+TD-01;R4;2025;L2500141882;MED-0592001-9100111;059/2001;RECEITA_INFRA;50812.51;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";50812.51;50812.51
+TD-01;R4;2025;L2500143971;MED-0592001-9101739;059/2001;RECEITA_INFRA;43041.87;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";43041.87;43041.87
+TD-01;R4;2025;L2500167453;MED-0592001-9100703;059/2001;RECEITA_INFRA;41842.8;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";41842.8;41842.8
+TD-01;R4;2025;L2500169506;MED-0592001-9101073;059/2001;RECEITA_INFRA;65674.72;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";65674.72;65674.72
+TD-01;R4;2025;L2500170560;MED-0592001-9100259;059/2001;RECEITA_INFRA;24672.27;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";24672.27;24672.27
+TD-01;R4;2025;L2500186273;MED-0592001-9100148;059/2001;RECEITA_INFRA;74664.29;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";74664.29;74664.29
+TD-01;R4;2025;L2500186274;MED-0592001-9100851;059/2001;RECEITA_INFRA;227691.76;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";227691.76;227691.76
+TD-01;R4;2025;L2500189343;MED-0592001-9100370;059/2001;RECEITA_INFRA;27081.23;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";27081.23;27081.23
+TD-01;R4;2025;L2500190369;MED-0592001-9101480;059/2001;RECEITA_INFRA;154367.85;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";154367.85;154367.85
+TD-01;R4;2025;L2500192410;MED-0592001-9102072;059/2001;RECEITA_INFRA;107104.47;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";107104.47;107104.47
+TD-01;R4;2025;L2500215825;MED-0592001-9100814;059/2001;RECEITA_INFRA;146381.67;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";146381.67;146381.67
+TD-01;R4;2025;L2500218016;MED-0592001-9101184;059/2001;RECEITA_INFRA;243126.01;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";243126.01;243126.01
+TD-01;R4;2025;L2500238178;MED-0592001-9100740;059/2001;RECEITA_INFRA;38628.31;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";38628.31;38628.31
+TD-01;R4;2025;L2500260720;MED-0592001-9101147;059/2001;RECEITA_INFRA;34532.04;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";34532.04;34532.04
+TD-01;R4;2025;L2500261804;MED-0592001-9101665;059/2001;RECEITA_INFRA;124575.75;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";124575.75;124575.75
+TD-01;R4;2025;L2500268216;MED-0592001-9101221;059/2001;RECEITA_INFRA;34481.39;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";34481.39;34481.39
+TD-01;R4;2025;L2500269267;MED-0592001-9102035;059/2001;RECEITA_INFRA;48174.33;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";48174.33;48174.33
+TD-01;R4;2025;L2500312687;MED-0592001-9101702;059/2001;RECEITA_INFRA;26996.03;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";26996.03;26996.03
+TD-01;R4;2025;L2500312688;MED-0592001-9102146;059/2001;RECEITA_INFRA;63819.44;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";63819.44;63819.44
+TD-01;R4;2025;L2500315855;MED-0592001-9101591;059/2001;RECEITA_INFRA;43169.43;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";43169.43;43169.43
+TD-01;R4;2025;L2500318021;MED-0592001-9101295;059/2001;RECEITA_INFRA;43632.9;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";43632.9;43632.9
+TD-01;R4;2025;L2500318022;MED-0592001-9101961;059/2001;RECEITA_INFRA;79544.94;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";79544.94;79544.94
+TD-01;R4;2025;L2500336849;MED-0592001-9101628;059/2001;RECEITA_INFRA;31187.03;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";31187.03;31187.03
+TD-01;R4;2025;L2500339157;MED-0592001-9100000;059/2001;RECEITA_INFRA;92661.3;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";92661.3;92661.3
+TD-01;R4;2025;L2500339158;MED-0592001-9101887;059/2001;RECEITA_INFRA;62346.85;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";62346.85;62346.85
+TD-01;R4;2025;L2500360475;MED-0592001-9100888;059/2001;RECEITA_INFRA;36447.03;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";36447.03;36447.03
+TD-01;R4;2025;L2500361248;MED-0592001-9100481;059/2001;RECEITA_INFRA;158094.39;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";158094.39;158094.39
+TD-01;R4;2025;L2500361297;MED-0592001-9101258;059/2001;RECEITA_INFRA;66088.16;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";66088.16;66088.16
+TD-01;R4;2025;L2500361298;MED-0592001-9101776;059/2001;RECEITA_INFRA;47312.58;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";47312.58;47312.58
+TD-01;R4;2025;L2500363621;MED-0592001-9100296;059/2001;RECEITA_INFRA;112255.89;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";112255.89;112255.89
+TD-01;R4;2025;L2500365895;MED-0592001-9100407;059/2001;RECEITA_INFRA;25324.73;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";25324.73;25324.73
+TD-01;R4;2025;L2500369573;MED-0592001-9100518;059/2001;RECEITA_INFRA;18986.76;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";18986.76;18986.76
+TD-01;R4;2025;L2500393556;MED-0592001-9100777;059/2001;RECEITA_INFRA;383944.31;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";383944.31;383944.31
+TD-01;R4;2025;L2500393557;MED-0592001-9101406;059/2001;RECEITA_INFRA;35244.64;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";35244.64;35244.64
+TD-01;R4;2025;L2500416940;MED-0592001-9101517;059/2001;RECEITA_INFRA;44290.31;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";44290.31;44290.31
+TD-01;R4;2025;L2500420496;MED-0592001-9101443;059/2001;RECEITA_INFRA;69928.27;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";69928.27;69928.27
+TD-01;R4;2025;L2500463330;MED-0592001-9101850;059/2001;RECEITA_INFRA;123224.91;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";123224.91;123224.91
+TD-01;R4;2025;L2500466272;MED-0592001-9101554;059/2001;RECEITA_INFRA;62573.14;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";62573.14;62573.14
+TD-01;R4;2025;L2500466273;MED-0592001-9102183;059/2001;RECEITA_INFRA;55200.04;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";55200.04;55200.04
+TD-01;R4;2025;L2500469688;MED-0592001-9102109;059/2001;RECEITA_INFRA;32536.68;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";32536.68;32536.68
+TD-01;R4;2025;L2500492819;MED-0592001-9100074;059/2001;RECEITA_INFRA;78726.38;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";78726.38;78726.38
+TD-01;R4;2025;L2500495375;MED-0592001-9101813;059/2001;RECEITA_INFRA;70589.36;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";70589.36;70589.36
+TD-01;R4;2025;L2500516763;MED-0592001-9101036;059/2001;RECEITA_INFRA;120863.92;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";120863.92;120863.92
+TD-01;R4;2025;L2500519330;MED-0592001-9100999;059/2001;RECEITA_INFRA;251955.26;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";251955.26;251955.26
+TD-01;R4;2025;L2500526018;MED-0592001-9100185;059/2001;RECEITA_INFRA;61984.45;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";61984.45;61984.45
+TD-01;R4;2025;L2500526019;MED-0592001-9101369;059/2001;RECEITA_INFRA;24047.77;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";24047.77;24047.77
+TD-01;R4;2025;L2500551416;MED-0592001-9101332;059/2001;RECEITA_INFRA;35784.22;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";35784.22;35784.22
+TD-01;R4;2025;L2500572150;MED-0592001-9100666;059/2001;RECEITA_INFRA;115218.29;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";115218.29;115218.29
+TD-01;R1;2025;L2500286815;MED-0062023-0002374;006/2023;RECEITA_INFRA;127054.34;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500294104;MED-0062023-0002374;006/2023;RECEITA_INFRA;127054.34;Documento MED-0062023-0002374 lançado novamente;127054.34;127054.34
+TD-01;R1;2025;L2500034399;MED-0062023-0005664;006/2023;RECEITA_INFRA;118467.13;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500044234;MED-0062023-0005664;006/2023;RECEITA_INFRA;118467.13;Documento MED-0062023-0005664 lançado novamente;118467.13;118467.13
+TD-01;R1;2025;L2500093338;MED-0062023-0013732;006/2023;RECEITA_INFRA;98638.69;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500100276;MED-0062023-0013732;006/2023;RECEITA_INFRA;98638.69;Documento MED-0062023-0013732 lançado novamente;98638.69;98638.69
+TD-01;R1;2025;L2500426352;MED-0062023-0022813;006/2023;RECEITA_INFRA;100265.75;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500438298;MED-0062023-0022813;006/2023;RECEITA_INFRA;100265.75;Documento MED-0062023-0022813 lançado novamente;100265.75;100265.75
+TD-01;R1;2025;L2500094463;MED-0062023-0028994;006/2023;RECEITA_INFRA;118781.23;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500100277;MED-0062023-0028994;006/2023;RECEITA_INFRA;118781.23;Documento MED-0062023-0028994 lançado novamente;118781.23;118781.23
+TD-01;R1;2025;L2500472142;MED-0062023-0029293;006/2023;RECEITA_INFRA;147238.74;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500478838;MED-0062023-0029293;006/2023;RECEITA_INFRA;147238.74;Documento MED-0062023-0029293 lançado novamente;147238.74;147238.74
+TD-01;R1;2025;L2500426508;MED-0062023-0034032;006/2023;RECEITA_INFRA;92532.47;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500438439;MED-0062023-0034032;006/2023;RECEITA_INFRA;92532.47;Documento MED-0062023-0034032 lançado novamente;92532.47;92532.47
+TD-01;R1;2025;L2500548286;MED-0062023-0035006;006/2023;RECEITA_INFRA;134958.88;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500551405;MED-0062023-0035006;006/2023;RECEITA_INFRA;134958.88;Documento MED-0062023-0035006 lançado novamente;134958.88;134958.88
+TD-01;R1;2025;L2500549407;MED-0062023-0036863;006/2023;RECEITA_INFRA;110748.52;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500571232;MED-0062023-0036863;006/2023;RECEITA_INFRA;110748.52;Documento MED-0062023-0036863 lançado novamente;110748.52;110748.52
+TD-01;R1;2025;L2500361591;MED-0062023-0050358;006/2023;RECEITA_INFRA;149518.65;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500367219;MED-0062023-0050358;006/2023;RECEITA_INFRA;149518.65;Documento MED-0062023-0050358 lançado novamente;149518.65;149518.65
+TD-01;R1;2025;L2500521391;MED-0122023-0006722;012/2023;RECEITA_INFRA;85358.64;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500523287;MED-0122023-0006722;012/2023;RECEITA_INFRA;85358.64;Documento MED-0122023-0006722 lançado novamente;85358.64;85358.64
+TD-01;R1;2025;L2500188902;MED-0122023-0010975;012/2023;RECEITA_INFRA;146530.5;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500190937;MED-0122023-0010975;012/2023;RECEITA_INFRA;146530.5;Documento MED-0122023-0010975 lançado novamente;146530.5;146530.5
+TD-01;R1;2025;L2500284570;MED-0122023-0022190;012/2023;RECEITA_INFRA;137378.49;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500285363;MED-0122023-0022190;012/2023;RECEITA_INFRA;137378.49;Documento MED-0122023-0022190 lançado novamente;137378.49;137378.49
+TD-01;R1;2025;L2500189942;MED-0122023-0029911;012/2023;RECEITA_INFRA;228355.11;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500190354;MED-0122023-0029911;012/2023;RECEITA_INFRA;228355.11;Documento MED-0122023-0029911 lançado novamente;228355.11;228355.11
+TD-01;R1;2025;L2500289485;MED-0122023-0038241;012/2023;RECEITA_INFRA;113676.86;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500297759;MED-0122023-0038241;012/2023;RECEITA_INFRA;113676.86;Documento MED-0122023-0038241 lançado novamente;113676.86;113676.86
+TD-01;R1;2025;L2500287467;MED-0122023-0039084;012/2023;RECEITA_INFRA;135571.64;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500289854;MED-0122023-0039084;012/2023;RECEITA_INFRA;135571.64;Documento MED-0122023-0039084 lançado novamente;135571.64;135571.64
+TD-01;R1;2025;L2500386887;MED-0592001-0000724;059/2001;RECEITA_INFRA;80371.46;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500388036;MED-0592001-0000724;059/2001;RECEITA_INFRA;80371.46;Documento MED-0592001-0000724 lançado novamente;80371.46;80371.46
+TD-01;R1;2025;L2500392121;MED-0592001-0007764;059/2001;RECEITA_INFRA;120616.35;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500393592;MED-0592001-0007764;059/2001;RECEITA_INFRA;120616.35;Documento MED-0592001-0007764 lançado novamente;120616.35;120616.35
+TD-01;R1;2025;L2500094041;MED-0592001-0013464;059/2001;RECEITA_INFRA;80480.87;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500113968;MED-0592001-0013464;059/2001;RECEITA_INFRA;80480.87;Documento MED-0592001-0013464 lançado novamente;80480.87;80480.87
+TD-01;R1;2025;L2500094050;MED-0592001-0014706;059/2001;RECEITA_INFRA;115503.67;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500115555;MED-0592001-0014706;059/2001;RECEITA_INFRA;115503.67;Documento MED-0592001-0014706 lançado novamente;115503.67;115503.67
+TD-01;R1;2025;L2500498859;MED-0592001-0015166;059/2001;RECEITA_INFRA;205067.34;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500521702;MED-0592001-0015166;059/2001;RECEITA_INFRA;205067.34;Documento MED-0592001-0015166 lançado novamente;205067.34;205067.34
+TD-01;R1;2025;L2500232600;MED-0592001-0018183;059/2001;RECEITA_INFRA;93618.96;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500234282;MED-0592001-0018183;059/2001;RECEITA_INFRA;93618.96;Documento MED-0592001-0018183 lançado novamente;93618.96;93618.96
+TD-01;R1;2025;L2500524466;MED-0592001-0032774;059/2001;RECEITA_INFRA;243034.42;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500528418;MED-0592001-0032774;059/2001;RECEITA_INFRA;243034.42;Documento MED-0592001-0032774 lançado novamente;243034.42;243034.42
+TD-01;R1;2025;L2500497728;MED-0592001-0033737;059/2001;RECEITA_INFRA;168430.93;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500516762;MED-0592001-0033737;059/2001;RECEITA_INFRA;168430.93;Documento MED-0592001-0033737 lançado novamente;168430.93;168430.93
+TD-01;R1;2025;L2500528429;MED-0592001-0034853;059/2001;RECEITA_INFRA;84722.05;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500544014;MED-0592001-0034853;059/2001;RECEITA_INFRA;84722.05;Documento MED-0592001-0034853 lançado novamente;84722.05;84722.05
+TD-01;R1;2025;L2500573151;MED-0592001-0035676;059/2001;RECEITA_INFRA;132390.64;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500577762;MED-0592001-0035676;059/2001;RECEITA_INFRA;132390.64;Documento MED-0592001-0035676 lançado novamente;132390.64;132390.64
+TD-01;R1;2025;L2500497760;MED-0592001-0042356;059/2001;RECEITA_INFRA;214619.84;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500520465;MED-0592001-0042356;059/2001;RECEITA_INFRA;214619.84;Documento MED-0592001-0042356 lançado novamente;214619.84;214619.84
+TD-01;R1;2025;L2500135996;MED-0592001-0044025;059/2001;RECEITA_INFRA;154606.39;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500137823;MED-0592001-0044025;059/2001;RECEITA_INFRA;154606.39;Documento MED-0592001-0044025 lançado novamente;154606.39;154606.39
+TD-01;R1;2025;L2500422692;MED-0592001-0048781;059/2001;RECEITA_INFRA;93018.11;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500423783;MED-0592001-0048781;059/2001;RECEITA_INFRA;93018.11;Documento MED-0592001-0048781 lançado novamente;93018.11;93018.11
+TD-01;R1;2025;L2500266007;MED-0592001-0049379;059/2001;RECEITA_INFRA;153873.33;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500270358;MED-0592001-0049379;059/2001;RECEITA_INFRA;153873.33;Documento MED-0592001-0049379 lançado novamente;153873.33;153873.33
+TD-01;R1;2025;L2500097278;MED-0592001-0054652;059/2001;RECEITA_INFRA;225410.6;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500118854;MED-0592001-0054652;059/2001;RECEITA_INFRA;225410.6;Documento MED-0592001-0054652 lançado novamente;225410.6;225410.6
+TD-01;R1;2025;L2500472971;MED-0592001-0061036;059/2001;RECEITA_INFRA;344969.42;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500475177;MED-0592001-0061036;059/2001;RECEITA_INFRA;344969.42;Documento MED-0592001-0061036 lançado novamente;344969.42;344969.42
+TD-01;R1;2025;L2500268167;MED-0592001-0065530;059/2001;RECEITA_INFRA;130894.17;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500270359;MED-0592001-0065530;059/2001;RECEITA_INFRA;130894.17;Documento MED-0592001-0065530 lançado novamente;130894.17;130894.17
+TD-01;R1;2025;L2500070821;MED-0592001-0074383;059/2001;RECEITA_INFRA;80759.09;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500074732;MED-0592001-0074383;059/2001;RECEITA_INFRA;80759.09;Documento MED-0592001-0074383 lançado novamente;80759.09;80759.09
+TD-01;R1;2025;L2500141879;MED-0592001-0078320;059/2001;RECEITA_INFRA;126046.84;"Primeira ocorrência do documento repetido (examinada; sem distorção)";0.0;0.0
+TD-01;R1;2025;L2500143954;MED-0592001-0078320;059/2001;RECEITA_INFRA;126046.84;Documento MED-0592001-0078320 lançado novamente;126046.84;126046.84
+TD-01;R5;2025;L2500000178;MED-0592001-0006364;059/2001;RECEITA_INFRA;21500.43;Documento de 2024-12-03 (exercício anterior) registrado como receita de 2025;0.0;21500.43
+TD-01;R5;2025;L2500000616;MED-0082022-0010833;008/2022;RECEITA_INFRA;1369.72;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;1369.72
+TD-01;R5;2025;L2500000632;MED-0082022-0025619;008/2022;RECEITA_INFRA;35422.03;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;35422.03
+TD-01;R5;2025;L2500000672;MED-0082022-0054815;008/2022;RECEITA_INFRA;32081.69;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;32081.69
+TD-01;R5;2025;L2500000794;MED-0592001-0016164;059/2001;RECEITA_INFRA;11708.02;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;11708.02
+TD-01;R5;2025;L2500001103;MED-0082022-0033480;008/2022;RECEITA_INFRA;845.97;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;845.97
+TD-01;R5;2025;L2500001280;MED-0592001-0004692;059/2001;RECEITA_INFRA;7837.43;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;7837.43
+TD-01;R5;2025;L2500001304;MED-0592001-0019897;059/2001;RECEITA_INFRA;39046.03;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;39046.03
+TD-01;R5;2025;L2500001305;MED-0592001-0019907;059/2001;RECEITA_INFRA;1266.2;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;1266.2
+TD-01;R5;2025;L2500001357;MED-0592001-0044832;059/2001;RECEITA_INFRA;798.13;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;798.13
+TD-01;R5;2025;L2500001901;MED-0592001-0006958;059/2001;RECEITA_INFRA;26163.51;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;26163.51
+TD-01;R5;2025;L2500001960;MED-0592001-0033431;059/2001;RECEITA_INFRA;3333.38;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;3333.38
+TD-01;R5;2025;L2500002331;MED-0082022-0038243;008/2022;RECEITA_INFRA;14318.11;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;14318.11
+TD-01;R5;2025;L2500002605;MED-0592001-0008339;059/2001;RECEITA_INFRA;56461.22;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;56461.22
+TD-01;R5;2025;L2500002636;MED-0592001-0020079;059/2001;RECEITA_INFRA;8989.42;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;8989.42
+TD-01;R5;2025;L2500002643;MED-0592001-0023077;059/2001;RECEITA_INFRA;12045.62;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;12045.62
+TD-01;R5;2025;L2500002675;MED-0592001-0037634;059/2001;RECEITA_INFRA;3293.58;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;3293.58
+TD-01;R5;2025;L2500002739;MED-0592001-0064635;059/2001;RECEITA_INFRA;46074.72;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;46074.72
+TD-01;R5;2025;L2500002749;MED-0592001-0068715;059/2001;RECEITA_INFRA;310213.58;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;310213.58
+TD-01;R5;2025;L2500002947;MED-0082022-0000723;008/2022;RECEITA_INFRA;10240.98;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;10240.98
+TD-01;R5;2025;L2500003387;MED-0592001-0036201;059/2001;RECEITA_INFRA;8167.69;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;8167.69
+TD-01;R5;2025;L2500003388;MED-0592001-0036512;059/2001;RECEITA_INFRA;5226.08;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;5226.08
+TD-01;R5;2025;L2500003478;MED-0592001-0066869;059/2001;RECEITA_INFRA;21472.65;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;21472.65
+TD-01;R5;2025;L2500003726;MED-0082022-0000329;008/2022;RECEITA_INFRA;48455.91;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;48455.91
+TD-01;R5;2025;L2500003750;MED-0082022-0010321;008/2022;RECEITA_INFRA;9568.09;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;9568.09
+TD-01;R5;2025;L2500003793;MED-0082022-0024565;008/2022;RECEITA_INFRA;729.86;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;729.86
+TD-01;R5;2025;L2500003897;MED-0082022-0058978;008/2022;RECEITA_INFRA;31499.46;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;31499.46
+TD-01;R5;2025;L2500003898;MED-0082022-0059014;008/2022;RECEITA_INFRA;45544.68;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;45544.68
+TD-01;R5;2025;L2500003911;MED-0082022-0064517;008/2022;RECEITA_INFRA;5419.93;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;5419.93
+TD-01;R5;2025;L2500004550;MED-0082022-0024768;008/2022;RECEITA_INFRA;86214.51;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;86214.51
+TD-01;R5;2025;L2500004894;MED-0592001-0014139;059/2001;RECEITA_INFRA;20381.11;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;20381.11
+TD-01;R5;2025;L2500004964;MED-0592001-0037033;059/2001;RECEITA_INFRA;11765.15;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;11765.15
+TD-01;R5;2025;L2500004972;MED-0592001-0038767;059/2001;RECEITA_INFRA;4817.63;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;4817.63
+TD-01;R5;2025;L2500005006;MED-0592001-0051841;059/2001;RECEITA_INFRA;13090.03;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;13090.03
+TD-01;R5;2025;L2500005018;MED-0592001-0056820;059/2001;RECEITA_INFRA;1760.97;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;1760.97
+TD-01;R5;2025;L2500005054;MED-0592001-0072758;059/2001;RECEITA_INFRA;24091.97;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;24091.97
+TD-01;R5;2025;L2500005320;MED-0082022-0003522;008/2022;RECEITA_INFRA;2075.06;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;2075.06
+TD-01;R5;2025;L2500005422;MED-0082022-0045073;008/2022;RECEITA_INFRA;9706.21;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;9706.21
+TD-01;R5;2025;L2500005682;MED-0592001-0011874;059/2001;RECEITA_INFRA;5797.98;Documento de 2024-12-03 (exercício anterior) registrado como receita de 2025;0.0;5797.98
+TD-01;R5;2025;L2500005703;MED-0592001-0018148;059/2001;RECEITA_INFRA;1579.32;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;1579.32
+TD-01;R5;2025;L2500005728;MED-0592001-0025904;059/2001;RECEITA_INFRA;1712.35;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;1712.35
+TD-01;R5;2025;L2500005729;MED-0592001-0026324;059/2001;RECEITA_INFRA;104.21;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;104.21
+TD-01;R5;2025;L2500005756;MED-0592001-0035059;059/2001;RECEITA_INFRA;8905.2;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;8905.2
+TD-01;R5;2025;L2500009881;MED-0082022-0049180;008/2022;RECEITA_INFRA;15742.88;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;15742.88
+TD-01;R5;2025;L2500009885;MED-0082022-0050206;008/2022;RECEITA_INFRA;38668.75;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;38668.75
+TD-01;R5;2025;L2500009913;MED-0082022-0060535;008/2022;RECEITA_INFRA;3596.11;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;3596.11
+TD-01;R5;2025;L2500023040;MED-0592001-0021402;059/2001;RECEITA_INFRA;4927.0;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;4927.0
+TD-01;R5;2025;L2500023132;MED-0592001-0052661;059/2001;RECEITA_INFRA;38389.39;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;38389.39
+TD-01;R5;2025;L2500023140;MED-0592001-0056005;059/2001;RECEITA_INFRA;82689.53;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;82689.53
+TD-01;R5;2025;L2500023185;MED-0592001-0069646;059/2001;RECEITA_INFRA;1855.1;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;1855.1
+TD-01;R5;2025;L2500024216;MED-0082022-0023033;008/2022;RECEITA_INFRA;23597.88;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;23597.88
+TD-01;R5;2025;L2500024310;MED-0082022-0051121;008/2022;RECEITA_INFRA;87.69;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;87.69
+TD-01;R5;2025;L2500024682;MED-0592001-0052583;059/2001;RECEITA_INFRA;61151.93;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;61151.93
+TD-01;R5;2025;L2500024988;MED-0082022-0016479;008/2022;RECEITA_INFRA;43187.77;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;43187.77
+TD-01;R5;2025;L2500025040;MED-0082022-0036905;008/2022;RECEITA_INFRA;73499.31;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;73499.31
+TD-01;R5;2025;L2500025063;MED-0082022-0046521;008/2022;RECEITA_INFRA;20198.1;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;20198.1
+TD-01;R5;2025;L2500025303;MED-0592001-0004064;059/2001;RECEITA_INFRA;32911.57;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;32911.57
+TD-01;R5;2025;L2500025315;MED-0592001-0008470;059/2001;RECEITA_INFRA;10269.13;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;10269.13
+TD-01;R5;2025;L2500025430;MED-0592001-0046135;059/2001;RECEITA_INFRA;7587.39;Documento de 2024-12-02 (exercício anterior) registrado como receita de 2025;0.0;7587.39
+TD-01;R5;2025;L2500025494;MED-0592001-0069701;059/2001;RECEITA_INFRA;71631.66;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;71631.66
+TD-01;R5;2025;L2500025878;MED-0082022-0039567;008/2022;RECEITA_INFRA;48594.43;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;48594.43
+TD-01;R5;2025;L2500025901;MED-0082022-0044877;008/2022;RECEITA_INFRA;14379.52;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;14379.52
+TD-01;R5;2025;L2500025912;MED-0082022-0048124;008/2022;RECEITA_INFRA;2660.67;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;2660.67
+TD-01;R5;2025;L2500025940;MED-0082022-0058867;008/2022;RECEITA_INFRA;7819.75;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;7819.75
+TD-01;R5;2025;L2500026186;MED-0592001-0027998;059/2001;RECEITA_INFRA;3363.53;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;3363.53
+TD-01;R5;2025;L2500026189;MED-0592001-0028546;059/2001;RECEITA_INFRA;121971.69;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;121971.69
+TD-01;R5;2025;L2500026308;MED-0592001-0066572;059/2001;RECEITA_INFRA;8785.95;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;8785.95
+TD-01;R5;2025;L2500026317;MED-0592001-0070324;059/2001;RECEITA_INFRA;9826.56;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;9826.56
+TD-01;R5;2025;L2500026627;MED-0082022-0025817;008/2022;RECEITA_INFRA;2260.48;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;2260.48
+TD-01;R5;2025;L2500026940;MED-0592001-0003932;059/2001;RECEITA_INFRA;648.64;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;648.64
+TD-01;R5;2025;L2500026944;MED-0592001-0005778;059/2001;RECEITA_INFRA;921.18;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;921.18
+TD-01;R5;2025;L2500026965;MED-0592001-0011190;059/2001;RECEITA_INFRA;14709.38;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;14709.38
+TD-01;R5;2025;L2500026985;MED-0592001-0015870;059/2001;RECEITA_INFRA;3578.04;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;3578.04
+TD-01;R5;2025;L2500027053;MED-0592001-0045129;059/2001;RECEITA_INFRA;112993.48;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;112993.48
+TD-01;R5;2025;L2500027129;MED-0592001-0074856;059/2001;RECEITA_INFRA;4310.05;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;4310.05
+TD-01;R5;2025;L2500027139;MED-0592001-0077687;059/2001;RECEITA_INFRA;4453.53;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;4453.53
+TD-01;R5;2025;L2500027336;MED-0082022-0000056;008/2022;RECEITA_INFRA;30200.18;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;30200.18
+TD-01;R5;2025;L2500027357;MED-0082022-0010411;008/2022;RECEITA_INFRA;19347.93;Documento de 2024-12-02 (exercício anterior) registrado como receita de 2025;0.0;19347.93
+TD-01;R5;2025;L2500027398;MED-0082022-0027881;008/2022;RECEITA_INFRA;1949.07;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;1949.07
+TD-01;R5;2025;L2500027452;MED-0082022-0044676;008/2022;RECEITA_INFRA;18335.65;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;18335.65
+TD-01;R5;2025;L2500027485;MED-0082022-0053257;008/2022;RECEITA_INFRA;24918.26;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;24918.26
+TD-01;R5;2025;L2500027747;MED-0592001-0016941;059/2001;RECEITA_INFRA;44136.88;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;44136.88
+TD-01;R5;2025;L2500027794;MED-0592001-0032525;059/2001;RECEITA_INFRA;4862.21;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;4862.21
+TD-01;R5;2025;L2500027872;MED-0592001-0058515;059/2001;RECEITA_INFRA;3506.34;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;3506.34
+TD-01;R5;2025;L2500027915;MED-0592001-0077816;059/2001;RECEITA_INFRA;94995.14;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;94995.14
+TD-01;R5;2025;L2500028225;MED-0082022-0035170;008/2022;RECEITA_INFRA;18919.0;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;18919.0
+TD-01;R5;2025;L2500028229;MED-0082022-0037526;008/2022;RECEITA_INFRA;10865.87;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;10865.87
+TD-01;R5;2025;L2500028272;MED-0082022-0051290;008/2022;RECEITA_INFRA;2925.32;Documento de 2024-12-03 (exercício anterior) registrado como receita de 2025;0.0;2925.32
+TD-01;R5;2025;L2500028285;MED-0082022-0055628;008/2022;RECEITA_INFRA;99103.65;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;99103.65
+TD-01;R5;2025;L2500028547;MED-0592001-0020867;059/2001;RECEITA_INFRA;15321.45;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;15321.45
+TD-01;R5;2025;L2500028584;MED-0592001-0035945;059/2001;RECEITA_INFRA;14466.8;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;14466.8
+TD-01;R5;2025;L2500028681;MED-0592001-0069118;059/2001;RECEITA_INFRA;26895.31;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;26895.31
+TD-01;R5;2025;L2500028967;MED-0082022-0025530;008/2022;RECEITA_INFRA;20914.86;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;20914.86
+TD-01;R5;2025;L2500028974;MED-0082022-0028024;008/2022;RECEITA_INFRA;10122.3;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;10122.3
+TD-01;R5;2025;L2500028985;MED-0082022-0031810;008/2022;RECEITA_INFRA;8831.66;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;8831.66
+TD-01;R5;2025;L2500028996;MED-0082022-0035357;008/2022;RECEITA_INFRA;46116.37;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;46116.37
+TD-01;R5;2025;L2500029311;MED-0592001-0015450;059/2001;RECEITA_INFRA;5723.02;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;5723.02
+TD-01;R5;2025;L2500029394;MED-0592001-0045632;059/2001;RECEITA_INFRA;12610.52;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;12610.52
+TD-01;R5;2025;L2500029407;MED-0592001-0048949;059/2001;RECEITA_INFRA;1411.15;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;1411.15
+TD-01;R5;2025;L2500029480;MED-0592001-0070690;059/2001;RECEITA_INFRA;38695.68;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;38695.68
+TD-01;R5;2025;L2500029821;MED-0082022-0013464;008/2022;RECEITA_INFRA;20905.96;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;20905.96
+TD-01;R5;2025;L2500029900;MED-0082022-0039884;008/2022;RECEITA_INFRA;3277.86;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;3277.86
+TD-01;R5;2025;L2500030171;MED-0592001-0017804;059/2001;RECEITA_INFRA;3491.68;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;3491.68
+TD-01;R5;2025;L2500030225;MED-0592001-0039929;059/2001;RECEITA_INFRA;73109.32;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;73109.32
+TD-01;R5;2025;L2500030535;MED-0082022-0004532;008/2022;RECEITA_INFRA;5641.97;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;5641.97
+TD-01;R5;2025;L2500030536;MED-0082022-0004797;008/2022;RECEITA_INFRA;145577.44;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;145577.44
+TD-01;R5;2025;L2500030554;MED-0082022-0010919;008/2022;RECEITA_INFRA;28176.49;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;28176.49
+TD-01;R5;2025;L2500030569;MED-0082022-0015279;008/2022;RECEITA_INFRA;3042.07;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;3042.07
+TD-01;R5;2025;L2500030688;MED-0082022-0056481;008/2022;RECEITA_INFRA;13630.1;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;13630.1
+TD-01;R5;2025;L2500030712;MED-0082022-0065400;008/2022;RECEITA_INFRA;15192.8;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;15192.8
+TD-01;R5;2025;L2500030968;MED-0592001-0034866;059/2001;RECEITA_INFRA;1020.01;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;1020.01
+TD-01;R5;2025;L2500031035;MED-0592001-0063264;059/2001;RECEITA_INFRA;118268.16;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;118268.16
+TD-01;R5;2025;L2500031338;MED-0082022-0016154;008/2022;RECEITA_INFRA;2571.96;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;2571.96
+TD-01;R5;2025;L2500031385;MED-0082022-0032640;008/2022;RECEITA_INFRA;3334.52;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;3334.52
+TD-01;R5;2025;L2500031488;MED-0082022-0065660;008/2022;RECEITA_INFRA;2559.32;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;2559.32
+TD-01;R5;2025;L2500031794;MED-0592001-0038776;059/2001;RECEITA_INFRA;123795.05;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;123795.05
+TD-01;R5;2025;L2500031855;MED-0592001-0062806;059/2001;RECEITA_INFRA;3384.99;Documento de 2024-12-02 (exercício anterior) registrado como receita de 2025;0.0;3384.99
+TD-01;R5;2025;L2500032156;MED-0082022-0026310;008/2022;RECEITA_INFRA;247.44;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;247.44
+TD-01;R5;2025;L2500032515;MED-0592001-0017171;059/2001;RECEITA_INFRA;7142.18;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;7142.18
+TD-01;R5;2025;L2500032546;MED-0592001-0024798;059/2001;RECEITA_INFRA;12807.52;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;12807.52
+TD-01;R5;2025;L2500032547;MED-0592001-0025247;059/2001;RECEITA_INFRA;9842.13;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;9842.13
+TD-01;R5;2025;L2500032580;MED-0592001-0041060;059/2001;RECEITA_INFRA;17786.94;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;17786.94
+TD-01;R5;2025;L2500032602;MED-0592001-0049402;059/2001;RECEITA_INFRA;5891.37;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;5891.37
+TD-01;R5;2025;L2500032626;MED-0592001-0056579;059/2001;RECEITA_INFRA;5626.31;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;5626.31
+TD-01;R5;2025;L2500032643;MED-0592001-0063348;059/2001;RECEITA_INFRA;1500.19;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;1500.19
+TD-01;R5;2025;L2500035327;MED-0082022-0001721;008/2022;RECEITA_INFRA;23050.62;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;23050.62
+TD-01;R5;2025;L2500035372;MED-0082022-0005647;008/2022;RECEITA_INFRA;4339.15;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;4339.15
+TD-01;R5;2025;L2500035465;MED-0082022-0015376;008/2022;RECEITA_INFRA;3409.24;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;3409.24
+TD-01;R5;2025;L2500035491;MED-0082022-0017766;008/2022;RECEITA_INFRA;7935.83;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;7935.83
+TD-01;R5;2025;L2500035637;MED-0082022-0032839;008/2022;RECEITA_INFRA;4486.41;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;4486.41
+TD-01;R5;2025;L2500035639;MED-0082022-0033182;008/2022;RECEITA_INFRA;10456.18;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;10456.18
+TD-01;R5;2025;L2500035645;MED-0082022-0033823;008/2022;RECEITA_INFRA;2366.75;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;2366.75
+TD-01;R5;2025;L2500035709;MED-0082022-0040711;008/2022;RECEITA_INFRA;3731.16;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;3731.16
+TD-01;R5;2025;L2500035744;MED-0082022-0044902;008/2022;RECEITA_INFRA;9976.08;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;9976.08
+TD-01;R5;2025;L2500035776;MED-0082022-0048441;008/2022;RECEITA_INFRA;20267.83;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;20267.83
+TD-01;R5;2025;L2500035893;MED-0082022-0059313;008/2022;RECEITA_INFRA;9338.34;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;9338.34
+TD-01;R5;2025;L2500035900;MED-0082022-0060282;008/2022;RECEITA_INFRA;39961.77;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;39961.77
+TD-01;R5;2025;L2500042396;MED-0592001-0006739;059/2001;RECEITA_INFRA;40603.13;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;40603.13
+TD-01;R5;2025;L2500042547;MED-0592001-0020794;059/2001;RECEITA_INFRA;5511.07;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;5511.07
+TD-01;R5;2025;L2500042625;MED-0592001-0027677;059/2001;RECEITA_INFRA;14069.36;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;14069.36
+TD-01;R5;2025;L2500042638;MED-0592001-0029205;059/2001;RECEITA_INFRA;17736.68;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;17736.68
+TD-01;R5;2025;L2500042677;MED-0592001-0035300;059/2001;RECEITA_INFRA;10602.57;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;10602.57
+TD-01;R5;2025;L2500042684;MED-0592001-0036254;059/2001;RECEITA_INFRA;8258.92;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;8258.92
+TD-01;R5;2025;L2500042760;MED-0592001-0043829;059/2001;RECEITA_INFRA;75813.97;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;75813.97
+TD-01;R5;2025;L2500042772;MED-0592001-0044994;059/2001;RECEITA_INFRA;30381.38;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;30381.38
+TD-01;R5;2025;L2500042787;MED-0592001-0046076;059/2001;RECEITA_INFRA;67960.98;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;67960.98
+TD-01;R5;2025;L2500042803;MED-0592001-0047486;059/2001;RECEITA_INFRA;1815.01;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;1815.01
+TD-01;R5;2025;L2500042816;MED-0592001-0048644;059/2001;RECEITA_INFRA;4500.69;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;4500.69
+TD-01;R5;2025;L2500042952;MED-0592001-0061107;059/2001;RECEITA_INFRA;3938.17;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;3938.17
+TD-01;R5;2025;L2500043061;MED-0592001-0071554;059/2001;RECEITA_INFRA;1647.56;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;1647.56
+TD-01;R2;2025;L2500002347;MED-0082022-0043497;008/2022;RECEITA_INFRA;8499489.9;Valor difere do custo × (1 + margem) em R$ 7,649,540.91;7649540.91;7649540.91
+TD-01;R2;2025;L2500027099;MED-0592001-0066132;059/2001;RECEITA_INFRA;225316.48;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500033134;MED-0012020-0002552;001/2020;RECEITA_INFRA;27503.07;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500045291;MED-0082022-0045012;008/2022;RECEITA_INFRA;57248.81;Valor difere do custo × (1 + margem) em R$ 4,500.00;4500.0;4500.0
+TD-01;R2;2025;L2500189016;MED-0142023-0000179;014/2023;RECEITA_INFRA;99169.23;Valor difere do custo × (1 + margem) em R$ 7,200.00;7200.0;7200.0
+TD-01;R2;2025;L2500214851;MED-0052021-0007500;005/2021;RECEITA_INFRA;97249.95;Valor difere do custo × (1 + margem) em R$ 4,500.00;4500.0;4500.0
+TD-01;R2;2025;L2500227155;MED-0122023-0005486;012/2023;RECEITA_INFRA;57252.62;Valor difere do custo × (1 + margem) em R$ 4,500.00;4500.0;4500.0
+TD-01;R2;2025;L2500235694;MED-0082022-0025411;008/2022;RECEITA_INFRA;49230.82;Valor difere do custo × (1 + margem) em R$ 6,300.00;6300.0;6300.0
+TD-01;R2;2025;L2500262046;MED-0062023-0045650;006/2023;RECEITA_INFRA;59318.32;Valor difere do custo × (1 + margem) em R$ 5,400.00;5400.0;5400.0
+TD-01;R2;2025;L2500269471;MED-0062023-0036118;006/2023;RECEITA_INFRA;33027.0;Valor difere do custo × (1 + margem) em R$ 2,700.00;2700.0;2700.0
+TD-01;R2;2025;L2500286964;MED-0062023-0039643;006/2023;RECEITA_INFRA;131068.83;Valor difere do custo × (1 + margem) em R$ 900.00;900.0;900.0
+TD-01;R2;2025;L2500312549;MED-0592001-0049522;059/2001;RECEITA_INFRA;33185.49;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500438248;MED-0592001-0065540;059/2001;RECEITA_INFRA;34235.8;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500463318;MED-0592001-0075965;059/2001;RECEITA_INFRA;67132.33;Valor difere do custo × (1 + margem) em R$ 5,400.00;5400.0;5400.0
+TD-01;R2;2025;L2500476740;MED-0012020-0000290;001/2020;RECEITA_INFRA;33238.7;Valor difere do custo × (1 + margem) em R$ 900.00;900.0;900.0
+TD-01;R2;2025;L2500497272;MED-0082022-0060349;008/2022;RECEITA_INFRA;53194.45;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500524954;MED-0062023-0037988;006/2023;RECEITA_INFRA;64248.78;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500540971;MED-0592001-0018747;059/2001;RECEITA_INFRA;39318.32;Valor difere do custo × (1 + margem) em R$ 5,400.00;5400.0;5400.0
+TD-01;R2;2025;L2500546763;MED-0592001-0037399;059/2001;RECEITA_INFRA;24210.45;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500598710;MED-0592001-0017835;059/2001;RECEITA_INFRA;28123.03;Valor difere do custo × (1 + margem) em R$ 6,300.01;6300.01;6300.01
+TD-02;JE;2025;L2500582500;;006/2023;AJUSTE_MANUAL;12000000.0;"Lançamento manual: sem documento; mesmo usuário lança e aprova; hora 23:41; usuário incomum (2 lançamentos); fim de período com valor ≥ CT";12000000.0;12000000.0
+TD-02;JE;2025;L2500583897;;012/2023;AJUSTE_MANUAL;3500000.0;"Lançamento manual: sem documento; mesmo usuário lança e aprova; hora 23:47; usuário incomum (2 lançamentos)";3500000.0;3500000.0
+TD-03;CORTE-2026;2026;L2600000206;MED-0062023-0003715;006/2023;RECEITA_INFRA;45736.1;Serviço com documento de 2025-12-01 lançado em 2026-01-05;-45736.1;-45736.1
+TD-03;CORTE-2026;2026;L2600000207;MED-0062023-0016731;006/2023;RECEITA_INFRA;70298.52;Serviço com documento de 2025-12-11 lançado em 2026-01-05;-70298.52;-70298.52
+TD-03;CORTE-2026;2026;L2600000208;MED-0062023-0030311;006/2023;RECEITA_INFRA;42494.24;Serviço com documento de 2025-12-29 lançado em 2026-01-05;-42494.24;-42494.24
+TD-03;CORTE-2026;2026;L2600000209;MED-0062023-0034694;006/2023;RECEITA_INFRA;45701.28;Serviço com documento de 2025-12-31 lançado em 2026-01-05;-45701.28;-45701.28
+TD-03;CORTE-2026;2026;L2600000210;MED-0062023-0039484;006/2023;RECEITA_INFRA;23370.83;Serviço com documento de 2025-12-29 lançado em 2026-01-05;-23370.83;-23370.83
+TD-03;CORTE-2026;2026;L2600000211;MED-0062023-0048519;006/2023;RECEITA_INFRA;14329.46;Serviço com documento de 2025-12-12 lançado em 2026-01-05;-14329.46;-14329.46
+TD-03;CORTE-2026;2026;L2600000312;MED-0122023-0005858;012/2023;RECEITA_INFRA;14143.36;Serviço com documento de 2025-12-11 lançado em 2026-01-05;-14143.36;-14143.36
+TD-03;CORTE-2026;2026;L2600000313;MED-0122023-0029981;012/2023;RECEITA_INFRA;2677.1;Serviço com documento de 2025-12-31 lançado em 2026-01-05;-2677.1;-2677.1
+TD-03;CORTE-2026;2026;L2600000314;MED-0122023-0030778;012/2023;RECEITA_INFRA;90168.71;Serviço com documento de 2025-12-23 lançado em 2026-01-05;-90168.71;-90168.71
+TD-03;CORTE-2026;2026;L2600000315;MED-0122023-0034808;012/2023;RECEITA_INFRA;66220.91;Serviço com documento de 2025-12-08 lançado em 2026-01-05;-66220.91;-66220.91
+TD-03;CORTE-2026;2026;L2600000349;MED-0592001-0027728;059/2001;RECEITA_INFRA;2901.74;Serviço com documento de 2025-12-23 lançado em 2026-01-05;-2901.74;-2901.74
+TD-03;CORTE-2026;2026;L2600000350;MED-0592001-0036738;059/2001;RECEITA_INFRA;3272.95;Serviço com documento de 2025-12-24 lançado em 2026-01-05;-3272.95;-3272.95
+TD-03;CORTE-2026;2026;L2600000351;MED-0592001-0038801;059/2001;RECEITA_INFRA;2538.51;Serviço com documento de 2025-12-18 lançado em 2026-01-05;-2538.51;-2538.51
+TD-03;CORTE-2026;2026;L2600000352;MED-0592001-0055354;059/2001;RECEITA_INFRA;204.93;Serviço com documento de 2025-12-23 lançado em 2026-01-05;-204.93;-204.93
+TD-03;CORTE-2026;2026;L2600000353;MED-0592001-0073276;059/2001;RECEITA_INFRA;18590.23;Serviço com documento de 2025-12-18 lançado em 2026-01-05;-18590.23;-18590.23
+TD-03;CORTE-2026;2026;L2600000354;MED-0592001-0077928;059/2001;RECEITA_INFRA;1668.78;Serviço com documento de 2025-12-29 lançado em 2026-01-05;-1668.78;-1668.78
+TD-03;CORTE-2026;2026;L2600000423;MED-0062023-0002820;006/2023;RECEITA_INFRA;151679.54;Serviço com documento de 2025-12-01 lançado em 2026-01-06;-151679.54;-151679.54
+TD-03;CORTE-2026;2026;L2600000424;MED-0062023-0007039;006/2023;RECEITA_INFRA;15550.24;Serviço com documento de 2025-12-01 lançado em 2026-01-06;-15550.24;-15550.24
+TD-03;CORTE-2026;2026;L2600000425;MED-0062023-0015990;006/2023;RECEITA_INFRA;4094.1;Serviço com documento de 2025-12-01 lançado em 2026-01-06;-4094.1;-4094.1
+TD-03;CORTE-2026;2026;L2600000426;MED-0062023-0017532;006/2023;RECEITA_INFRA;48078.9;Serviço com documento de 2025-12-03 lançado em 2026-01-06;-48078.9;-48078.9
+TD-03;CORTE-2026;2026;L2600000427;MED-0062023-0019109;006/2023;RECEITA_INFRA;31253.41;Serviço com documento de 2025-12-26 lançado em 2026-01-06;-31253.41;-31253.41
+TD-03;CORTE-2026;2026;L2600000428;MED-0062023-0027269;006/2023;RECEITA_INFRA;31006.14;Serviço com documento de 2025-12-02 lançado em 2026-01-06;-31006.14;-31006.14
+TD-03;CORTE-2026;2026;L2600000429;MED-0062023-0047248;006/2023;RECEITA_INFRA;18391.4;Serviço com documento de 2025-12-16 lançado em 2026-01-06;-18391.4;-18391.4
+TD-03;CORTE-2026;2026;L2600000557;MED-0122023-0018251;012/2023;RECEITA_INFRA;14763.78;Serviço com documento de 2025-12-19 lançado em 2026-01-06;-14763.78;-14763.78
+TD-03;CORTE-2026;2026;L2600000558;MED-0122023-0019566;012/2023;RECEITA_INFRA;103536.05;Serviço com documento de 2025-12-08 lançado em 2026-01-06;-103536.05;-103536.05
+TD-03;CORTE-2026;2026;L2600000594;MED-0592001-0015163;059/2001;RECEITA_INFRA;11972.3;Serviço com documento de 2025-12-16 lançado em 2026-01-06;-11972.3;-11972.3
+TD-03;CORTE-2026;2026;L2600000595;MED-0592001-0015508;059/2001;RECEITA_INFRA;198616.64;Serviço com documento de 2025-12-23 lançado em 2026-01-06;-198616.64;-198616.64
+TD-03;CORTE-2026;2026;L2600000596;MED-0592001-0016260;059/2001;RECEITA_INFRA;1342.68;Serviço com documento de 2025-12-03 lançado em 2026-01-06;-1342.68;-1342.68
+TD-03;CORTE-2026;2026;L2600000597;MED-0592001-0018138;059/2001;RECEITA_INFRA;9387.79;Serviço com documento de 2025-12-08 lançado em 2026-01-06;-9387.79;-9387.79
+TD-03;CORTE-2026;2026;L2600000598;MED-0592001-0025219;059/2001;RECEITA_INFRA;6835.71;Serviço com documento de 2025-12-31 lançado em 2026-01-06;-6835.71;-6835.71
+TD-03;CORTE-2026;2026;L2600000599;MED-0592001-0031117;059/2001;RECEITA_INFRA;1798.91;Serviço com documento de 2025-12-23 lançado em 2026-01-06;-1798.91;-1798.91
+TD-03;CORTE-2026;2026;L2600000600;MED-0592001-0045399;059/2001;RECEITA_INFRA;7810.81;Serviço com documento de 2025-12-30 lançado em 2026-01-06;-7810.81;-7810.81
+TD-03;CORTE-2026;2026;L2600000601;MED-0592001-0050896;059/2001;RECEITA_INFRA;18527.79;Serviço com documento de 2025-12-22 lançado em 2026-01-06;-18527.79;-18527.79
+TD-03;CORTE-2026;2026;L2600000602;MED-0592001-0071461;059/2001;RECEITA_INFRA;519.7;Serviço com documento de 2025-12-12 lançado em 2026-01-06;-519.7;-519.7
+TD-03;CORTE-2026;2026;L2600000603;MED-0592001-0078546;059/2001;RECEITA_INFRA;36124.96;Serviço com documento de 2025-12-31 lançado em 2026-01-06;-36124.96;-36124.96
+TD-03;CORTE-2026;2026;L2600000860;MED-0122023-0016832;012/2023;RECEITA_INFRA;17966.96;Serviço com documento de 2025-12-09 lançado em 2026-01-07;-17966.96;-17966.96
+TD-03;CORTE-2026;2026;L2600000908;MED-0592001-0024856;059/2001;RECEITA_INFRA;471.46;Serviço com documento de 2025-12-10 lançado em 2026-01-07;-471.46;-471.46
+TD-03;CORTE-2026;2026;L2600000909;MED-0592001-0058874;059/2001;RECEITA_INFRA;9173.5;Serviço com documento de 2025-12-19 lançado em 2026-01-07;-9173.5;-9173.5
+TD-03;CORTE-2026;2026;L2600000910;MED-0592001-0058938;059/2001;RECEITA_INFRA;2885.63;Serviço com documento de 2025-12-25 lançado em 2026-01-07;-2885.63;-2885.63
+TD-03;CORTE-2026;2026;L2600000911;MED-0592001-0069908;059/2001;RECEITA_INFRA;1720.43;Serviço com documento de 2025-12-01 lançado em 2026-01-07;-1720.43;-1720.43
+TD-03;CORTE-2026;2026;L2600001019;MED-0062023-0004123;006/2023;RECEITA_INFRA;6002.36;Serviço com documento de 2025-12-09 lançado em 2026-01-08;-6002.36;-6002.36
+TD-03;CORTE-2026;2026;L2600001020;MED-0062023-0012012;006/2023;RECEITA_INFRA;4715.71;Serviço com documento de 2025-12-17 lançado em 2026-01-08;-4715.71;-4715.71
+TD-03;CORTE-2026;2026;L2600001021;MED-0062023-0013779;006/2023;RECEITA_INFRA;16339.24;Serviço com documento de 2025-12-19 lançado em 2026-01-08;-16339.24;-16339.24
+TD-03;CORTE-2026;2026;L2600001022;MED-0062023-0014449;006/2023;RECEITA_INFRA;12987.46;Serviço com documento de 2025-12-09 lançado em 2026-01-08;-12987.46;-12987.46
+TD-03;CORTE-2026;2026;L2600001023;MED-0062023-0015135;006/2023;RECEITA_INFRA;29201.13;Serviço com documento de 2025-12-15 lançado em 2026-01-08;-29201.13;-29201.13
+TD-03;CORTE-2026;2026;L2600001024;MED-0062023-0035845;006/2023;RECEITA_INFRA;1123.25;Serviço com documento de 2025-12-12 lançado em 2026-01-08;-1123.25;-1123.25
+TD-03;CORTE-2026;2026;L2600001025;MED-0062023-0041416;006/2023;RECEITA_INFRA;9355.6;Serviço com documento de 2025-12-16 lançado em 2026-01-08;-9355.6;-9355.6
+TD-03;CORTE-2026;2026;L2600001026;MED-0062023-0042685;006/2023;RECEITA_INFRA;4491.66;Serviço com documento de 2025-12-03 lançado em 2026-01-08;-4491.66;-4491.66
+TD-03;CORTE-2026;2026;L2600001213;MED-0122023-0010215;012/2023;RECEITA_INFRA;11124.42;Serviço com documento de 2025-12-26 lançado em 2026-01-08;-11124.42;-11124.42
+TD-03;CORTE-2026;2026;L2600001214;MED-0122023-0010364;012/2023;RECEITA_INFRA;106825.86;Serviço com documento de 2025-12-03 lançado em 2026-01-08;-106825.86;-106825.86
+TD-03;CORTE-2026;2026;L2600001215;MED-0122023-0010499;012/2023;RECEITA_INFRA;25923.44;Serviço com documento de 2025-12-12 lançado em 2026-01-08;-25923.44;-25923.44
+TD-03;CORTE-2026;2026;L2600001282;MED-0592001-0000976;059/2001;RECEITA_INFRA;26772.52;Serviço com documento de 2025-12-25 lançado em 2026-01-08;-26772.52;-26772.52
+TD-03;CORTE-2026;2026;L2600001283;MED-0592001-0008562;059/2001;RECEITA_INFRA;59313.65;Serviço com documento de 2025-12-02 lançado em 2026-01-08;-59313.65;-59313.65
+TD-03;CORTE-2026;2026;L2600001284;MED-0592001-0015483;059/2001;RECEITA_INFRA;257337.52;Serviço com documento de 2025-12-30 lançado em 2026-01-08;-257337.52;-257337.52
+TD-03;CORTE-2026;2026;L2600001285;MED-0592001-0025102;059/2001;RECEITA_INFRA;97378.66;Serviço com documento de 2025-12-05 lançado em 2026-01-08;-97378.66;-97378.66
+TD-03;CORTE-2026;2026;L2600001286;MED-0592001-0026831;059/2001;RECEITA_INFRA;2591.09;Serviço com documento de 2025-12-29 lançado em 2026-01-08;-2591.09;-2591.09
+TD-03;CORTE-2026;2026;L2600001287;MED-0592001-0036102;059/2001;RECEITA_INFRA;10050.48;Serviço com documento de 2025-12-16 lançado em 2026-01-08;-10050.48;-10050.48
+TD-03;CORTE-2026;2026;L2600001288;MED-0592001-0050153;059/2001;RECEITA_INFRA;9871.88;Serviço com documento de 2025-12-12 lançado em 2026-01-08;-9871.88;-9871.88
+TD-03;CORTE-2026;2026;L2600001289;MED-0592001-0051612;059/2001;RECEITA_INFRA;7319.11;Serviço com documento de 2025-12-26 lançado em 2026-01-08;-7319.11;-7319.11
+TD-03;CORTE-2026;2026;L2600001401;MED-0062023-0013938;006/2023;RECEITA_INFRA;7260.06;Serviço com documento de 2025-12-11 lançado em 2026-01-09;-7260.06;-7260.06
+TD-03;CORTE-2026;2026;L2600001402;MED-0062023-0018246;006/2023;RECEITA_INFRA;46291.35;Serviço com documento de 2025-12-24 lançado em 2026-01-09;-46291.35;-46291.35
+TD-03;CORTE-2026;2026;L2600001403;MED-0062023-0022055;006/2023;RECEITA_INFRA;10012.06;Serviço com documento de 2025-12-12 lançado em 2026-01-09;-10012.06;-10012.06
+TD-03;CORTE-2026;2026;L2600001404;MED-0062023-0028900;006/2023;RECEITA_INFRA;9093.73;Serviço com documento de 2025-12-26 lançado em 2026-01-09;-9093.73;-9093.73
+TD-03;CORTE-2026;2026;L2600001405;MED-0062023-0029150;006/2023;RECEITA_INFRA;18256.33;Serviço com documento de 2025-12-30 lançado em 2026-01-09;-18256.33;-18256.33
+TD-03;CORTE-2026;2026;L2600001406;MED-0062023-0048580;006/2023;RECEITA_INFRA;44630.39;Serviço com documento de 2025-12-15 lançado em 2026-01-09;-44630.39;-44630.39
+TD-03;CORTE-2026;2026;L2600001571;MED-0122023-0021645;012/2023;RECEITA_INFRA;16924.88;Serviço com documento de 2025-12-22 lançado em 2026-01-09;-16924.88;-16924.88
+TD-03;CORTE-2026;2026;L2600001572;MED-0122023-0033063;012/2023;RECEITA_INFRA;152473.35;Serviço com documento de 2025-12-02 lançado em 2026-01-09;-152473.35;-152473.35
+TD-03;CORTE-2026;2026;L2600001573;MED-0122023-0033488;012/2023;RECEITA_INFRA;3081.95;Serviço com documento de 2025-12-19 lançado em 2026-01-09;-3081.95;-3081.95
+TD-03;CORTE-2026;2026;L2600001629;MED-0592001-0000464;059/2001;RECEITA_INFRA;12530.76;Serviço com documento de 2025-12-19 lançado em 2026-01-09;-12530.76;-12530.76
+TD-03;CORTE-2026;2026;L2600001630;MED-0592001-0031942;059/2001;RECEITA_INFRA;27160.89;Serviço com documento de 2025-12-17 lançado em 2026-01-09;-27160.89;-27160.89
+TD-03;CORTE-2026;2026;L2600001631;MED-0592001-0032068;059/2001;RECEITA_INFRA;121851.25;Serviço com documento de 2025-12-29 lançado em 2026-01-09;-121851.25;-121851.25
+TD-03;CORTE-2026;2026;L2600001632;MED-0592001-0043766;059/2001;RECEITA_INFRA;29410.04;Serviço com documento de 2025-12-22 lançado em 2026-01-09;-29410.04;-29410.04
+TD-03;CORTE-2026;2026;L2600001633;MED-0592001-0054168;059/2001;RECEITA_INFRA;636.06;Serviço com documento de 2025-12-04 lançado em 2026-01-09;-636.06;-636.06
+TD-03;CORTE-2026;2026;L2600001634;MED-0592001-0071426;059/2001;RECEITA_INFRA;3183.31;Serviço com documento de 2025-12-22 lançado em 2026-01-09;-3183.31;-3183.31
+TD-03;CORTE-2026;2026;L2600001635;MED-0592001-0074550;059/2001;RECEITA_INFRA;7026.75;Serviço com documento de 2025-12-04 lançado em 2026-01-09;-7026.75;-7026.75
+TD-03;CORTE-2026;2026;L2600001738;MED-0062023-0009137;006/2023;RECEITA_INFRA;3471.17;Serviço com documento de 2025-12-26 lançado em 2026-01-10;-3471.17;-3471.17
+TD-03;CORTE-2026;2026;L2600001739;MED-0062023-0015086;006/2023;RECEITA_INFRA;3669.53;Serviço com documento de 2025-12-16 lançado em 2026-01-10;-3669.53;-3669.53
+TD-03;CORTE-2026;2026;L2600001740;MED-0062023-0024276;006/2023;RECEITA_INFRA;25825.0;Serviço com documento de 2025-12-05 lançado em 2026-01-10;-25825.0;-25825.0
+TD-03;CORTE-2026;2026;L2600001741;MED-0062023-0043078;006/2023;RECEITA_INFRA;2338.67;Serviço com documento de 2025-12-08 lançado em 2026-01-10;-2338.67;-2338.67
+TD-03;CORTE-2026;2026;L2600001742;MED-0122023-0015492;012/2023;RECEITA_INFRA;34315.12;Serviço com documento de 2025-12-22 lançado em 2026-01-10;-34315.12;-34315.12
+TD-03;CORTE-2026;2026;L2600001743;MED-0122023-0019617;012/2023;RECEITA_INFRA;59119.03;Serviço com documento de 2025-12-04 lançado em 2026-01-10;-59119.03;-59119.03
+TD-03;CORTE-2026;2026;L2600001744;MED-0122023-0027652;012/2023;RECEITA_INFRA;42489.0;Serviço com documento de 2025-12-02 lançado em 2026-01-10;-42489.0;-42489.0
+TD-03;CORTE-2026;2026;L2600001745;MED-0122023-0037888;012/2023;RECEITA_INFRA;12768.6;Serviço com documento de 2025-12-22 lançado em 2026-01-10;-12768.6;-12768.6
+TD-03;CORTE-2026;2026;L2600001746;MED-0592001-0006448;059/2001;RECEITA_INFRA;1167.73;Serviço com documento de 2025-12-26 lançado em 2026-01-10;-1167.73;-1167.73
+TD-03;CORTE-2026;2026;L2600001747;MED-0592001-0025245;059/2001;RECEITA_INFRA;1713.3;Serviço com documento de 2025-12-01 lançado em 2026-01-10;-1713.3;-1713.3
+TD-03;CORTE-2026;2026;L2600001748;MED-0592001-0042251;059/2001;RECEITA_INFRA;96415.29;Serviço com documento de 2025-12-18 lançado em 2026-01-10;-96415.29;-96415.29
+TD-03;CORTE-2026;2026;L2600001749;MED-0592001-0056043;059/2001;RECEITA_INFRA;23950.96;Serviço com documento de 2025-12-29 lançado em 2026-01-10;-23950.96;-23950.96
+TD-03;CORTE-2026;2026;L2600001750;MED-0592001-0063102;059/2001;RECEITA_INFRA;135768.36;Serviço com documento de 2025-12-03 lançado em 2026-01-10;-135768.36;-135768.36
+TD-03;CORTE-2026;2026;L2600001751;MED-0592001-0068688;059/2001;RECEITA_INFRA;4503.38;Serviço com documento de 2025-12-19 lançado em 2026-01-10;-4503.38;-4503.38
+TD-03;CORTE-2026;2026;L2600001752;MED-0592001-0072137;059/2001;RECEITA_INFRA;20211.78;Serviço com documento de 2025-12-29 lançado em 2026-01-10;-20211.78;-20211.78
+TD-03;CORTE-2026;2026;L2600001753;MED-0592001-0072998;059/2001;RECEITA_INFRA;1763.11;Serviço com documento de 2025-12-04 lançado em 2026-01-10;-1763.11;-1763.11
+TD-03;CORTE-2026;2026;L2600001754;MED-0592001-0076088;059/2001;RECEITA_INFRA;4014.74;Serviço com documento de 2025-12-22 lançado em 2026-01-10;-4014.74;-4014.74
+TD-03;CORTE-2026;2026;L2600001755;MED-0062023-0012959;006/2023;RECEITA_INFRA;2120.74;Serviço com documento de 2025-12-02 lançado em 2026-01-11;-2120.74;-2120.74
+TD-03;CORTE-2026;2026;L2600001756;MED-0062023-0019759;006/2023;RECEITA_INFRA;28951.72;Serviço com documento de 2025-12-19 lançado em 2026-01-11;-28951.72;-28951.72
+TD-03;CORTE-2026;2026;L2600001757;MED-0062023-0021474;006/2023;RECEITA_INFRA;648.66;Serviço com documento de 2025-12-08 lançado em 2026-01-11;-648.66;-648.66
+TD-03;CORTE-2026;2026;L2600001758;MED-0062023-0023136;006/2023;RECEITA_INFRA;32374.41;Serviço com documento de 2025-12-16 lançado em 2026-01-11;-32374.41;-32374.41
+TD-03;CORTE-2026;2026;L2600001759;MED-0062023-0029560;006/2023;RECEITA_INFRA;44187.79;Serviço com documento de 2025-12-25 lançado em 2026-01-11;-44187.79;-44187.79
+TD-03;CORTE-2026;2026;L2600001760;MED-0062023-0038185;006/2023;RECEITA_INFRA;7517.43;Serviço com documento de 2025-12-05 lançado em 2026-01-11;-7517.43;-7517.43
+TD-03;CORTE-2026;2026;L2600001761;MED-0062023-0041554;006/2023;RECEITA_INFRA;2445.86;Serviço com documento de 2025-12-09 lançado em 2026-01-11;-2445.86;-2445.86
+TD-03;CORTE-2026;2026;L2600001762;MED-0062023-0041744;006/2023;RECEITA_INFRA;1657.33;Serviço com documento de 2025-12-03 lançado em 2026-01-11;-1657.33;-1657.33
+TD-03;CORTE-2026;2026;L2600001763;MED-0062023-0042183;006/2023;RECEITA_INFRA;21766.71;Serviço com documento de 2025-12-29 lançado em 2026-01-11;-21766.71;-21766.71
+TD-03;CORTE-2026;2026;L2600001764;MED-0062023-0049136;006/2023;RECEITA_INFRA;3291.84;Serviço com documento de 2025-12-09 lançado em 2026-01-11;-3291.84;-3291.84
+TD-03;CORTE-2026;2026;L2600001765;MED-0122023-0006625;012/2023;RECEITA_INFRA;20288.51;Serviço com documento de 2025-12-02 lançado em 2026-01-11;-20288.51;-20288.51
+TD-03;CORTE-2026;2026;L2600001766;MED-0122023-0024399;012/2023;RECEITA_INFRA;1808.91;Serviço com documento de 2025-12-15 lançado em 2026-01-11;-1808.91;-1808.91
+TD-03;CORTE-2026;2026;L2600001767;MED-0122023-0030615;012/2023;RECEITA_INFRA;11561.2;Serviço com documento de 2025-12-19 lançado em 2026-01-11;-11561.2;-11561.2
+TD-03;CORTE-2026;2026;L2600001768;MED-0592001-0011612;059/2001;RECEITA_INFRA;3241.58;Serviço com documento de 2025-12-01 lançado em 2026-01-11;-3241.58;-3241.58
+TD-03;CORTE-2026;2026;L2600001769;MED-0592001-0018642;059/2001;RECEITA_INFRA;1222.69;Serviço com documento de 2025-12-24 lançado em 2026-01-11;-1222.69;-1222.69
+TD-03;CORTE-2026;2026;L2600001770;MED-0592001-0019109;059/2001;RECEITA_INFRA;1627.35;Serviço com documento de 2025-12-03 lançado em 2026-01-11;-1627.35;-1627.35
+TD-03;CORTE-2026;2026;L2600001771;MED-0592001-0036541;059/2001;RECEITA_INFRA;107689.49;Serviço com documento de 2025-12-22 lançado em 2026-01-11;-107689.49;-107689.49
+TD-03;CORTE-2026;2026;L2600001772;MED-0592001-0059243;059/2001;RECEITA_INFRA;166752.54;Serviço com documento de 2025-12-03 lançado em 2026-01-11;-166752.54;-166752.54
+TD-03;CORTE-2026;2026;L2600001773;MED-0592001-0076217;059/2001;RECEITA_INFRA;8891.68;Serviço com documento de 2025-12-30 lançado em 2026-01-11;-8891.68;-8891.68
+TD-03;CORTE-2026;2026;L2600001804;MED-0062023-0008292;006/2023;RECEITA_INFRA;5822.9;Serviço com documento de 2025-12-11 lançado em 2026-01-12;-5822.9;-5822.9
+TD-03;CORTE-2026;2026;L2600001805;MED-0062023-0010560;006/2023;RECEITA_INFRA;229.05;Serviço com documento de 2025-12-02 lançado em 2026-01-12;-229.05;-229.05
+TD-03;CORTE-2026;2026;L2600001806;MED-0062023-0015895;006/2023;RECEITA_INFRA;1290.92;Serviço com documento de 2025-12-08 lançado em 2026-01-12;-1290.92;-1290.92
+TD-03;CORTE-2026;2026;L2600001807;MED-0062023-0027043;006/2023;RECEITA_INFRA;10204.02;Serviço com documento de 2025-12-15 lançado em 2026-01-12;-10204.02;-10204.02
+TD-03;CORTE-2026;2026;L2600001808;MED-0062023-0037115;006/2023;RECEITA_INFRA;711.54;Serviço com documento de 2025-12-08 lançado em 2026-01-12;-711.54;-711.54
+TD-03;CORTE-2026;2026;L2600001985;MED-0122023-0003026;012/2023;RECEITA_INFRA;51326.31;Serviço com documento de 2025-12-03 lançado em 2026-01-12;-51326.31;-51326.31
+TD-03;CORTE-2026;2026;L2600002049;MED-0592001-0005470;059/2001;RECEITA_INFRA;37061.32;Serviço com documento de 2025-12-25 lançado em 2026-01-12;-37061.32;-37061.32
+TD-03;CORTE-2026;2026;L2600002050;MED-0592001-0007345;059/2001;RECEITA_INFRA;2967.35;Serviço com documento de 2025-12-22 lançado em 2026-01-12;-2967.35;-2967.35
+TD-03;CORTE-2026;2026;L2600002051;MED-0592001-0011961;059/2001;RECEITA_INFRA;1990.52;Serviço com documento de 2025-12-08 lançado em 2026-01-12;-1990.52;-1990.52
+TD-03;CORTE-2026;2026;L2600002052;MED-0592001-0013617;059/2001;RECEITA_INFRA;10690.29;Serviço com documento de 2025-12-25 lançado em 2026-01-12;-10690.29;-10690.29
+TD-03;CORTE-2026;2026;L2600002053;MED-0592001-0040285;059/2001;RECEITA_INFRA;64222.95;Serviço com documento de 2025-12-15 lançado em 2026-01-12;-64222.95;-64222.95
+TD-03;CORTE-2026;2026;L2600002054;MED-0592001-0064663;059/2001;RECEITA_INFRA;11948.44;Serviço com documento de 2025-12-29 lançado em 2026-01-12;-11948.44;-11948.44
+TD-03;CORTE-2026;2026;L2600002055;MED-0592001-0069585;059/2001;RECEITA_INFRA;36005.88;Serviço com documento de 2025-12-25 lançado em 2026-01-12;-36005.88;-36005.88
+TD-03;CORTE-2026;2026;L2600002056;MED-0592001-0077886;059/2001;RECEITA_INFRA;347481.6;Serviço com documento de 2025-12-17 lançado em 2026-01-12;-347481.6;-347481.6
+TD-03;CORTE-2026;2026;L2600002191;MED-0062023-0000839;006/2023;RECEITA_INFRA;14825.37;Serviço com documento de 2025-12-23 lançado em 2026-01-13;-14825.37;-14825.37
+TD-03;CORTE-2026;2026;L2600002192;MED-0062023-0010975;006/2023;RECEITA_INFRA;731.5;Serviço com documento de 2025-12-31 lançado em 2026-01-13;-731.5;-731.5
+TD-03;CORTE-2026;2026;L2600002193;MED-0062023-0025072;006/2023;RECEITA_INFRA;12696.46;Serviço com documento de 2025-12-22 lançado em 2026-01-13;-12696.46;-12696.46
+TD-03;CORTE-2026;2026;L2600002194;MED-0062023-0045423;006/2023;RECEITA_INFRA;6394.89;Serviço com documento de 2025-12-11 lançado em 2026-01-13;-6394.89;-6394.89
+TD-03;CORTE-2026;2026;L2600002195;MED-0062023-0046310;006/2023;RECEITA_INFRA;18802.01;Serviço com documento de 2025-12-31 lançado em 2026-01-13;-18802.01;-18802.01
+TD-03;CORTE-2026;2026;L2600002196;MED-0062023-0049953;006/2023;RECEITA_INFRA;9188.7;Serviço com documento de 2025-12-08 lançado em 2026-01-13;-9188.7;-9188.7
+TD-03;CORTE-2026;2026;L2600002372;MED-0122023-0005717;012/2023;RECEITA_INFRA;639.17;Serviço com documento de 2025-12-25 lançado em 2026-01-13;-639.17;-639.17
+TD-03;CORTE-2026;2026;L2600002429;MED-0592001-0016782;059/2001;RECEITA_INFRA;991.03;Serviço com documento de 2025-12-31 lançado em 2026-01-13;-991.03;-991.03
+TD-03;CORTE-2026;2026;L2600002430;MED-0592001-0021795;059/2001;RECEITA_INFRA;20186.83;Serviço com documento de 2025-12-05 lançado em 2026-01-13;-20186.83;-20186.83
+TD-03;CORTE-2026;2026;L2600002431;MED-0592001-0032096;059/2001;RECEITA_INFRA;6761.87;Serviço com documento de 2025-12-19 lançado em 2026-01-13;-6761.87;-6761.87
+TD-03;CORTE-2026;2026;L2600002432;MED-0592001-0038837;059/2001;RECEITA_INFRA;5174.71;Serviço com documento de 2025-12-29 lançado em 2026-01-13;-5174.71;-5174.71
+TD-03;CORTE-2026;2026;L2600002433;MED-0592001-0042690;059/2001;RECEITA_INFRA;4390.25;Serviço com documento de 2025-12-12 lançado em 2026-01-13;-4390.25;-4390.25
+TD-03;CORTE-2026;2026;L2600002434;MED-0592001-0043938;059/2001;RECEITA_INFRA;39591.36;Serviço com documento de 2025-12-09 lançado em 2026-01-13;-39591.36;-39591.36
+TD-03;CORTE-2026;2026;L2600002435;MED-0592001-0064376;059/2001;RECEITA_INFRA;2939.34;Serviço com documento de 2025-12-12 lançado em 2026-01-13;-2939.34;-2939.34
+TD-03;CORTE-2026;2026;L2600002436;MED-0592001-0064719;059/2001;RECEITA_INFRA;1695.5;Serviço com documento de 2025-12-12 lançado em 2026-01-13;-1695.5;-1695.5
+TD-03;CORTE-2026;2026;L2600002437;MED-0592001-0071403;059/2001;RECEITA_INFRA;5915.57;Serviço com documento de 2025-12-26 lançado em 2026-01-13;-5915.57;-5915.57
+TD-03;CORTE-2026;2026;L2600002574;MED-0062023-0007752;006/2023;RECEITA_INFRA;81466.71;Serviço com documento de 2025-12-25 lançado em 2026-01-14;-81466.71;-81466.71
+TD-03;CORTE-2026;2026;L2600002759;MED-0122023-0004231;012/2023;RECEITA_INFRA;7662.42;Serviço com documento de 2025-12-15 lançado em 2026-01-14;-7662.42;-7662.42
+TD-03;CORTE-2026;2026;L2600002760;MED-0122023-0008026;012/2023;RECEITA_INFRA;11126.39;Serviço com documento de 2025-12-19 lançado em 2026-01-14;-11126.39;-11126.39
+TD-03;CORTE-2026;2026;L2600002761;MED-0122023-0029475;012/2023;RECEITA_INFRA;29516.54;Serviço com documento de 2025-12-19 lançado em 2026-01-14;-29516.54;-29516.54
+TD-03;CORTE-2026;2026;L2600002762;MED-0122023-0033994;012/2023;RECEITA_INFRA;24339.72;Serviço com documento de 2025-12-08 lançado em 2026-01-14;-24339.72;-24339.72
+TD-03;CORTE-2026;2026;L2600002823;MED-0592001-0016160;059/2001;RECEITA_INFRA;20020.42;Serviço com documento de 2025-12-15 lançado em 2026-01-14;-20020.42;-20020.42
+TD-03;CORTE-2026;2026;L2600002824;MED-0592001-0018077;059/2001;RECEITA_INFRA;18935.92;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-18935.92;-18935.92
+TD-03;CORTE-2026;2026;L2600002825;MED-0592001-0022330;059/2001;RECEITA_INFRA;4265.77;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-4265.77;-4265.77
+TD-03;CORTE-2026;2026;L2600002826;MED-0592001-0028959;059/2001;RECEITA_INFRA;35248.87;Serviço com documento de 2025-12-18 lançado em 2026-01-14;-35248.87;-35248.87
+TD-03;CORTE-2026;2026;L2600002827;MED-0592001-0032886;059/2001;RECEITA_INFRA;2406.23;Serviço com documento de 2025-12-02 lançado em 2026-01-14;-2406.23;-2406.23
+TD-03;CORTE-2026;2026;L2600002828;MED-0592001-0035239;059/2001;RECEITA_INFRA;3810.67;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-3810.67;-3810.67
+TD-03;CORTE-2026;2026;L2600002829;MED-0592001-0053470;059/2001;RECEITA_INFRA;8079.95;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-8079.95;-8079.95
+TD-03;CORTE-2026;2026;L2600002830;MED-0592001-0067731;059/2001;RECEITA_INFRA;11796.73;Serviço com documento de 2025-12-02 lançado em 2026-01-14;-11796.73;-11796.73
+TD-03;CORTE-2026;2026;L2600002831;MED-0592001-0074109;059/2001;RECEITA_INFRA;21407.4;Serviço com documento de 2025-12-18 lançado em 2026-01-14;-21407.4;-21407.4
+TD-03;CORTE-2026;2026;L2600004905;MED-0062023-0014932;006/2023;RECEITA_INFRA;3787.38;Serviço com documento de 2025-12-10 lançado em 2026-01-15;-3787.38;-3787.38
+TD-03;CORTE-2026;2026;L2600004906;MED-0062023-0025998;006/2023;RECEITA_INFRA;16445.49;Serviço com documento de 2025-12-05 lançado em 2026-01-15;-16445.49;-16445.49
+TD-03;CORTE-2026;2026;L2600004907;MED-0062023-0034043;006/2023;RECEITA_INFRA;5374.29;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-5374.29;-5374.29
+TD-03;CORTE-2026;2026;L2600004908;MED-0062023-0037029;006/2023;RECEITA_INFRA;2151.03;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-2151.03;-2151.03
+TD-03;CORTE-2026;2026;L2600004909;MED-0062023-0052575;006/2023;RECEITA_INFRA;17883.68;Serviço com documento de 2025-12-16 lançado em 2026-01-15;-17883.68;-17883.68
+TD-03;CORTE-2026;2026;L2600007112;MED-0122023-0000405;012/2023;RECEITA_INFRA;19643.03;Serviço com documento de 2025-12-23 lançado em 2026-01-15;-19643.03;-19643.03
+TD-03;CORTE-2026;2026;L2600007113;MED-0122023-0010260;012/2023;RECEITA_INFRA;2469.46;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-2469.46;-2469.46
+TD-03;CORTE-2026;2026;L2600007114;MED-0122023-0011801;012/2023;RECEITA_INFRA;858.0;Serviço com documento de 2025-12-24 lançado em 2026-01-15;-858.0;-858.0
+TD-03;CORTE-2026;2026;L2600007115;MED-0122023-0016084;012/2023;RECEITA_INFRA;94267.96;Serviço com documento de 2025-12-23 lançado em 2026-01-15;-94267.96;-94267.96
+TD-03;CORTE-2026;2026;L2600007116;MED-0122023-0033305;012/2023;RECEITA_INFRA;9136.4;Serviço com documento de 2025-12-17 lançado em 2026-01-15;-9136.4;-9136.4
+TD-03;CORTE-2026;2026;L2600012109;MED-0592001-0000259;059/2001;RECEITA_INFRA;1711.55;Serviço com documento de 2025-12-11 lançado em 2026-01-15;-1711.55;-1711.55
+TD-03;CORTE-2026;2026;L2600012110;MED-0592001-0000506;059/2001;RECEITA_INFRA;74756.76;Serviço com documento de 2025-12-01 lançado em 2026-01-15;-74756.76;-74756.76
+TD-03;CORTE-2026;2026;L2600012111;MED-0592001-0012822;059/2001;RECEITA_INFRA;7122.32;Serviço com documento de 2025-12-23 lançado em 2026-01-15;-7122.32;-7122.32
+TD-03;CORTE-2026;2026;L2600012112;MED-0592001-0026250;059/2001;RECEITA_INFRA;126786.39;Serviço com documento de 2025-12-10 lançado em 2026-01-15;-126786.39;-126786.39
+TD-03;CORTE-2026;2026;L2600012113;MED-0592001-0026697;059/2001;RECEITA_INFRA;8012.19;Serviço com documento de 2025-12-29 lançado em 2026-01-15;-8012.19;-8012.19
+TD-03;CORTE-2026;2026;L2600012114;MED-0592001-0040521;059/2001;RECEITA_INFRA;58230.65;Serviço com documento de 2025-12-17 lançado em 2026-01-15;-58230.65;-58230.65
+TD-03;CORTE-2026;2026;L2600012115;MED-0592001-0049227;059/2001;RECEITA_INFRA;3696.46;Serviço com documento de 2025-12-08 lançado em 2026-01-15;-3696.46;-3696.46
+TD-03;CORTE-2026;2026;L2600012116;MED-0592001-0058861;059/2001;RECEITA_INFRA;16042.83;Serviço com documento de 2025-12-01 lançado em 2026-01-15;-16042.83;-16042.83
+TD-03;CORTE-2026;2026;L2600012117;MED-0592001-0065459;059/2001;RECEITA_INFRA;10563.83;Serviço com documento de 2025-12-29 lançado em 2026-01-15;-10563.83;-10563.83
+TD-03;CORTE-2026;2026;L2600012118;MED-0592001-0078504;059/2001;RECEITA_INFRA;10940.02;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-10940.02;-10940.02
+TD-03;CORTE-2026;2026;L2600013115;MED-0062023-0013842;006/2023;RECEITA_INFRA;11328.87;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-11328.87;-11328.87
+TD-03;CORTE-2026;2026;L2600013116;MED-0062023-0027178;006/2023;RECEITA_INFRA;24344.03;Serviço com documento de 2025-12-29 lançado em 2026-01-16;-24344.03;-24344.03
+TD-03;CORTE-2026;2026;L2600013117;MED-0062023-0028960;006/2023;RECEITA_INFRA;10387.67;Serviço com documento de 2025-12-01 lançado em 2026-01-16;-10387.67;-10387.67
+TD-03;CORTE-2026;2026;L2600013118;MED-0062023-0041798;006/2023;RECEITA_INFRA;1827.87;Serviço com documento de 2025-12-12 lançado em 2026-01-16;-1827.87;-1827.87
+TD-03;CORTE-2026;2026;L2600013119;MED-0062023-0049564;006/2023;RECEITA_INFRA;61150.76;Serviço com documento de 2025-12-16 lançado em 2026-01-16;-61150.76;-61150.76
+TD-03;CORTE-2026;2026;L2600013120;MED-0062023-0051197;006/2023;RECEITA_INFRA;10403.34;Serviço com documento de 2025-12-02 lançado em 2026-01-16;-10403.34;-10403.34
+TD-03;CORTE-2026;2026;L2600013281;MED-0122023-0010536;012/2023;RECEITA_INFRA;4951.93;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-4951.93;-4951.93
+TD-03;CORTE-2026;2026;L2600013282;MED-0122023-0012824;012/2023;RECEITA_INFRA;8248.08;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-8248.08;-8248.08
+TD-03;CORTE-2026;2026;L2600013283;MED-0122023-0019415;012/2023;RECEITA_INFRA;8764.61;Serviço com documento de 2025-12-12 lançado em 2026-01-16;-8764.61;-8764.61
+TD-03;CORTE-2026;2026;L2600013284;MED-0122023-0024651;012/2023;RECEITA_INFRA;233544.78;Serviço com documento de 2025-12-25 lançado em 2026-01-16;-233544.78;-233544.78
+TD-03;CORTE-2026;2026;L2600013285;MED-0122023-0025385;012/2023;RECEITA_INFRA;48824.5;Serviço com documento de 2025-12-09 lançado em 2026-01-16;-48824.5;-48824.5
+TD-03;CORTE-2026;2026;L2600013286;MED-0122023-0033376;012/2023;RECEITA_INFRA;31593.6;Serviço com documento de 2025-12-26 lançado em 2026-01-16;-31593.6;-31593.6
+TD-03;CORTE-2026;2026;L2600013346;MED-0592001-0004154;059/2001;RECEITA_INFRA;21197.75;Serviço com documento de 2025-12-29 lançado em 2026-01-16;-21197.75;-21197.75
+TD-03;CORTE-2026;2026;L2600013347;MED-0592001-0010761;059/2001;RECEITA_INFRA;15208.71;Serviço com documento de 2025-12-03 lançado em 2026-01-16;-15208.71;-15208.71
+TD-03;CORTE-2026;2026;L2600013348;MED-0592001-0011564;059/2001;RECEITA_INFRA;2218.39;Serviço com documento de 2025-12-11 lançado em 2026-01-16;-2218.39;-2218.39
+TD-03;CORTE-2026;2026;L2600013349;MED-0592001-0025671;059/2001;RECEITA_INFRA;103792.62;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-103792.62;-103792.62
+TD-03;CORTE-2026;2026;L2600013350;MED-0592001-0034821;059/2001;RECEITA_INFRA;48740.82;Serviço com documento de 2025-12-18 lançado em 2026-01-16;-48740.82;-48740.82
+TD-03;CORTE-2026;2026;L2600013351;MED-0592001-0042210;059/2001;RECEITA_INFRA;25598.51;Serviço com documento de 2025-12-01 lançado em 2026-01-16;-25598.51;-25598.51
+TD-03;CORTE-2026;2026;L2600013352;MED-0592001-0067480;059/2001;RECEITA_INFRA;8424.21;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-8424.21;-8424.21
+TD-03;CORTE-2026;2026;L2600013465;MED-0062023-0010962;006/2023;RECEITA_INFRA;8391.0;Serviço com documento de 2025-12-18 lançado em 2026-01-17;-8391.0;-8391.0
+TD-03;CORTE-2026;2026;L2600013466;MED-0062023-0015831;006/2023;RECEITA_INFRA;67172.01;Serviço com documento de 2025-12-19 lançado em 2026-01-17;-67172.01;-67172.01
+TD-03;CORTE-2026;2026;L2600013467;MED-0062023-0016689;006/2023;RECEITA_INFRA;506.5;Serviço com documento de 2025-12-12 lançado em 2026-01-17;-506.5;-506.5
+TD-03;CORTE-2026;2026;L2600013468;MED-0062023-0023986;006/2023;RECEITA_INFRA;2261.27;Serviço com documento de 2025-12-22 lançado em 2026-01-17;-2261.27;-2261.27
+TD-03;CORTE-2026;2026;L2600013469;MED-0062023-0031854;006/2023;RECEITA_INFRA;18986.41;Serviço com documento de 2025-12-19 lançado em 2026-01-17;-18986.41;-18986.41
+TD-03;CORTE-2026;2026;L2600013470;MED-0122023-0003263;012/2023;RECEITA_INFRA;12120.86;Serviço com documento de 2025-12-29 lançado em 2026-01-17;-12120.86;-12120.86
+TD-03;CORTE-2026;2026;L2600013471;MED-0122023-0014920;012/2023;RECEITA_INFRA;2406.56;Serviço com documento de 2025-12-05 lançado em 2026-01-17;-2406.56;-2406.56
+TD-03;CORTE-2026;2026;L2600013472;MED-0122023-0021254;012/2023;RECEITA_INFRA;10944.35;Serviço com documento de 2025-12-18 lançado em 2026-01-17;-10944.35;-10944.35
+TD-03;CORTE-2026;2026;L2600013473;MED-0122023-0026659;012/2023;RECEITA_INFRA;13685.03;Serviço com documento de 2025-12-29 lançado em 2026-01-17;-13685.03;-13685.03
+TD-03;CORTE-2026;2026;L2600013474;MED-0592001-0000386;059/2001;RECEITA_INFRA;45605.31;Serviço com documento de 2025-12-08 lançado em 2026-01-17;-45605.31;-45605.31
+TD-03;CORTE-2026;2026;L2600013475;MED-0592001-0013253;059/2001;RECEITA_INFRA;21421.38;Serviço com documento de 2025-12-25 lançado em 2026-01-17;-21421.38;-21421.38
+TD-03;CORTE-2026;2026;L2600013476;MED-0592001-0016520;059/2001;RECEITA_INFRA;135.95;Serviço com documento de 2025-12-22 lançado em 2026-01-17;-135.95;-135.95
+TD-03;CORTE-2026;2026;L2600013477;MED-0592001-0018331;059/2001;RECEITA_INFRA;31951.92;Serviço com documento de 2025-12-04 lançado em 2026-01-17;-31951.92;-31951.92
+TD-03;CORTE-2026;2026;L2600013478;MED-0592001-0025715;059/2001;RECEITA_INFRA;17306.68;Serviço com documento de 2025-12-17 lançado em 2026-01-17;-17306.68;-17306.68
+TD-03;CORTE-2026;2026;L2600013479;MED-0592001-0037320;059/2001;RECEITA_INFRA;13357.12;Serviço com documento de 2025-12-11 lançado em 2026-01-17;-13357.12;-13357.12
+TD-03;CORTE-2026;2026;L2600013480;MED-0592001-0045419;059/2001;RECEITA_INFRA;2419.5;Serviço com documento de 2025-12-26 lançado em 2026-01-17;-2419.5;-2419.5
+TD-03;CORTE-2026;2026;L2600013481;MED-0592001-0047153;059/2001;RECEITA_INFRA;8344.02;Serviço com documento de 2025-12-03 lançado em 2026-01-17;-8344.02;-8344.02
+TD-03;CORTE-2026;2026;L2600013482;MED-0592001-0055161;059/2001;RECEITA_INFRA;998.99;Serviço com documento de 2025-12-02 lançado em 2026-01-17;-998.99;-998.99
+TD-03;CORTE-2026;2026;L2600013483;MED-0592001-0064615;059/2001;RECEITA_INFRA;5734.88;Serviço com documento de 2025-12-05 lançado em 2026-01-17;-5734.88;-5734.88
+TD-03;CORTE-2026;2026;L2600013484;MED-0062023-0013008;006/2023;RECEITA_INFRA;1867.88;Serviço com documento de 2025-12-10 lançado em 2026-01-18;-1867.88;-1867.88
+TD-03;CORTE-2026;2026;L2600013485;MED-0062023-0018039;006/2023;RECEITA_INFRA;4717.99;Serviço com documento de 2025-12-03 lançado em 2026-01-18;-4717.99;-4717.99
+TD-03;CORTE-2026;2026;L2600013486;MED-0062023-0022575;006/2023;RECEITA_INFRA;989.86;Serviço com documento de 2025-12-30 lançado em 2026-01-18;-989.86;-989.86
+TD-03;CORTE-2026;2026;L2600013487;MED-0062023-0036079;006/2023;RECEITA_INFRA;6438.95;Serviço com documento de 2025-12-04 lançado em 2026-01-18;-6438.95;-6438.95
+TD-03;CORTE-2026;2026;L2600013488;MED-0062023-0037048;006/2023;RECEITA_INFRA;27879.13;Serviço com documento de 2025-12-18 lançado em 2026-01-18;-27879.13;-27879.13
+TD-03;CORTE-2026;2026;L2600013489;MED-0062023-0048430;006/2023;RECEITA_INFRA;13492.78;Serviço com documento de 2025-12-15 lançado em 2026-01-18;-13492.78;-13492.78
+TD-03;CORTE-2026;2026;L2600013490;MED-0122023-0003181;012/2023;RECEITA_INFRA;10756.49;Serviço com documento de 2025-12-24 lançado em 2026-01-18;-10756.49;-10756.49
+TD-03;CORTE-2026;2026;L2600013491;MED-0122023-0003378;012/2023;RECEITA_INFRA;8261.22;Serviço com documento de 2025-12-01 lançado em 2026-01-18;-8261.22;-8261.22
+TD-03;CORTE-2026;2026;L2600013492;MED-0122023-0007283;012/2023;RECEITA_INFRA;66354.85;Serviço com documento de 2025-12-29 lançado em 2026-01-18;-66354.85;-66354.85
+TD-03;CORTE-2026;2026;L2600013493;MED-0122023-0010036;012/2023;RECEITA_INFRA;14663.55;Serviço com documento de 2025-12-15 lançado em 2026-01-18;-14663.55;-14663.55
+TD-03;CORTE-2026;2026;L2600013494;MED-0122023-0016211;012/2023;RECEITA_INFRA;13429.97;Serviço com documento de 2025-12-18 lançado em 2026-01-18;-13429.97;-13429.97
+TD-03;CORTE-2026;2026;L2600013495;MED-0122023-0017630;012/2023;RECEITA_INFRA;60608.3;Serviço com documento de 2025-12-23 lançado em 2026-01-18;-60608.3;-60608.3
+TD-03;CORTE-2026;2026;L2600013496;MED-0122023-0029875;012/2023;RECEITA_INFRA;742.96;Serviço com documento de 2025-12-30 lançado em 2026-01-18;-742.96;-742.96
+TD-03;CORTE-2026;2026;L2600013497;MED-0592001-0008756;059/2001;RECEITA_INFRA;30438.55;Serviço com documento de 2025-12-29 lançado em 2026-01-18;-30438.55;-30438.55
+TD-03;CORTE-2026;2026;L2600013498;MED-0592001-0009305;059/2001;RECEITA_INFRA;3091.36;Serviço com documento de 2025-12-12 lançado em 2026-01-18;-3091.36;-3091.36
+TD-03;CORTE-2026;2026;L2600013499;MED-0592001-0021259;059/2001;RECEITA_INFRA;3125.67;Serviço com documento de 2025-12-17 lançado em 2026-01-18;-3125.67;-3125.67
+TD-03;CORTE-2026;2026;L2600013500;MED-0592001-0033357;059/2001;RECEITA_INFRA;8846.25;Serviço com documento de 2025-12-12 lançado em 2026-01-18;-8846.25;-8846.25
+TD-03;CORTE-2026;2026;L2600013501;MED-0592001-0065629;059/2001;RECEITA_INFRA;55793.18;Serviço com documento de 2025-12-01 lançado em 2026-01-18;-55793.18;-55793.18
+TD-03;CORTE-2026;2026;L2600013502;MED-0592001-0067724;059/2001;RECEITA_INFRA;177645.72;Serviço com documento de 2025-12-25 lançado em 2026-01-18;-177645.72;-177645.72
+TD-03;CORTE-2026;2026;L2600013523;MED-0062023-0003583;006/2023;RECEITA_INFRA;2606.22;Serviço com documento de 2025-12-22 lançado em 2026-01-19;-2606.22;-2606.22
+TD-03;CORTE-2026;2026;L2600013524;MED-0062023-0012550;006/2023;RECEITA_INFRA;10163.98;Serviço com documento de 2025-12-24 lançado em 2026-01-19;-10163.98;-10163.98
+TD-03;CORTE-2026;2026;L2600013525;MED-0062023-0013093;006/2023;RECEITA_INFRA;15629.26;Serviço com documento de 2025-12-08 lançado em 2026-01-19;-15629.26;-15629.26
+TD-03;CORTE-2026;2026;L2600013526;MED-0062023-0016119;006/2023;RECEITA_INFRA;3948.8;Serviço com documento de 2025-12-01 lançado em 2026-01-19;-3948.8;-3948.8
+TD-03;CORTE-2026;2026;L2600013527;MED-0062023-0030785;006/2023;RECEITA_INFRA;4673.49;Serviço com documento de 2025-12-24 lançado em 2026-01-19;-4673.49;-4673.49
+TD-03;CORTE-2026;2026;L2600013528;MED-0062023-0041117;006/2023;RECEITA_INFRA;6226.15;Serviço com documento de 2025-12-23 lançado em 2026-01-19;-6226.15;-6226.15
+TD-03;CORTE-2026;2026;L2600013529;MED-0062023-0046117;006/2023;RECEITA_INFRA;9088.0;Serviço com documento de 2025-12-25 lançado em 2026-01-19;-9088.0;-9088.0
+TD-03;CORTE-2026;2026;L2600013530;MED-0062023-0050846;006/2023;RECEITA_INFRA;6359.15;Serviço com documento de 2025-12-22 lançado em 2026-01-19;-6359.15;-6359.15
+TD-03;CORTE-2026;2026;L2600013709;MED-0122023-0005379;012/2023;RECEITA_INFRA;1422.56;Serviço com documento de 2025-12-04 lançado em 2026-01-19;-1422.56;-1422.56
+TD-03;CORTE-2026;2026;L2600013710;MED-0122023-0008001;012/2023;RECEITA_INFRA;72927.61;Serviço com documento de 2025-12-22 lançado em 2026-01-19;-72927.61;-72927.61
+TD-03;CORTE-2026;2026;L2600013711;MED-0122023-0015866;012/2023;RECEITA_INFRA;20964.99;Serviço com documento de 2025-12-31 lançado em 2026-01-19;-20964.99;-20964.99
+TD-03;CORTE-2026;2026;L2600013712;MED-0122023-0029481;012/2023;RECEITA_INFRA;14401.78;Serviço com documento de 2025-12-23 lançado em 2026-01-19;-14401.78;-14401.78
+TD-03;CORTE-2026;2026;L2600013713;MED-0122023-0036948;012/2023;RECEITA_INFRA;6652.11;Serviço com documento de 2025-12-18 lançado em 2026-01-19;-6652.11;-6652.11
+TD-03;CORTE-2026;2026;L2600013714;MED-0122023-0038229;012/2023;RECEITA_INFRA;49141.14;Serviço com documento de 2025-12-04 lançado em 2026-01-19;-49141.14;-49141.14
+TD-03;CORTE-2026;2026;L2600013787;MED-0592001-0018838;059/2001;RECEITA_INFRA;2877.95;Serviço com documento de 2025-12-29 lançado em 2026-01-19;-2877.95;-2877.95
+TD-03;CORTE-2026;2026;L2600013788;MED-0592001-0020745;059/2001;RECEITA_INFRA;21071.71;Serviço com documento de 2025-12-31 lançado em 2026-01-19;-21071.71;-21071.71
+TD-03;CORTE-2026;2026;L2600013789;MED-0592001-0034679;059/2001;RECEITA_INFRA;19996.0;Serviço com documento de 2025-12-02 lançado em 2026-01-19;-19996.0;-19996.0
+TD-03;CORTE-2026;2026;L2600013790;MED-0592001-0065115;059/2001;RECEITA_INFRA;111382.13;Serviço com documento de 2025-12-12 lançado em 2026-01-19;-111382.13;-111382.13
+TD-03;CORTE-2026;2026;L2600013791;MED-0592001-0068828;059/2001;RECEITA_INFRA;6867.93;Serviço com documento de 2025-12-02 lançado em 2026-01-19;-6867.93;-6867.93
+TD-03;CORTE-2026;2026;L2600013938;MED-0062023-0006981;006/2023;RECEITA_INFRA;9412.12;Serviço com documento de 2025-12-30 lançado em 2026-01-20;-9412.12;-9412.12
+TD-03;CORTE-2026;2026;L2600013939;MED-0062023-0010354;006/2023;RECEITA_INFRA;6849.54;Serviço com documento de 2025-12-08 lançado em 2026-01-20;-6849.54;-6849.54
+TD-03;CORTE-2026;2026;L2600013940;MED-0062023-0017735;006/2023;RECEITA_INFRA;8203.48;Serviço com documento de 2025-12-12 lançado em 2026-01-20;-8203.48;-8203.48
+TD-03;CORTE-2026;2026;L2600013941;MED-0062023-0052823;006/2023;RECEITA_INFRA;3984.09;Serviço com documento de 2025-12-12 lançado em 2026-01-20;-3984.09;-3984.09
+TD-03;CORTE-2026;2026;L2600014123;MED-0122023-0009801;012/2023;RECEITA_INFRA;1927.64;Serviço com documento de 2025-12-08 lançado em 2026-01-20;-1927.64;-1927.64
+TD-03;CORTE-2026;2026;L2600014124;MED-0122023-0010157;012/2023;RECEITA_INFRA;115015.95;Serviço com documento de 2025-12-26 lançado em 2026-01-20;-115015.95;-115015.95
+TD-03;CORTE-2026;2026;L2600014125;MED-0122023-0014158;012/2023;RECEITA_INFRA;4671.29;Serviço com documento de 2025-12-26 lançado em 2026-01-20;-4671.29;-4671.29
+TD-03;CORTE-2026;2026;L2600014126;MED-0122023-0023768;012/2023;RECEITA_INFRA;4694.03;Serviço com documento de 2025-12-19 lançado em 2026-01-20;-4694.03;-4694.03
+TD-03;CORTE-2026;2026;L2600014127;MED-0122023-0025112;012/2023;RECEITA_INFRA;10644.08;Serviço com documento de 2025-12-30 lançado em 2026-01-20;-10644.08;-10644.08
+TD-03;CORTE-2026;2026;L2600014128;MED-0122023-0031461;012/2023;RECEITA_INFRA;1608.8;Serviço com documento de 2025-12-05 lançado em 2026-01-20;-1608.8;-1608.8
+TD-03;CORTE-2026;2026;L2600014129;MED-0122023-0036068;012/2023;RECEITA_INFRA;6840.66;Serviço com documento de 2025-12-25 lançado em 2026-01-20;-6840.66;-6840.66
+TD-03;CORTE-2026;2026;L2600014192;MED-0592001-0001122;059/2001;RECEITA_INFRA;8258.95;Serviço com documento de 2025-12-31 lançado em 2026-01-20;-8258.95;-8258.95
+TD-03;CORTE-2026;2026;L2600014193;MED-0592001-0011532;059/2001;RECEITA_INFRA;4544.01;Serviço com documento de 2025-12-08 lançado em 2026-01-20;-4544.01;-4544.01
+TD-03;CORTE-2026;2026;L2600014194;MED-0592001-0016020;059/2001;RECEITA_INFRA;2267.44;Serviço com documento de 2025-12-18 lançado em 2026-01-20;-2267.44;-2267.44
+TD-03;CORTE-2026;2026;L2600014195;MED-0592001-0020579;059/2001;RECEITA_INFRA;36743.25;Serviço com documento de 2025-12-26 lançado em 2026-01-20;-36743.25;-36743.25
+TD-03;CORTE-2026;2026;L2600014196;MED-0592001-0022703;059/2001;RECEITA_INFRA;118317.02;Serviço com documento de 2025-12-22 lançado em 2026-01-20;-118317.02;-118317.02
+TD-03;CORTE-2026;2026;L2600014197;MED-0592001-0034012;059/2001;RECEITA_INFRA;6222.92;Serviço com documento de 2025-12-02 lançado em 2026-01-20;-6222.92;-6222.92
+TD-03;CORTE-2026;2026;L2600014198;MED-0592001-0035739;059/2001;RECEITA_INFRA;2806.91;Serviço com documento de 2025-12-24 lançado em 2026-01-20;-2806.91;-2806.91
+TD-03;CORTE-2026;2026;L2600014199;MED-0592001-0036761;059/2001;RECEITA_INFRA;39495.81;Serviço com documento de 2025-12-10 lançado em 2026-01-20;-39495.81;-39495.81
+TD-03;CORTE-2026;2026;L2600014200;MED-0592001-0047771;059/2001;RECEITA_INFRA;846.38;Serviço com documento de 2025-12-23 lançado em 2026-01-20;-846.38;-846.38
+TD-03;CORTE-2026;2026;L2600014201;MED-0592001-0048537;059/2001;RECEITA_INFRA;2637.3;Serviço com documento de 2025-12-12 lançado em 2026-01-20;-2637.3;-2637.3
+TD-03;CORTE-2026;2026;L2600014202;MED-0592001-0056655;059/2001;RECEITA_INFRA;104913.2;Serviço com documento de 2025-12-01 lançado em 2026-01-20;-104913.2;-104913.2
+TD-04;CONTRATO;2025;L2500353132;REC-0272017-202507-AG0001;018/2017;RECEBIMENTO;-635681.28;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353133;REC-0272017-202507-AG0002;018/2017;RECEBIMENTO;-312385.31;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353134;REC-0272017-202507-AG0003;018/2017;RECEBIMENTO;-201808.82;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353135;REC-0272017-202507-AG0004;018/2017;RECEBIMENTO;-152623.41;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353136;REC-0272017-202507-AG0005;018/2017;RECEBIMENTO;-118949.31;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353137;REC-0272017-202507-AG0008;018/2017;RECEBIMENTO;-296811.81;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353138;REC-0272017-202507-AG0014;018/2017;RECEBIMENTO;-164948.0;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-04;CONTRATO;2025;L2500353139;REC-0272017-202507-AG0022;018/2017;RECEBIMENTO;-102836.84;"Linha aplicada ao 018/2017; documento pertence ao 027/2017";0.0;0.0
+TD-05;REM;2025;L2500487467;REM-0462017-IMPL-202510;046/2017;REMUNERACAO;8413645.62;"Taxa 0.099 (modal 0.069); esperado R$ 6,743,592.94";1670052.68;1670052.68
+TD-05;REM;2025;L2500540681;REM-0462017-IMPL-202511;046/2017;REMUNERACAO;8426031.69;"Taxa 0.099 (modal 0.069); esperado R$ 6,753,520.46";1672511.23;1672511.23
+TD-05;REM;2025;L2500598421;REM-0462017-IMPL-202512;046/2017;REMUNERACAO;8439012.37;"Taxa 0.099 (modal 0.069); esperado R$ 6,763,924.56";1675087.81;1675087.81

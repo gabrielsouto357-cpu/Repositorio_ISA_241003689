@@ -1,0 +1,116 @@
+{
+ "estagio1": {
+  "excecoes_examinadas": 588,
+  "linhas_com_distorcao": 543,
+  "soma_abs_efeito_saldo_brl": 44928821.04,
+  "soma_abs_efeito_resultado_brl": 48456342.18,
+  "efeito_liquido_saldo_brl": 30525784.48,
+  "efeito_liquido_resultado_brl": 34053305.62,
+  "por_teste": {
+   "TD-01|R1": {
+    "linhas": 35,
+    "saldo_brl": 4893510.12,
+    "resultado_brl": 4893510.12
+   },
+   "TD-01|R2": {
+    "linhas": 20,
+    "saldo_brl": 7716140.92,
+    "resultado_brl": 7716140.92
+   },
+   "TD-01|R4": {
+    "linhas": 60,
+    "saldo_brl": 4600000.0,
+    "resultado_brl": 4600000.0
+   },
+   "TD-01|R5": {
+    "linhas": 150,
+    "saldo_brl": 0.0,
+    "resultado_brl": 3527521.14
+   },
+   "TD-01|R6": {
+    "linhas": 2,
+    "saldo_brl": 15500000.0,
+    "resultado_brl": 15500000.0
+   },
+   "TD-03|CORTE-2026": {
+    "linhas": 273,
+    "saldo_brl": -7201518.28,
+    "resultado_brl": -7201518.28
+   },
+   "TD-05|REM": {
+    "linhas": 3,
+    "saldo_brl": 5017651.72,
+    "resultado_brl": 5017651.72
+   }
+  },
+  "classificacao_contratos_TD04_brl": -1986044.78,
+  "classificacao_circulante_TD06": [
+   {
+    "contrato": "059/2001",
+    "componente": "SE_FIN",
+    "indice_2024": 0.2430312587001021,
+    "indice_2025": 0.449107010887604,
+    "circulante_2025_brl": 1397735540.17,
+    "circulante_esperado_brl": 756375250.05,
+    "diferenca_brl": 641360290.12,
+    "excecao": true
+   }
+  ],
+  "ajustes_provisao_dez_2026": [
+   {
+    "contrato": "005/2021",
+    "diferenca_brl": -751252.0,
+    "abs_menor_que_CT": true
+   },
+   {
+    "contrato": "006/2023",
+    "diferenca_brl": 686226.0,
+    "abs_menor_que_CT": true
+   },
+   {
+    "contrato": "008/2022",
+    "diferenca_brl": 64169.0,
+    "abs_menor_que_CT": true
+   },
+   {
+    "contrato": "011/2022",
+    "diferenca_brl": 234794.0,
+    "abs_menor_que_CT": true
+   },
+   {
+    "contrato": "012/2023",
+    "diferenca_brl": -1442686.0,
+    "abs_menor_que_CT": true
+   },
+   {
+    "contrato": "014/2023",
+    "diferenca_brl": -168989.0,
+    "abs_menor_que_CT": true
+   }
+  ]
+ },
+ "mus": {
+  "TM_base_brl": 90000000.0,
+  "TM_amostra_brl": 41543657.82,
+  "EE_brl": 9000000.0,
+  "FE": 1.6,
+  "FC0": 2.9957322735539895,
+  "itens_especificos_excluidos": 302,
+  "estrato_superior_itens": 1,
+  "estrato_superior_valor_brl": 10000000.0,
+  "estrato_superior_distorcao_brl": 0.0,
+  "VC_restante_brl": 6424285941.99,
+  "linhas_restante": 268962,
+  "n_calculado": 710,
+  "J_brl": 9048290.05,
+  "inicio_aleatorio_centavos": 519156127,
+  "n_selecionado": 710,
+  "distorcoes_na_amostra": 0,
+  "soma_distorcoes_amostra_brl": 0.0,
+  "precisao_basica_brl": 27106254.523262445,
+  "distorcao_projetada_brl": 0.0,
+  "acrescimo_brl": 0.0,
+  "limite_superior_brl": 27106254.523262445,
+  "conclusao": "limite superior ≤ TM_amostra"
+ }
+}

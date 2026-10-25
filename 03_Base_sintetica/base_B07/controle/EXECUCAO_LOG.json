@@ -1,0 +1,353 @@
+{
+ "projeto": "Base SINTÉTICA de Ativos da concessão – ISA Energia Brasil 2025 (didática; não são dados internos da companhia)",
+ "inicio_brasilia": "2026-10-20T23:39:14-03:00",
+ "ambiente": {
+  "python": "3.13.16",
+  "sistema": "Linux-6.18.44-fc-v139-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "openpyxl": "3.1.5"
+ },
+ "config": {
+  "_sobre": "Configuração da base SINTÉTICA de Ativos da concessão (Bloco 07; D-019, D-020, D-021). Valores em R$ mil, salvo indicação. Totais de grupo = DFs reais (F0003 p.45 e p.47); abertura por contrato, mês, linha, usuário e fornecedor = sintética (premissa).",
+  "semente": 20251231,
+  "valor_medio_item_medicao_brl": 23500,
+  "sigma_lognormal_medicao": 1.3,
+  "usuarios_pagadores_total": 480,
+  "ipca_anual_premissa": 0.0426,
+  "_ipca_fonte": "F0003 (Relatório da Administração): IPCA de 4,26% em 2025; usado só como premissa de cálculo da remuneração mensal",
+  "fator_rap_jan_jun": 0.965,
+  "vencimento_dia": 15,
+  "prob_atraso": 0.04,
+  "sazonalidade_obras": [
+   0.065,
+   0.07,
+   0.078,
+   0.08,
+   0.081,
+   0.082,
+   0.086,
+   0.088,
+   0.09,
+   0.092,
+   0.093,
+   0.095
+  ],
+  "metas_mil": {
+   "fonte": "F0003 p.45 (nota 5.3), p.47 (nota 5.5) e p.23; perda esperada: p.47 (8.103 consolidado; 6.780 controladora)",
+   "OEM": {
+    "Controladora": {
+     "abertura_liquida": 136678,
+     "perda_abertura": -3190,
+     "receita": 1139825,
+     "perda_movimento": -3590,
+     "recebimentos": -1177581,
+     "fechamento_liquido": 95332
+    },
+    "Controlada": {
+     "abertura_liquida": 56386,
+     "perda_abertura": -627,
+     "receita": 125042,
+     "perda_movimento": -696,
+     "recebimentos": -117801,
+     "fechamento_liquido": 62931
+    }
+   },
+   "SE_FIN": {
+    "abertura": 4990315,
+    "remuneracao_bruta": 445000,
+    "evento_REH_3466": -898790,
+    "recebimentos": -1424270,
+    "fechamento": 3112255
+   },
+   "SE_ECO": {
+    "abertura": 3113419,
+    "remuneracao": 138858,
+    "recebimentos": -140430,
+    "fechamento": 3111847
+   },
+   "IMPL": {
+    "Controladora": {
+     "abertura": 15469771,
+     "infraestrutura": 5682056,
+     "eficiencia": -25884,
+     "rtp": 166331,
+     "remuneracao": 2432923,
+     "recebimentos": -1792373,
+     "fechamento": 21932824
+    },
+    "Controlada": {
+     "abertura": 7280254,
+     "infraestrutura": 647992,
+     "eficiencia": 15371,
+     "rtp": -7128,
+     "remuneracao": 831246,
+     "recebimentos": -651626,
+     "fechamento": 8116109
+    }
+   },
+   "circulante": {
+    "2024": {
+     "consolidado": 3604640,
+     "controladora": 2995312
+    },
+    "2025": {
+     "consolidado": 4106084,
+     "controladora": 3389862
+    }
+   },
+   "publicado_total": {
+    "2024": 31046823,
+    "2025": 36431298,
+    "controladora_2024": 23710183,
+    "controladora_2025": 28252258,
+    "ativo_contratual_2025": 36273035
+   }
+  },
+  "_premissas_arbitradas": "Separação do SE em remuneração bruta 445.000 + evento REH 3.466/2025 (-898.790, real); remuneração SE_ECO = IPCA × saldo; divisão O&M × ativo contratual por grupo (O&M = toda a receita de O&M e a perda esperada); aberturas por contrato; taxas, margens e nº de usuários por contrato (arquivo SINTETICO_parametros_contratos.csv).",
+  "erro_esperado_didatico_mil": 9000
+ },
+ "etapas": [
+  {
+   "comando": "python codigo/gerar_referencia.py",
+   "retorno": 0,
+   "duracao_s": 36.2,
+   "saida_final": [
+    "RECEITA_INFRA                    269369",
+    "RECEBIMENTO                      221672",
+    "RECEITA_OEM                      108577",
+    "RECLASSIFICACAO                     440",
+    "REMUNERACAO                         361",
+    "PROVISAO_MEDICAO                     72",
+    "ESTORNO_PROVISAO                     66",
+    "SALDO_ABERTURA                       55",
+    "SALDO_ABERTURA_PERDA_ESPERADA        22",
+    "PERDA_ESPERADA                        6",
+    "RTP                                   5",
+    "EFICIENCIA                            5"
+   ],
+   "erros": ""
+  },
+  {
+   "comando": "python codigo/inserir_erros.py",
+   "retorno": 0,
+   "duracao_s": 19.3,
+   "saida_final": [
+    "Registro de erros gravado em gabarito_LACRADO/ (10 registros; conteúdo não exibido para não vazar o gabarito)",
+    "TESTE linhas 2025: 600474 | 2026: 26417"
+   ],
+   "erros": ""
+  },
+  {
+   "comando": "python codigo/conciliar.py",
+   "retorno": 0,
+   "duracao_s": 12.4,
+   "saida_final": [
+    "REF (R$): 36,431,298,000.00 | TESTE (R$): 36,463,023,784.44 | diferença TESTE − publicado (R$ mil): 31725.78444"
+   ],
+   "erros": ""
+  },
+  {
+   "comando": "python codigo/verificar.py",
+   "retorno": 0,
+   "duracao_s": 26.2,
+   "saida_final": [
+    "     TESTE    N16            2      EXCEÇÃO A INVESTIGAR",
+    "     TESTE    I01           14               INFORMATIVO",
+    "     TESTE    N17            0                        OK",
+    "     TESTE    N18            0                        OK",
+    "     TESTE    N19            0                        OK",
+    "     TESTE    N25            8      EXCEÇÃO A INVESTIGAR",
+    "     TESTE    N20            0                        OK",
+    "     TESTE    N21            0                        OK",
+    "     TESTE    N22            0                        OK",
+    "     TESTE    N23            1      EXCEÇÃO A INVESTIGAR",
+    "     TESTE    N24            1      EXCEÇÃO A INVESTIGAR",
+    "FALHAS DE GERAÇÃO: 0"
+   ],
+   "erros": ""
+  },
+  {
+   "comando": "python codigo/gerar_dicionario.py",
+   "retorno": 0,
+   "duracao_s": 10.5,
+   "saida_final": [
+    "dicionário: 31 campos de fluxo; 8 de estoque; 13 tipos"
+   ],
+   "erros": ""
+  }
+ ],
+ "arquivos": [
+  {
+   "arquivo": "DICIONARIO_DE_DADOS_SINTETICO.md",
+   "bytes": 8458,
+   "sha256": "c547b86e10597e5969943f0e04abf23b566bef757d8a0268a383b6b17c78a4f3",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "DICIONARIO_DE_DADOS_SINTETICO.xlsx",
+   "bytes": 14553,
+   "sha256": "aa13227190e5ff86cf7f89e40663dca09f33ac3f00d348fc4594caf08b528d2a",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/conciliar.py",
+   "bytes": 16563,
+   "sha256": "a1ce16c62510c7f72b3f7ec97453b6d11234d10ada8c1171d25c60c4cd50011b",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/gerar_dicionario.py",
+   "bytes": 13956,
+   "sha256": "1c191b3cf128e24bd844090273d6d4e67a480eeca8587b0f0f87d1ef3df59f11",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/gerar_referencia.py",
+   "bytes": 34951,
+   "sha256": "45d5eaae4f97b332ce0e6c01a811e1dd9fd6343b1b7d469c0bc44093ba548d7e",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/inserir_erros.py",
+   "bytes": 14570,
+   "sha256": "3275d0ba7767347ed76e20da696e5f33090306495b21b23fa059a1a28f7eb0ff",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/requirements.txt",
+   "bytes": 288,
+   "sha256": "f8a353ee7466270491471b48d764afa584412b1693ba1cfb4ed77b6bfb43846d",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/run_all.py",
+   "bytes": 3753,
+   "sha256": "c1e1f1eedfa80061347a593f620aa0d140ffa6ffb33fa0da4034a765b7a1eb5f",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "codigo/verificar.py",
+   "bytes": 17068,
+   "sha256": "f70413234eaffc13819af8139c09cf0858c4c8bc2919707557fc110ee47c9ef2",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "config/config_B07.json",
+   "bytes": 2615,
+   "sha256": "24ceb0f7f063e84614a17d8089d32571afc7188a92ccf21a5f1843b0f21b1441",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "controle/CONCILIACAO_BASE_B07.xlsx",
+   "bytes": 34869,
+   "sha256": "7ca302f2a8426f1be3d3db739222b04fff04f2dd65abbf8f4cd9d15104fb87cd",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "controle/RELATORIO_VERIFICACOES.md",
+   "bytes": 9207,
+   "sha256": "beea2c978ae1dd0fca473dd6a727207e212f82ff3eeab0fb0bd222d82a274838",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "controle/VERIFICACOES_RESULTADO.csv",
+   "bytes": 8484,
+   "sha256": "31b4c2e4ccbc340858d0d8de32c6b6593266ab435cf2a06bcdac434905217c11",
+   "linhas_dados": 82
+  },
+  {
+   "arquivo": "dados_reais_derivados/REAL_catalogo_modulos_ANEEL_28_contratos.csv",
+   "bytes": 844241,
+   "sha256": "d23811cf14c5da5864c97856862b797923481bea1a0c8d85e264473a33b2f383",
+   "linhas_dados": 4471
+  },
+  {
+   "arquivo": "dados_reais_derivados/REAL_contratos_F0003_p36.csv",
+   "bytes": 1911,
+   "sha256": "15580c74d6ab512402374d4861f6fca15ebff4fb9dd0d5c7120d8379c0b12f77",
+   "linhas_dados": 28
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_cadastro_fornecedores.csv",
+   "bytes": 65028,
+   "sha256": "0a8bd152f9fda774bba46e1eb1ee5b0a2948b46d6f6ddc19dc9704e67ec4840e",
+   "linhas_dados": 2500
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_cadastro_usuarios_pagadores.csv",
+   "bytes": 18210,
+   "sha256": "55a47f035caefe8f27274faaadf3f20c41dc92e2a70a618dd198d17018be1c54",
+   "linhas_dados": 480
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_lancamentos_2025_REFERENCIA.csv.gz",
+   "bytes": 12489738,
+   "sha256": "7cd3f974c0aaa5f6b86014f58415bbf8ef4a5869fd6c6def1dd62ba47675034a",
+   "linhas_dados": 600650
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_lancamentos_2025_TESTE.csv.gz",
+   "bytes": 12488376,
+   "sha256": "9dfbd6ceee58f236e4159e59a0b11e509749159729ecbf880cbc433be68cac07",
+   "linhas_dados": 600474
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_lancamentos_2026_jan_fev_REFERENCIA.csv.gz",
+   "bytes": 606543,
+   "sha256": "2d82d03cbcfe910b215c394678d8d10b8e8d89e854d4bc9f8569ab0a05ebbcec",
+   "linhas_dados": 26144
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_lancamentos_2026_jan_fev_TESTE.csv.gz",
+   "bytes": 615852,
+   "sha256": "4e40cc2e40b6186e3858e36a884e83cb610c088c8938abaa4d0daecfe0f8b596",
+   "linhas_dados": 26417
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_parametros_contratos.csv",
+   "bytes": 5106,
+   "sha256": "fb04a48795d692a8b3cf9b36448b0408ce2f5618bb5c0989a70c37e10e2f4702",
+   "linhas_dados": 28
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_saldos_REFERENCIA.csv",
+   "bytes": 9704,
+   "sha256": "338c3ac4f783c58cf3bd7dcd366bd3c233cd8b35179e54f8fa1be187c69ddb11",
+   "linhas_dados": 110
+  },
+  {
+   "arquivo": "dados_sinteticos/SINTETICO_saldos_TESTE.csv",
+   "bytes": 9705,
+   "sha256": "67ad34c381b2074b3033e05fc542b5302bb87d23c79ef280641a3e7ea096832e",
+   "linhas_dados": 110
+  },
+  {
+   "arquivo": "gabarito_LACRADO/LINHAS_ALTERADAS.csv",
+   "bytes": 43040,
+   "sha256": "8239d58f38d68a9fda202c1c2dde37586c35382581ba0ae7f8450bf0eace4d1e",
+   "linhas_dados": 553
+  },
+  {
+   "arquivo": "gabarito_LACRADO/MAPA_IDS_TESTE_COM_ERRO.csv",
+   "bytes": 14918,
+   "sha256": "f397f19aa12520429a1eaed76ab651c817e131df016d0f8b61059cb6668aa723",
+   "linhas_dados": 279
+  },
+  {
+   "arquivo": "gabarito_LACRADO/PONTE_EFEITO_ERROS.xlsx",
+   "bytes": 8094,
+   "sha256": "4b326944d815acbde8dac212e9004c84d0eed408331885a4a1358e8784e5a4ce",
+   "linhas_dados": null
+  },
+  {
+   "arquivo": "gabarito_LACRADO/REGISTRO_ERROS.csv",
+   "bytes": 1845,
+   "sha256": "3dc5a6b7ced13cb5b1b9d071fd1438dabfface1d9aa0f27fae77b196021ec763",
+   "linhas_dados": 10
+  }
+ ],
+ "fim_brasilia": "2026-10-20T23:41:00-03:00",
+ "observacao_hashes": "CSV e CSV.gz são determinísticos (semente fixa; gzip com mtime 0). Arquivos .xlsx guardam data de gravação nos metadados: a reprodução compara os valores das células, não o hash do .xlsx.",
+ "hashes_atualizados_brasilia": "2026-10-20T23:41:21-03:00"
+}

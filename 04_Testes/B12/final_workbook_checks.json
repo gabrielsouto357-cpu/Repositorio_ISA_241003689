@@ -1,0 +1,92 @@
+[
+  {
+    "file": "00_Controle\\CONCILIACAO_INVENTARIO_B01.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\FONTES_USADAS.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\MAPA_NORMATIVO.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\MATRIZ_COBERTURA.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\MATRIZ_RISCOS_RESPOSTAS.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\REFERENCIAS_MODELOS.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\REGISTRO_REVISAO.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "00_Controle\\REGISTRO_REVISAO_B12.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "01_Dados_reais\\CONF_B01_ATIVO_TOTAL_PDF_CVM.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "01_Dados_reais\\DADOS_REAIS_DF_2025_2024.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "02_Planejamento\\GRUPO_ISA_2025.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "02_Planejamento\\MAPA_DOCUMENTOS_POR_NOTA.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "02_Planejamento\\MATERIALIDADE_PT320.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "02_Planejamento\\MATRIZ_RISCOS_PT315.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "04_Testes\\B09\\planilhas\\PT540_ESTIMATIVA_ATIVO_CONTRATUAL.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "04_Testes\\B10\\planilhas\\PT505_CONTROLE_CIRCULARIZACAO.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "04_Testes\\B10\\planilhas\\PT560_EVENTOS_SUBSEQUENTES.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  },
+  {
+    "file": "04_Testes\\B10\\planilhas\\PT570_CONTINUIDADE.xlsx",
+    "formula_changes": [],
+    "cached_errors": []
+  }
+]

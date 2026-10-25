@@ -1,0 +1,21 @@
+{
+ "evento": "Congelamento dos resultados ANTES de abrir o gabarito lacrado",
+ "horario_brasilia": "2026-10-21T02:35:26-03:00",
+ "arquivos": {
+  "amostras/AMOSTRA_MUS.csv": "6e1958531de970f071088dffb4e1deeba0d6c993b0ce1dd5681cbf49b44788aa",
+  "amostras/POPULACAO_ELEGIVEL_MUS.csv.gz": "99cd1238d7f9a7f212d84f2e9c81c94ad7a990cd8abc8354f40a8c3f05b51979",
+  "codigo/b08_memoria.py": "5e14910c6094283bc83849c6be76e7a69e2345032175c163326c890a9eaf9152",
+  "codigo/b08_td06_adicional.py": "f7197ab7dc4113911abed562adc87ff73f6f8063debac92c7144adc1d6f5ea1b",
+  "codigo/b08_testes.py": "434e600b32faafa65d1377fb3c261fa87b654faded92bdb4c99fe8908da34a05",
+  "desenho/DESENHO_TESTES_B08.md": "663d2559c731f4622248d8e4e2f4a1d2f2d03b63dabd17af8c26b285905ecb42",
+  "desenho/PARAMETROS_B08.json": "19d8e3d42e5af2283caf5f7acb3b7bd7862b7226cac54b61e55647b4c33a994d",
+  "resultados/DISTORCOES_ESTAGIO1.csv": "1d843062f25d2cbdd3487b8041ca5ef6e0df2216ce2fac1aafd88af7295d24df",
+  "resultados/EXCECOES_EXAMINADAS_ESTAGIO1.csv": "13c3769e9b60ff0996bfe459c133cbb8639f9b24e2a3b2ab35490c7d3b12e0d8",
+  "resultados/MEMORIA_CALCULO_B08.xlsx": "72ead212c83d4d09badfb61800f22c2b1c07d0ba874e81fa21b6d025e8972ebd",
+  "resultados/RESULTADOS_B08.json": "6188724a26aa17e3f6d1c5d9d1595acd1969ab5df5d50615bca75a35e67582e3",
+  "resultados/RESULTADOS_TESTES_B08.md": "3e4a6390b4dbbe730d0c4d323b868c6cdc7217136aeb8c0fb624cb9db0a7f120",
+  "resultados/TD05_REMUNERACAO_RECALCULO.csv": "111c0317e287a05bb15eea661646e25ed159328b6112a946910a43a7d681905c",
+  "resultados/TD06_ADICIONAL_RECEBIMENTOS_2026.csv": "1b93bd9c93abe62ca5be1be32761cda39936f00b933749e80e31250eaf5a3c47",
+  "resultados/TD06_CLASSIFICACAO.csv": "f5b10f5018e745dada386ca848328bb7d7def32c737709932d696c233b27d221"
+ }
+}

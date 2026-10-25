@@ -1,0 +1,184 @@
+[
+ {
+  "source": "F0003",
+  "page": 3,
+  "exists": true,
+  "characters": 4925,
+  "image_render": "F0003_p3.png"
+ },
+ {
+  "source": "F0003",
+  "page": 23,
+  "exists": true,
+  "characters": 1771,
+  "image_render": "F0003_p23.png"
+ },
+ {
+  "source": "F0003",
+  "page": 24,
+  "exists": true,
+  "characters": 2292,
+  "image_render": "F0003_p24.png"
+ },
+ {
+  "source": "F0003",
+  "page": 25,
+  "exists": true,
+  "characters": 2283,
+  "image_render": "F0003_p25.png"
+ },
+ {
+  "source": "F0003",
+  "page": 39,
+  "exists": true,
+  "characters": 3875,
+  "image_render": "F0003_p39.png"
+ },
+ {
+  "source": "F0003",
+  "page": 45,
+  "exists": true,
+  "characters": 3264,
+  "image_render": "F0003_p45.png"
+ },
+ {
+  "source": "F0003",
+  "page": 47,
+  "exists": true,
+  "characters": 2388,
+  "image_render": "F0003_p47.png"
+ },
+ {
+  "source": "F0003",
+  "page": 52,
+  "exists": true,
+  "characters": 2537,
+  "image_render": "F0003_p52.png"
+ },
+ {
+  "source": "F0003",
+  "page": 54,
+  "exists": true,
+  "characters": 2671,
+  "image_render": "F0003_p54.png"
+ },
+ {
+  "source": "F0003",
+  "page": 82,
+  "exists": true,
+  "characters": 3048,
+  "image_render": "F0003_p82.png"
+ },
+ {
+  "source": "F0003",
+  "page": 117,
+  "exists": true,
+  "characters": 2615,
+  "image_render": "F0003_p117.png"
+ },
+ {
+  "source": "F0003",
+  "page": 135,
+  "exists": true,
+  "characters": 4311,
+  "image_render": "F0003_p135.png"
+ },
+ {
+  "source": "F0003",
+  "page": 136,
+  "exists": true,
+  "characters": 4986,
+  "image_render": "F0003_p136.png"
+ },
+ {
+  "source": "F0003",
+  "page": 139,
+  "exists": true,
+  "characters": 943,
+  "image_render": "F0003_p139.png"
+ },
+ {
+  "source": "F0053",
+  "page": 223,
+  "exists": true,
+  "characters": 3170,
+  "image_render": "F0053_p223.png"
+ },
+ {
+  "source": "F0054",
+  "page": 218,
+  "exists": true,
+  "characters": 5463,
+  "image_render": "F0054_p218.png"
+ },
+ {
+  "source": "F0054",
+  "page": 219,
+  "exists": true,
+  "characters": 4760,
+  "image_render": "F0054_p219.png"
+ },
+ {
+  "source": "F0054",
+  "page": 220,
+  "exists": true,
+  "characters": 4344,
+  "image_render": "F0054_p220.png"
+ },
+ {
+  "source": "F0200",
+  "page": 41,
+  "exists": true,
+  "characters": 2812,
+  "image_render": "F0200_p41.png"
+ },
+ {
+  "source": "F0202",
+  "page": 33,
+  "exists": true,
+  "characters": 3294,
+  "image_render": "F0202_p33.png"
+ },
+ {
+  "source": "F0204",
+  "page": 39,
+  "exists": true,
+  "characters": 2946,
+  "image_render": "F0204_p39.png"
+ },
+ {
+  "source": "F0206",
+  "page": 28,
+  "exists": true,
+  "characters": 3121,
+  "image_render": "F0206_p28.png"
+ },
+ {
+  "source": "F0219",
+  "page": 26,
+  "exists": true,
+  "characters": 3126,
+  "image_render": "F0219_p26.png"
+ },
+ {
+  "source": "F0220",
+  "page": 41,
+  "exists": true,
+  "characters": 3316,
+  "image_render": "F0220_p41.png"
+ },
+ {
+  "source": "F0230",
+  "page": 47,
+  "exists": true,
+  "characters": 3035,
+  "image_render": "F0230_p47.png"
+ },
+ {
+  "source": "F0232",
+  "page": 34,
+  "exists": true,
+  "characters": 3075,
+  "image_render": "F0232_p34.png"
+ }
+]

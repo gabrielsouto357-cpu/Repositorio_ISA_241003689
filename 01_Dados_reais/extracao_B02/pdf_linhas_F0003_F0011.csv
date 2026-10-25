@@ -1,0 +1,278 @@
+doc;pagina_fisica;linha_pagina;quadro;secao;rotulo;nota;CTRL_2025;CTRL_2024;CON_2025;CON_2024;CTRL_2023;CON_2023;texto_original
+F0003;23;9;BP_ATIVO;;Balanços Patrimoniais Circulante Caixa e equivalentes de caixa;6.4.2;1319257;2820214;1356062;2914747;;;Caixa e equivalentes de caixa  6.4.2  1.319.257  2.820.214  1.356.062  2.914.747
+F0003;23;10;BP_ATIVO;;Aplicações financeiras;6.5.2;356744;37829;808924;485995;;;Aplicações financeiras  6.5.2  356.744  37.829  808.924  485.995
+F0003;23;11;BP_ATIVO;;Ativos da concessão;5.3;3389862;2995312;4106084;3604640;;;Ativos da concessão  5.3  3.389.862  2.995.312  4.106.084  3.604.640
+F0003;23;12;BP_ATIVO;;Estoques;;59223;81294;72704;94384;;;Estoques  -  59.223  81.294  72.704  94.384
+F0003;23;13;BP_ATIVO;;Tributos e contribuições a compensar;12.1;219705;439576;229311;453046;;;Tributos e contribuições a compensar  12.1  219.705  439.576  229.311  453.046
+F0003;23;14;BP_ATIVO;;Instrumentos financeiros derivativos;23.1.3;37384;40880;37384;41658;;;Instrumentos financeiros derivativos  23.1.3  37.384  40.880  37.384  41.658
+F0003;23;15;BP_ATIVO;;Créditos com partes relacionadas;22.1;316603;334647;126579;142546;;;Créditos com partes relacionadas  22.1  316.603  334.647  126.579  142.546
+F0003;23;16;BP_ATIVO;;Outros;;341155;193235;350391;202433;;;Outros  341.155  193.235  350.391  202.433
+F0003;23;18;BP_ATIVO;;;;6039933;6942987;7087439;7939449;;;6.039.933  6.942.987  7.087.439  7.939.449
+F0003;23;22;BP_ATIVO;Realizável a longo prazo;Ativos da concessão;5.3;24862396;20714871;32325214;27442183;;;Ativos da concessão  5.3  24.862.396  20.714.871  32.325.214  27.442.183
+F0003;23;23;BP_ATIVO;Realizável a longo prazo;Valores a receber - Secretaria da Fazenda;9.2;2760806;2564527;2760806;2564527;;;Valores a receber - Secretaria da Fazenda  9.2  2.760.806  2.564.527  2.760.806  2.564.527
+F0003;23;24;BP_ATIVO;Realizável a longo prazo;Cauções e depósitos vinculados;14.2.2;45844;43436;46049;43650;;;Cauções e depósitos vinculados  14.2.2  45.844  43.436  46.049  43.650
+F0003;23;25;BP_ATIVO;Realizável a longo prazo;Estoques;;64151;112712;94871;140344;;;Estoques  -  64.151  112.712  94.871  140.344
+F0003;23;26;BP_ATIVO;Realizável a longo prazo;Instrumentos financeiros derivativos;23.1.3;20406;84715;20406;84715;;;Instrumentos financeiros derivativos  23.1.3  20.406  84.715  20.406  84.715
+F0003;23;27;BP_ATIVO;Realizável a longo prazo;Outros;;78275;124913;95413;142798;;;Outros  78.275  124.913  95.413  142.798
+F0003;23;30;BP_ATIVO;Realizável a longo prazo;;;27831878;23645174;35342759;30418217;;;27.831.878  23.645.174  35.342.759  30.418.217
+F0003;23;32;BP_ATIVO;Realizável a longo prazo;Investimentos;7.2;11419264;10765487;4154815;4354888;;;Investimentos  7.2  11.419.264  10.765.487  4.154.815  4.354.888
+F0003;23;33;BP_ATIVO;Realizável a longo prazo;Imobilizado;10.1.2;176403;149153;180126;153613;;;Imobilizado  10.1.2  176.403  149.153  180.126  153.613
+F0003;23;34;BP_ATIVO;Realizável a longo prazo;Intangível;10.2.2;493265;498453;436233;438465;;;Intangível  10.2.2  493.265  498.453  436.233  438.465
+F0003;23;36;BP_ATIVO;Realizável a longo prazo;;;12088932;11413093;4771174;4946966;;;12.088.932  11.413.093  4.771.174  4.946.966
+F0003;23;38;BP_ATIVO;Realizável a longo prazo;;;39920810;35058267;40113933;35365183;;;39.920.810  35.058.267  40.113.933  35.365.183
+F0003;23;40;BP_ATIVO;Realizável a longo prazo;Total do ativo;;45960743;42001254;47201372;43304632;;;Total do ativo  45.960.743  42.001.254  47.201.372  43.304.632
+F0003;24;10;BP_PASSIVO_PL;;Circulante Empréstimos e financiamentos;6.2.2;73579;66245;90082;82056;;;Empréstimos e financiamentos  6.2.2  73.579  66.245  90.082  82.056
+F0003;24;11;BP_PASSIVO_PL;;Debêntures;6.1.2;496001;1109914;496001;1109914;;;Debêntures  6.1.2  496.001  1.109.914  496.001  1.109.914
+F0003;24;12;BP_PASSIVO_PL;;Arrendamento;6.3.2;18357;11642;18677;12020;;;Arrendamento  6.3.2  18.357  11.642  18.677  12.020
+F0003;24;13;BP_PASSIVO_PL;;Fornecedores;;243352;155733;254445;182169;;;Fornecedores  243.352  155.733  254.445  182.169
+F0003;24;14;BP_PASSIVO_PL;;Tributos e encargos sociais a recolher;12.2;199187;114180;213325;139146;;;Tributos e encargos sociais a recolher  12.2  199.187  114.180  213.325  139.146
+F0003;24;15;BP_PASSIVO_PL;;Encargos regulatórios a recolher;13.2;59496;65962;69203;66750;;;Encargos regulatórios a recolher  13.2  59.496  65.962  69.203  66.750
+F0003;24;16;BP_PASSIVO_PL;;Juros sobre capital próprio e dividendos a pagar;15.2.2;422540;1329622;422540;1329622;;;Juros sobre capital próprio e dividendos a pagar  15.2.2  422.540  1.329.622  422.540  1.329.622
+F0003;24;17;BP_PASSIVO_PL;;Obrigações trabalhistas;;79962;71658;79962;71658;;;Obrigações trabalhistas  79.962  71.658  79.962  71.658
+F0003;24;18;BP_PASSIVO_PL;;Instrumentos financeiros derivativos;23.1.3;2916;0;2916;0;;;Instrumentos financeiros derivativos  23.1.3  2.916  -  2.916  -
+F0003;24;19;BP_PASSIVO_PL;;Provisões - Capex;;130037;115254;210460;244333;;;Provisões - Capex  130.037  115.254  210.460  244.333
+F0003;24;20;BP_PASSIVO_PL;;Outros;;17850;18377;29160;27150;;;Outros  17.850  18.377  29.160  27.150
+F0003;24;22;BP_PASSIVO_PL;;;;1743277;3058587;1886771;3264818;;;1.743.277  3.058.587  1.886.771  3.264.818
+F0003;24;24;BP_PASSIVO_PL;;Não circulante Empréstimos e financiamentos;6.2.2;608203;574611;669117;651766;;;Empréstimos e financiamentos  6.2.2  608.203  574.611  669.117  651.766
+F0003;24;25;BP_PASSIVO_PL;;Debêntures;6.1.2;14696513;11392559;14696513;11392559;;;Debêntures  6.1.2  14.696.513  11.392.559  14.696.513  11.392.559
+F0003;24;26;BP_PASSIVO_PL;;Arrendamento;6.3.2;36067;23926;36959;25489;;;Arrendamento  6.3.2  36.067  23.926  36.959  25.489
+F0003;24;27;BP_PASSIVO_PL;;PIS e COFINS diferidos;8.2;2625077;2186286;2966130;2493513;;;PIS e COFINS diferidos  8.2  2.625.077  2.186.286  2.966.130  2.493.513
+F0003;24;28;BP_PASSIVO_PL;;Imposto de renda e contribuição social diferidos;8.4;4930066;4856695;5287595;5175168;;;Imposto de renda e contribuição social diferidos  8.4  4.930.066  4.856.695  5.287.595  5.175.168
+F0003;24;29;BP_PASSIVO_PL;;Encargos regulatórios a recolher;13.2;28409;24487;37134;30763;;;Encargos regulatórios a recolher  13.2  28.409  24.487  37.134  30.763
+F0003;24;30;BP_PASSIVO_PL;;Provisões;14.1.3;121261;167726;163035;197271;;;Provisões  14.1.3  121.261  167.726  163.035  197.271
+F0003;24;31;BP_PASSIVO_PL;;Instrumentos financeiros derivativos;23.1.3;17312;0;17312;0;;;Instrumentos financeiros derivativos  23.1.3  17.312  -  17.312  -
+F0003;24;32;BP_PASSIVO_PL;;Outros;;3091;1796;3795;2003;;;Outros  3.091  1.796  3.795  2.003
+F0003;24;34;BP_PASSIVO_PL;;;;23065999;19228086;23877590;19968532;;;23.065.999  19.228.086  23.877.590  19.968.532
+F0003;24;36;BP_PASSIVO_PL;;Patrimônio líquido Capital social;15.1;3590020;3590020;3590020;3590020;;;Capital social  15.1  3.590.020  3.590.020  3.590.020  3.590.020
+F0003;24;37;BP_PASSIVO_PL;;Reservas de capital;15.3;666;666;666;666;;;Reservas de capital  15.3  666  666  666  666
+F0003;24;38;BP_PASSIVO_PL;;Reservas e Retenção de lucros;15.4;17183674;15950329;17183674;15950329;;;Reservas e Retenção de lucros  15.4  17.183.674  15.950.329  17.183.674  15.950.329
+F0003;24;39;BP_PASSIVO_PL;;Dividendos adicionais propostos;15.2.2;279322;0;279322;0;;;Dividendos adicionais propostos  15.2.2  279.322  -  279.322  -
+F0003;24;40;BP_PASSIVO_PL;;Outros resultados abrangentes;15.5;97785;173566;97785;173566;;;Outros resultados abrangentes  15.5  97.785  173.566  97.785  173.566
+F0003;24;42;BP_PASSIVO_PL;;;;21151467;19714581;21151467;19714581;;;21.151.467  19.714.581  21.151.467  19.714.581
+F0003;24;45;BP_PASSIVO_PL;;Participação de não controladores nos fundos de investimentos;;0;0;285544;356701;;;investimentos  -  -  285.544  356.701
+F0003;24;47;BP_PASSIVO_PL;;;;21151467;19714581;21437011;20071282;;;21.151.467  19.714.581  21.437.011  20.071.282
+F0003;24;49;BP_PASSIVO_PL;;Total do passivo e do patrimônio líquido;;45960743;42001254;47201372;43304632;;;Total do passivo e do patrimônio líquido  45.960.743  42.001.254  47.201.372  43.304.632
+F0003;25;7;DRE;Demonstrações dos resultados;Receita operacional líquida;;7932255;6417562;9411153;7966581;;;Receita operacional líquida  7.932.255  6.417.562  9.411.153  7.966.581
+F0003;25;10;DRE;Demonstrações dos resultados;Receita de infraestrutura, operação e manutenção, ganho de eficiência na implementação da 16.3 infraestrutura e outras, líquidas;;6010178;4348018;6734720;5218153;;;infraestrutura e outras, líquidas  6.010.178  4.348.018  6.734.720  5.218.153
+F0003;25;11;DRE;Demonstrações dos resultados;Remuneração dos ativos da concessão, líquida;16.3;1922077;2069544;2676433;2748428;;;Remuneração dos ativos da concessão, líquida  16.3  1.922.077  2.069.544  2.676.433  2.748.428
+F0003;25;14;DRE;Demonstrações dos resultados;Custos dos serviços de implementação da infraestrutura, operação e manutenção e de;;17;;;;;;infraestrutura, operação e manutenção e de  17
+F0003;25;15;DRE;Demonstrações dos resultados;serviços prestados;;-5100425;-3363538;-5708038;-4229120;;;serviços prestados  (5.100.425)  (3.363.538)  (5.708.038)  (4.229.120)
+F0003;25;17;DRE;Demonstrações dos resultados;Lucro bruto;;2831830;3054024;3703115;3737461;;;Lucro bruto  2.831.830  3.054.024  3.703.115  3.737.461
+F0003;25;20;DRE;Receitas (Despesas) operacionais;Receitas – Revisão Tarifária Periódica, líquidas;;166331;1128220;159463;1152707;;;Receitas – Revisão Tarifária Periódica, líquidas  18  166.331  1.128.220  159.463  1.152.707
+F0003;25;21;DRE;Receitas (Despesas) operacionais;Gerais e administrativas;;-228556;-327263;-252947;-347511;;;Gerais e administrativas  17  (228.556)  (327.263)  (252.947)  (347.511)
+F0003;25;24;DRE;Receitas (Despesas) operacionais;17 e Honorários da administração;22.2;-17537;-17077;-17537;-17077;;;Honorários da administração  (17.537)  (17.537) || 22.2  (17.077)  (17.077)
+F0003;25;25;DRE;Receitas (Despesas) operacionais;Outras receitas (despesas) operacionais, líquidas;;30669;18228;28763;21120;;;Outras receitas (despesas) operacionais, líquidas  19  30.669  18.228  28.763  21.120
+F0003;25;26;DRE;Receitas (Despesas) operacionais;Resultado de equivalência patrimonial;7.3;1294065;1128626;511049;584578;;;Resultado de equivalência patrimonial  7.3  1.294.065  1.128.626  511.049  584.578
+F0003;25;27;DRE;Receitas (Despesas) operacionais;;;1244972;1930734;428791;1393817;;;1.244.972  1.930.734  428.791  1.393.817
+F0003;25;30;DRE;Receitas (Despesas) operacionais;Lucro antes das receitas e despesas financeiras e dos impostos sobre o lucro;;4076802;4984758;4131906;5131278;;;dos impostos sobre o lucro  4.076.802  4.984.758  4.131.906  5.131.278
+F0003;25;32;DRE;Receitas (Despesas) operacionais;Receitas financeiras;;352417;206226;445858;283837;;;Receitas financeiras  20  352.417  206.226  445.858  283.837
+F0003;25;33;DRE;Receitas (Despesas) operacionais;Despesas financeiras;;-1784814;-1235964;-1797455;-1246454;;;Despesas financeiras  20  (1.784.814)  (1.235.964)  (1.797.455)  (1.246.454)
+F0003;25;34;DRE;Receitas (Despesas) operacionais;;;-1432397;-1029738;-1351597;-962617;;;(1.432.397)  (1.029.738)  (1.351.597)  (962.617)
+F0003;25;37;DRE;Receitas (Despesas) operacionais;Lucro antes do imposto de renda e da contribuição social;;2644405;3955020;2780309;4168661;;;contribuição social  2.644.405  3.955.020  2.780.309  4.168.661
+F0003;25;40;DRE;Imposto de renda e contribuição social;Corrente;21.2;-78206;-27591;-112015;-59207;;;Corrente  21.2  (78.206)  (27.591)  (112.015)  (59.207)
+F0003;25;41;DRE;Imposto de renda e contribuição social;Diferido;21.2;-118300;-429013;-157279;-556723;;;Diferido  21.2  (118.300)  (429.013)  (157.279)  (556.723)
+F0003;25;42;DRE;Imposto de renda e contribuição social;;;-196506;-456604;-269294;-615930;;;(196.506)  (456.604)  (269.294)  (615.930)
+F0003;25;44;DRE;Imposto de renda e contribuição social;Lucro líquido do exercício;;2447899;3498416;2511015;3552731;;;Lucro líquido do exercício  2.447.899  3.498.416  2.511.015  3.552.731
+F0003;25;47;DRE;Atribuível aos:;Acionistas controladores;;;;2447899;3498416;;;Acionistas controladores  2.447.899  3.498.416
+F0003;25;48;DRE;Atribuível aos:;Acionistas não controladores;;;;63116;54315;;;Acionistas não controladores  63.116  54.315
+F0003;25;50;DRE;Atribuível aos:;Lucro básico por ação;15.6.2;3.71522;5.30961;;;;;Lucro básico por ação  15.6.2  3,71522  5,30961
+F0003;25;52;DRE;Atribuível aos:;Lucro diluído por ação;15.6.2;3.71498;5.30928;;;;;Lucro diluído por ação  15.6.2  3,71498  5,30928
+F0003;26;7;DRA;Demonstrações dos resultados abrangentes;Lucro líquido do exercício;;2447899;3498416;2511015;3552731;;;Lucro líquido do exercício  2.447.899  3.498.416  2.511.015  3.552.731
+F0003;26;12;DRA;Demonstrações dos resultados abrangentes;Outros resultados abrangentes Itens que não serão reclassificados subsequentemente para o resultado Benefício pós emprego – superávit (déficit) atuarial;11.3;-41132;409297;-41132;409297;;;Benefício pós emprego – superávit (déficit) atuarial  11.3  (41.132)  409.297  (41.132)  409.297
+F0003;26;14;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;(déficit) atuarial;;13985;-139161;13985;-139161;;;(déficit) atuarial  13.985  (139.161)  13.985  (139.161)
+F0003;26;16;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Ajuste instrumento financeiro de controladas, por equivalência patrimonial, líquido;7.2;-979;26478;-979;26478;;;patrimonial, líquido  7.2  (979)  26.478  (979)  26.478
+F0003;26;18;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Ajuste instrumento financeiro de controladas em conjunto, por equivalência patrimonial, líquido;;-89;0;-89;0;;;equivalência patrimonial, líquido  (89)  -  (89)  -
+F0003;26;19;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Ajuste instrumento financeiro de controladora, líquido;;-47566;84524;-47566;84524;;;Ajuste instrumento financeiro de controladora, líquido  (47.566)  84.524  (47.566)  84.524
+F0003;26;21;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Total de outros resultados abrangentes, líquido;;-75781;381138;-75781;381138;;;Total de outros resultados abrangentes, líquido  (75.781)  381.138  (75.781)  381.138
+F0003;26;23;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Total do resultado abrangente do exercício;;2372118;3879554;2435234;3933869;;;Total do resultado abrangente do exercício  2.372.118  3.879.554  2.435.234  3.933.869
+F0003;26;26;DRA;Atribuível aos:;Acionistas controladores;;;;2372118;3879554;;;Acionistas controladores  2.372.118  3.879.554
+F0003;26;27;DRA;Atribuível aos:;Acionistas não controladores;;;;63116;54315;;;Acionistas não controladores  63.116  54.315
+F0003;29;6;DFC;Atividades operacionais;Lucro líquido do exercício;;2447899;3498416;2511014;3552731;;;Lucro líquido do exercício  2.447.899  3.498.416  2.511.014  3.552.731
+F0003;29;9;DFC;atividades operacionais;PIS e COFINS diferidos (8.2);;438791;378390;472617;458852;;;PIS e COFINS diferidos (8.2)  438.791  378.390  472.617  458.852
+F0003;29;10;DFC;atividades operacionais;Depreciação e amortização (nota 17);;34290;36899;34692;37357;;;Depreciação e amortização (nota 17)  34.290  36.899  34.692  37.357
+F0003;29;11;DFC;atividades operacionais;Imposto de renda e contribuição social diferidos (nota 8.4);;118300;429013;157279;556723;;;Imposto de renda e contribuição social diferidos (nota 8.4)  118.300  429.013  157.279  556.723
+F0003;29;12;DFC;atividades operacionais;Demandas judiciais (nota 14.1.4);;8498;71384;17781;75927;;;Demandas judiciais (nota 14.1.4)  8.498  71.384  17.781  75.927
+F0003;29;14;DFC;atividades operacionais;Custo residual de ativo imobilizado/intangível baixado (nota 10.1.2 e 10.2.2);;58;2782;64;2782;;;(nota 10.1.2 e 10.2.2)  58  2.782  64  2.782
+F0003;29;15;DFC;atividades operacionais;Benefício fiscal – ágio incorporado;;36;37;36;37;;;Benefício fiscal – ágio incorporado  36  37  36  37
+F0003;29;17;DFC;Benefício a empregados – superávit/déficit atuarial (nota;11.3);;7692;44624;7692;44624;;;11.3)  7.692  44.624  7.692  44.624
+F0003;29;19;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Realização de ativo da concessão na aquisição de controlada (nota 7.2);;18792;19862;18792;19862;;;controlada (nota 7.2)  18.792  19.862  18.792  19.862
+F0003;29;20;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Resultado de equivalência patrimonial (nota 7.3);;-1291104;-1126738;-511049;-584578;;;Resultado de equivalência patrimonial (nota 7.3)  (1.291.104)  (1.126.738)  (511.049)  (584.578)
+F0003;29;21;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Ativos da concessão (nota 5.3);;-9076729;-8551436;-10688556;-10262943;;;Ativos da concessão (nota 5.3)  (9.076.729)  (8.551.436)  (10.688.556)  (10.262.943)
+F0003;29;22;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Rendimento sobre aplicações financeiras;;-134131;-147231;-152271;-164042;;;Rendimento sobre aplicações financeiras  (134.131)  (147.231)  (152.271)  (164.042)
+F0003;29;24;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Juros e variações cambiais sobre empréstimos, financiamentos e debêntures;;1713940;1201543;1720848;1209509;;;financiamentos e debêntures  1.713.940  1.201.543  1.720.848  1.209.509
+F0003;29;25;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Transações com acionistas não controladores;;0;0;-63116;-54315;;;Transações com acionistas não controladores  -  -  (63.116)  (54.315)
+F0003;29;26;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Instrumentos Financeiros;;0;0;3850;0;;;Instrumentos Financeiros  -  -  3.850  -
+F0003;29;28;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Juros e variações monetárias e cambiais sobre ativos e passivos;;-48383;8870;-45607;11330;;;passivos  (48.383)  8.870  (45.607)  11.330
+F0003;29;30;DFC;Benefício a empregados – superávit/déficit atuarial (nota;;;-5762051;-4133585;-6515934;-5096144;;;(5.762.051)  (4.133.585)  (6.515.934)  (5.096.144)
+F0003;29;34;DFC;(Aumento) diminuição de ativos;Ativos da concessão;;4534654;4523619;5304081;5205495;;;Ativos da concessão  4.534.654  4.523.619  5.304.081  5.205.495
+F0003;29;35;DFC;(Aumento) diminuição de ativos;Estoques;;70632;58401;67153;65143;;;Estoques  70.632  58.401  67.153  65.143
+F0003;29;36;DFC;(Aumento) diminuição de ativos;Tributos e contribuições a compensar;;278267;-165227;283993;-175722;;;Tributos e contribuições a compensar  278.267  (165.227)  283.993  (175.722)
+F0003;29;37;DFC;(Aumento) diminuição de ativos;Valores a receber - Secretaria da Fazenda;;-196279;-193220;-196279;-193220;;;Valores a receber - Secretaria da Fazenda  (196.279)  (193.220)  (196.279)  (193.220)
+F0003;29;38;DFC;(Aumento) diminuição de ativos;Outros;;-105992;126545;-34263;113342;;;Outros  (105.992)  126.545  (34.263)  113.342
+F0003;29;40;DFC;(Aumento) diminuição de ativos;;;4581282;4350118;5424685;5015038;;;4.581.282  4.350.118  5.424.685  5.015.038
+F0003;29;43;DFC;Aumento (diminuição) de passivos;Fornecedores;;89185;7799;74339;3830;;;Fornecedores  89.185  7.799  74.339  3.830
+F0003;29;44;DFC;Aumento (diminuição) de passivos;Tributos e encargos sociais a recolher;;134567;172633;158568;213456;;;Tributos e encargos sociais a recolher  134.567  172.633  158.568  213.456
+F0003;29;45;DFC;Aumento (diminuição) de passivos;Imposto de renda e contribuição social pagos;;-190560;-387376;-225389;-422317;;;Imposto de renda e contribuição social pagos  (190.560)  (387.376)  (225.389)  (422.317)
+F0003;29;46;DFC;Aumento (diminuição) de passivos;Obrigações Trabalhistas;;8304;5238;8304;5238;;;Obrigações Trabalhistas  8.304  5.238  8.304  5.238
+F0003;29;47;DFC;Aumento (diminuição) de passivos;Encargos regulatórios a recolher;;-253;7190;10614;8263;;;Encargos regulatórios a recolher  (253)  7.190  10.614  8.263
+F0003;29;48;DFC;Aumento (diminuição) de passivos;Provisões;;-66623;-19544;-67218;-20715;;;Provisões  (66.623)  (19.544)  (67.218)  (20.715)
+F0003;29;49;DFC;Aumento (diminuição) de passivos;Outros;;-77897;21348;-83469;111874;;;Outros  (77.897)  21.348  (83.469)  111.874
+F0003;29;51;DFC;Aumento (diminuição) de passivos;;;-103277;-192712;-124251;-100371;;;(103.277)  (192.712)  (124.251)  (100.371)
+F0003;29;54;DFC;Aumento (diminuição) de passivos;Fluxo de caixa líquido (aplicado) gerado pelas atividades operacionais;;-1284046;23821;-1215500;-181477;;;operacionais  (1.284.046)  23.821  (1.215.500)  (181.477)
+F0003;30;6;DFC;Atividades de investimentos;Caixa Restrito;;-172;6502;-1026;6373;;;Caixa Restrito  (172)  6.502  (1.026)  6.373
+F0003;30;7;DFC;Atividades de investimentos;Aplicações financeiras;;-6439948;-5733955;-6949394;-6296500;;;Aplicações financeiras  (6.439.948)  (5.733.955)  (6.949.394)  (6.296.500)
+F0003;30;8;DFC;Atividades de investimentos;Resgates de aplicações financeiras;;6255164;6862704;6707579;7445884;;;Resgates de aplicações financeiras  6.255.164  6.862.704  6.707.579  7.445.884
+F0003;30;9;DFC;Atividades de investimentos;Imobilizado (nota 10.1.2);;-27559;-34970;-27604;-35888;;;Imobilizado (nota 10.1.2)  (27.559)  (34.970)  (27.604)  (35.888)
+F0003;30;10;DFC;Atividades de investimentos;Intangível (nota 10.2.2);;-16819;-7514;-16845;-7514;;;Intangível (nota 10.2.2)  (16.819)  (7.514)  (16.845)  (7.514)
+F0003;30;11;DFC;Atividades de investimentos;Aumento de capital em investidas (nota 7.2);;-540798;-454580;0;0;;;Aumento de capital em investidas (nota 7.2)  (540.798)  (454.580)  -  -
+F0003;30;12;DFC;Atividades de investimentos;Adiantamento para futuro aumento de capital (nota 7.2);;0;-97490;0;0;;;Adiantamento para futuro aumento de capital (nota 7.2)  -  (97.490)  -  -
+F0003;30;13;DFC;Atividades de investimentos;Dividendos recebidos (nota 7.3);;1202336;495559;661221;205422;;;Dividendos recebidos (nota 7.3)  1.202.336  495.559  661.221  205.422
+F0003;30;17;DFC;Atividades de investimentos;Fluxo de caixa líquido gerado pelas atividades de investimentos;;432204;1036256;373931;1317777;;;investimentos  432.204  1.036.256  373.931  1.317.777
+F0003;30;21;DFC;Atividades de financiamento;Adições de empréstimos e debêntures (notas 6.2.2 e 6.1.2);;3921602;4116668;3921602;4116668;;;Adições de empréstimos e debêntures (notas 6.2.2 e 6.1.2)  3.921.602  4.116.668  3.921.602  4.116.668
+F0003;30;23;DFC;Pagamentos de empréstimos e debêntures (principal) (notas;6.2.2 e 6.1.2);;-1755785;-540140;-1771288;-554936;;;6.2.2 e 6.1.2)  (1.755.785)  (540.140)  (1.771.288)  (554.936)
+F0003;30;25;DFC;Pagamentos de empréstimos e debêntures (juros) (notas;6.2.2 e 6.1.2);;-1147146;-764760;-1153908;-772742;;;6.2.2 e 6.1.2)  (1.147.146)  (764.760)  (1.153.908)  (772.742)
+F0003;30;26;DFC;Pagamentos de empréstimos e debêntures (juros) (notas;Pagamentos de arrendamentos (nota 6.3.2);;-16541;-19932;-17057;-20295;;;Pagamentos de arrendamentos (nota 6.3.2)  (16.541)  (19.932)  (17.057)  (20.295)
+F0003;30;27;DFC;Pagamentos de empréstimos e debêntures (juros) (notas;Instrumentos financeiros derivativos;;50069;3359;4849;3003;;;Instrumentos financeiros derivativos  50.069  3.359  4.849  3.003
+F0003;30;29;DFC;Dividendos e juros sobre capital próprios pagos (nota;15.2.2);;-1701314;-1239070;-1701314;-1239070;;;15.2.2)  (1.701.314)  (1.239.070)  (1.701.314)  (1.239.070)
+F0003;30;33;DFC;Dividendos e juros sobre capital próprios pagos (nota;Fluxo de caixa líquido (aplicado) gerado pelas atividades de financiamentos;;-649115;1556125;-717116;1532628;;;de financiamentos  (649.115)  1.556.125  (717.116)  1.532.628
+F0003;30;38;DFC;Dividendos e juros sobre capital próprios pagos (nota;Aumento (diminuição) líquido (a) em caixa e equivalentes de caixa;;-1500957;2616202;-1558685;2668928;;;equivalentes de caixa  (1.500.957)  2.616.202  (1.558.685)  2.668.928
+F0003;30;41;DFC;Dividendos e juros sobre capital próprios pagos (nota;Caixa e equivalentes de caixa em 1º de janeiro;;2820214;204012;2914747;245819;;;Caixa e equivalentes de caixa em 1º de janeiro  2.820.214  204.012  2.914.747  245.819
+F0003;30;42;DFC;Dividendos e juros sobre capital próprios pagos (nota;Caixa e equivalentes de caixa em 31 de dezembro;;1319257;2820214;1356062;2914747;;;Caixa e equivalentes de caixa em 31 de dezembro  1.319.257  2.820.214  1.356.062  2.914.747
+F0003;30;45;DFC;Dividendos e juros sobre capital próprios pagos (nota;Variação em caixa e equivalentes de caixa;;-1500957;2616202;-1558685;2668928;;;Variação em caixa e equivalentes de caixa  (1.500.957)  2.616.202  (1.558.685)  2.668.928
+F0011;22;7;BP_ATIVO;;Circulante Caixa e equivalentes de caixa;6.4.2;;2820214;;2914747;204012;245819;Caixa e equivalentes de caixa  6.4.2  2.820.214  204.012  2.914.747  245.819
+F0011;22;8;BP_ATIVO;;Aplicações financeiras;6.5.2;;37829;;485995;1019348;1526208;Aplicações financeiras  6.5.2  37.829  1.019.348  485.995  1.526.208
+F0011;22;9;BP_ATIVO;;Ativos da concessão;5.3;;2995312;;3604640;2838526;3370449;Ativos da concessão  5.3  2.995.312  2.838.526  3.604.640  3.370.449
+F0011;22;10;BP_ATIVO;;Estoques;;;81294;;94384;149129;164941;Estoques  -  81.294  149.129  94.384  164.941
+F0011;22;11;BP_ATIVO;;Tributos e contribuições a compensar;12.1;;439576;;453046;265751;268730;Tributos e contribuições a compensar  12.1  439.576  265.751  453.046  268.730
+F0011;22;12;BP_ATIVO;;Instrumentos financeiros derivativos;23.1.3;;40880;;41658;0;0;Instrumentos financeiros derivativos  23.1.3  40.880  -  41.658  -
+F0011;22;13;BP_ATIVO;;Créditos com partes relacionadas;22.1;;334647;;142546;244381;107483;Créditos com partes relacionadas  22.1  334.647  244.381  142.546  107.483
+F0011;22;14;BP_ATIVO;;Outros;;;193235;;202433;291824;294798;Outros  193.235  291.824  202.433  294.798
+F0011;22;16;BP_ATIVO;;;;;6942987;;7939449;5012971;5978428;6.942.987  5.012.971  7.939.449  5.978.428
+F0011;22;20;BP_ATIVO;Realizável a longo prazo;Ativos da concessão;5.3;;20714871;;27442183;16843840;22618926;Ativos da concessão  5.3  20.714.871  16.843.840  27.442.183  22.618.926
+F0011;22;21;BP_ATIVO;Realizável a longo prazo;Valores a receber - Secretaria da Fazenda;9.2;;2564527;;2564527;2371307;2371307;Valores a receber - Secretaria da Fazenda  9.2  2.564.527  2.371.307  2.564.527  2.371.307
+F0011;22;22;BP_ATIVO;Realizável a longo prazo;Cauções e depósitos vinculados;14.2.2;;43436;;43650;42672;42677;Cauções e depósitos vinculados  14.2.2  43.436  42.672  43.650  42.677
+F0011;22;23;BP_ATIVO;Realizável a longo prazo;Estoques;;;112712;;140344;103278;134930;Estoques  -  112.712  103.278  140.344  134.930
+F0011;22;24;BP_ATIVO;Realizável a longo prazo;Instrumentos financeiros derivativos;23.1.3;;84715;;84715;2615;2615;Instrumentos financeiros derivativos  23.1.3  84.715  2.615  84.715  2.615
+F0011;22;25;BP_ATIVO;Realizável a longo prazo;Outros;;;124913;;142798;140774;157966;Outros  124.913  140.774  142.798  157.966
+F0011;22;28;BP_ATIVO;Realizável a longo prazo;;;;23645174;;30418217;19504486;25328421;23.645.174  19.504.486  30.418.217  25.328.421
+F0011;22;30;BP_ATIVO;Realizável a longo prazo;Investimentos;7.2;;10765487;;4354888;9662118;4022567;Investimentos  7.2  10.765.487  9.662.118  4.354.888  4.022.567
+F0011;22;31;BP_ATIVO;Realizável a longo prazo;Imobilizado;10.1.2;;149153;;153613;116493;120104;Imobilizado  10.1.2  149.153  116.493  153.613  120.104
+F0011;22;32;BP_ATIVO;Realizável a longo prazo;Intangível;10.2.2;;498453;;438465;523480;461636;Intangível  10.2.2  498.453  523.480  438.465  461.636
+F0011;22;34;BP_ATIVO;Realizável a longo prazo;;;;11413093;;4946966;10302091;4604307;11.413.093  10.302.091  4.946.966  4.604.307
+F0011;22;36;BP_ATIVO;Realizável a longo prazo;;;;35058267;;35365183;29806577;29932728;35.058.267  29.806.577  35.365.183  29.932.728
+F0011;22;38;BP_ATIVO;Realizável a longo prazo;Total do ativo;;;42001254;;43304632;34819548;35911156;Total do ativo  42.001.254  34.819.548  43.304.632  35.911.156
+F0011;23;8;BP_PASSIVO_PL;;Circulante Empréstimos e financiamentos;6.2.2;;66245;;82056;60633;75811;Empréstimos e financiamentos  6.2.2  66.245  60.633  82.056  75.811
+F0011;23;9;BP_PASSIVO_PL;;Debêntures;6.1.2;;1109914;;1109914;570815;570815;Debêntures  6.1.2  1.109.914  570.815  1.109.914  570.815
+F0011;23;10;BP_PASSIVO_PL;;Arrendamento;6.3.2;;11642;;12020;5978;6268;Arrendamento  6.3.2  11.642  5.978  12.020  6.268
+F0011;23;11;BP_PASSIVO_PL;;Fornecedores;;;155733;;182169;147934;177986;Fornecedores  155.733  147.934  182.169  177.986
+F0011;23;12;BP_PASSIVO_PL;;Tributos e encargos sociais a recolher;12.2;;114180;;139146;96055;115139;Tributos e encargos sociais a recolher  12.2  114.180  96.055  139.146  115.139
+F0011;23;13;BP_PASSIVO_PL;;Encargos regulatórios a recolher;13.2;;65962;;66750;51515;53071;Encargos regulatórios a recolher  13.2  65.962  51.515  66.750  53.071
+F0011;23;14;BP_PASSIVO_PL;;Juros sobre capital próprio e dividendos a pagar;15.2.2;;1329622;;1329622;1247850;1247850;Juros sobre capital próprio e dividendos a pagar  15.2.2  1.329.622  1.247.850  1.329.622  1.247.850
+F0011;23;15;BP_PASSIVO_PL;;Obrigações trabalhistas;;;71658;;71658;63940;63940;Obrigações trabalhistas  71.658  63.940  71.658  63.940
+F0011;23;16;BP_PASSIVO_PL;;Instrumentos financeiros derivativos;;;0;;0;0;25926;Instrumentos financeiros derivativos  -  -  -  25.926
+F0011;23;17;BP_PASSIVO_PL;;Outros;;;133631;;271483;60595;107930;Outros  133.631  60.595  271.483  107.930
+F0011;23;19;BP_PASSIVO_PL;;;;;3058587;;3264818;2305315;2444736;3.058.587  2.305.315  3.264.818  2.444.736
+F0011;23;21;BP_PASSIVO_PL;;Não circulante Empréstimos e financiamentos;6.2.2;;574611;;651766;541255;633914;Empréstimos e financiamentos  6.2.2  574.611  541.255  651.766  633.914
+F0011;23;22;BP_PASSIVO_PL;;Debêntures;6.1.2;;11392559;;11392559;7959755;7959755;Debêntures  6.1.2  11.392.559  7.959.755  11.392.559  7.959.755
+F0011;23;23;BP_PASSIVO_PL;;Arrendamento;6.3.2;;23926;;25489;20500;22102;Arrendamento  6.3.2  23.926  20.500  25.489  22.102
+F0011;23;24;BP_PASSIVO_PL;;PIS e COFINS diferidos;8.2;;2186286;;2493513;1807896;2034661;PIS e COFINS diferidos  8.2  2.186.286  1.807.896  2.493.513  2.034.661
+F0011;23;25;BP_PASSIVO_PL;;Imposto de renda e contribuição social diferidos;8.4;;4856695;;5175168;4246707;4436717;Imposto de renda e contribuição social diferidos  8.4  4.856.695  4.246.707  5.175.168  4.436.717
+F0011;23;26;BP_PASSIVO_PL;;Encargos regulatórios a recolher;13.2;;24487;;30763;33923;38163;Encargos regulatórios a recolher  13.2  24.487  33.923  30.763  38.163
+F0011;23;27;BP_PASSIVO_PL;;Provisões;14.1.3;;167726;;197271;105904;129803;Provisões  14.1.3  167.726  105.904  197.271  129.803
+F0011;23;28;BP_PASSIVO_PL;;Benefício pós emprego – déficit atuarial;11.3;;0;;0;401059;401059;Benefício pós emprego – déficit atuarial  11.3  -  401.059  -  401.059
+F0011;23;29;BP_PASSIVO_PL;;Instrumentos financeiros derivativos;;;0;;0;0;880;Instrumentos financeiros derivativos  -  -  -  880
+F0011;23;30;BP_PASSIVO_PL;;Outros;;;1796;;2003;17094;17654;Outros  1.796  17.094  2.003  17.654
+F0011;23;32;BP_PASSIVO_PL;;;;;19228086;;19968532;15134093;15674708;19.228.086  15.134.093  19.968.532  15.674.708
+F0011;23;34;BP_PASSIVO_PL;;Patrimônio líquido Capital social;15.1;;3590020;;3590020;3590020;3590020;Capital social  15.1  3.590.020  3.590.020  3.590.020  3.590.020
+F0011;23;35;BP_PASSIVO_PL;;Reservas de capital;15.3;;666;;666;666;666;Reservas de capital  15.3  666  666  666  666
+F0011;23;36;BP_PASSIVO_PL;;Reservas e Retenção de lucros;15.4;;15950329;;15950329;13997026;13997026;Reservas e Retenção de lucros  15.4  15.950.329  13.997.026  15.950.329  13.997.026
+F0011;23;37;BP_PASSIVO_PL;;Outros resultados abrangentes;15.5;;173566;;173566;-207572;-207572;Outros resultados abrangentes  15.5  173.566  (207.572)  173.566  (207.572)
+F0011;23;39;BP_PASSIVO_PL;;;;;19714581;;19714581;17380140;17380140;19.714.581  17.380.140  19.714.581  17.380.140
+F0011;23;42;BP_PASSIVO_PL;;Participação de não controladores nos fundos de investimentos;;;0;;356701;0;411572;investimentos  -  -  356.701  411.572
+F0011;23;44;BP_PASSIVO_PL;;;;;19714581;;20071282;17380140;17791712;19.714.581  17.380.140  20.071.282  17.791.712
+F0011;23;46;BP_PASSIVO_PL;;Total do passivo e do patrimônio líquido;;;42001254;;43304632;34819548;35911156;Total do passivo e do patrimônio líquido  42.001.254  34.819.548  43.304.632  35.911.156
+F0011;24;6;DRE;;Receita operacional líquida;;;6417562;;7966581;5133704;6215521;Receita operacional líquida  6.417.562  5.133.704  7.966.581  6.215.521
+F0011;24;9;DRE;;Receita de infraestrutura, operação e manutenção, ganho de eficiência na implementação da infraestrutura e outras, 16.3 líquidas;;;4348018;;5218153;2954538;3470218;líquidas  4.348.018  2.954.538  5.218.153  3.470.218
+F0011;24;10;DRE;;Remuneração dos ativos da concessão, líquida;16.3;;2069544;;2748428;2179166;2745303;Remuneração dos ativos da concessão, líquida  16.3  2.069.544  2.179.166  2.748.428  2.745.303
+F0011;24;13;DRE;;Custos dos serviços de implementação da infraestrutura,;;;17;;;;;17
+F0011;24;14;DRE;;operação e manutenção e de serviços prestados;;;-3363538;;-4229120;-1984841;-2506641;operação e manutenção e de serviços prestados  (3.363.538)  (1.984.841)  (4.229.120)  (2.506.641)
+F0011;24;16;DRE;;Lucro bruto;;;3054024;;3737461;3148863;3708880;Lucro bruto  3.054.024  3.148.863  3.737.461  3.708.880
+F0011;24;19;DRE;Receitas (Despesas) operacionais;Receitas – Revisão Tarifária Periódica, líquidas;;;1128220;;1152707;0;-3685;Receitas – Revisão Tarifária Periódica, líquidas  1.128.220  -  1.152.707  (3.685)
+F0011;24;20;DRE;Receitas (Despesas) operacionais;Gerais e administrativas;;;-327263;;-347511;-222979;-235036;Gerais e administrativas  17  (327.263)  (222.979)  (347.511)  (235.036)
+F0011;24;21;DRE;Receitas (Despesas) operacionais;Honorários da administração 17 e;22.2;;-17077;;-17077;-15681;-15681;Honorários da administração  17 e 22.2  (17.077)  (15.681)  (17.077)  (15.681)
+F0011;24;22;DRE;Receitas (Despesas) operacionais;Outras receitas (despesas) operacionais, líquidas;;;18228;;21120;-12618;-1239;Outras receitas (despesas) operacionais, líquidas  19  18.228  (12.618)  21.120  (1.239)
+F0011;24;23;DRE;Receitas (Despesas) operacionais;Resultado de equivalência patrimonial;7.3;;1128626;;584578;1014123;489318;Resultado de equivalência patrimonial  7.3  1.128.626  1.014.123  584.578  489.318
+F0011;24;24;DRE;Receitas (Despesas) operacionais;;;;1930734;;1393817;762845;233677;1.930.734  762.845  1.393.817  233.677
+F0011;24;27;DRE;Receitas (Despesas) operacionais;Lucro antes das receitas e despesas financeiras e dos impostos sobre o lucro;;;4984758;;5131278;3911708;3942557;impostos sobre o lucro  4.984.758  3.911.708  5.131.278  3.942.557
+F0011;24;29;DRE;Receitas (Despesas) operacionais;Receitas financeiras;;;206226;;283837;146441;222090;Receitas financeiras  20  206.226  146.441  283.837  222.090
+F0011;24;30;DRE;Receitas (Despesas) operacionais;Despesas financeiras;;;-1235964;;-1246454;-1032950;-1043648;Despesas financeiras  20  (1.235.964)  (1.032.950)  (1.246.454)  (1.043.648)
+F0011;24;31;DRE;Receitas (Despesas) operacionais;;;;-1029738;;-962617;-886509;-821558;(1.029.738)  (886.509)  (962.617)  (821.558)
+F0011;24;34;DRE;Receitas (Despesas) operacionais;Lucro antes do imposto de renda e da contribuição social;;;3955020;;4168661;3025199;3120999;Lucro antes do imposto de renda e da contribuição social  3.955.020  3.025.199  4.168.661  3.120.999
+F0011;24;37;DRE;Imposto de renda e contribuição social;Corrente;21.2;;-27591;;-59207;-37202;-64532;Corrente  21.2  (27.591)  (37.202)  (59.207)  (64.532)
+F0011;24;38;DRE;Imposto de renda e contribuição social;Diferido;21.2;;-429013;;-556723;-146880;-164105;Diferido  21.2  (429.013)  (146.880)  (556.723)  (164.105)
+F0011;24;39;DRE;Imposto de renda e contribuição social;;;;-456604;;-615930;-184082;-228637;(456.604)  (184.082)  (615.930)  (228.637)
+F0011;24;41;DRE;Imposto de renda e contribuição social;Lucro líquido do exercício;;;3498416;;3552731;2841117;2892362;Lucro líquido do exercício  3.498.416  2.841.117  3.552.731  2.892.362
+F0011;24;44;DRE;Atribuível aos:;Acionistas controladores;;;;;3498416;;2841117;Acionistas controladores  3.498.416  2.841.117
+F0011;24;45;DRE;Atribuível aos:;Acionistas não controladores;;;;;54315;;51245;Acionistas não controladores  54.315  51.245
+F0011;24;47;DRE;Atribuível aos:;Lucro básico por ação;15.6.2;;5.30961;;;4.31202;;Lucro básico por ação  15.6.2  5,30961  4,31202
+F0011;24;49;DRE;Atribuível aos:;Lucro diluído por ação;15.6.2;;5.30928;;;4.31173;;Lucro diluído por ação  15.6.2  5,30928  4,31173
+F0011;25;6;DRA;;Lucro líquido do exercício;;;3498416;;3552731;2841117;2892362;Lucro líquido do exercício  3.498.416  2.841.117  3.552.731  2.892.362
+F0011;25;11;DRA;;Outros resultados abrangentes Itens que não serão reclassificados subsequentemente para o resultado Benefício pós emprego – superávit (déficit) atuarial;11.3;;409297;;409297;-250598;-250598;Benefício pós emprego – superávit (déficit) atuarial  11.3  409.297  (250.598)  409.297  (250.598)
+F0011;25;13;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;(déficit) atuarial;;;-139161;;-139161;85204;85204;(déficit) atuarial  (139.161)  85.204  (139.161)  85.204
+F0011;25;15;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Ajuste instrumento financeiro de controladas, por equivalência patrimonial, líquido;7.2;;26478;;26478;-21990;-21990;patrimonial, líquido  7.2  26.478  (21.990)  26.478  (21.990)
+F0011;25;16;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Ajuste instrumento financeiro de controladora, líquido;;;84524;;84524;1188;1188;Ajuste instrumento financeiro de controladora, líquido  84.524  1.188  84.524  1.188
+F0011;25;18;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Total de outros resultados abrangentes, líquido;;;381138;;381138;-186196;-186196;Total de outros resultados abrangentes, líquido  381.138  (186.196)  381.138  (186.196)
+F0011;25;20;DRA;Impostos diferidos sobre Benefício pós emprego – superávit;Total do resultado abrangente do exercício;;;3879554;;3933869;2654921;2706166;Total do resultado abrangente do exercício  3.879.554  2.654.921  3.933.869  2.706.166
+F0011;25;23;DRA;Atribuível aos:;Acionistas controladores;;;;;3879554;;2654921;Acionistas controladores  3.879.554  2.654.921
+F0011;25;24;DRA;Atribuível aos:;Acionistas não controladores;;;;;54315;;51245;Acionistas não controladores  54.315  51.245
+F0011;28;5;DFC;Atividades operacionais;Lucro líquido do exercício;;;3498416;;3552731;2841117;2892362;Lucro líquido do exercício  3.498.416  2.841.117  3.552.731  2.892.362
+F0011;28;8;DFC;atividades operacionais;PIS e COFINS diferidos (8.2);;;378390;;458852;164276;184773;PIS e COFINS diferidos (8.2)  378.390  164.276  458.852  184.773
+F0011;28;9;DFC;atividades operacionais;Depreciação e amortização (nota 17);;;36899;;37357;24331;24889;Depreciação e amortização (nota 17)  36.899  24.331  37.357  24.889
+F0011;28;10;DFC;atividades operacionais;Imposto de renda e contribuição social diferidos (nota 8.4);;;429013;;556723;146880;164105;Imposto de renda e contribuição social diferidos (nota 8.4)  429.013  146.880  556.723  164.105
+F0011;28;11;DFC;atividades operacionais;Demandas judiciais (nota 14.1.4);;;71384;;75927;652;1940;Demandas judiciais (nota 14.1.4)  71.384  652  75.927  1.940
+F0011;28;13;DFC;atividades operacionais;Custo residual de ativo imobilizado/intangível baixado (nota 10.1.2 e 10.2.2);;;2782;;2782;-120;-118;(nota 10.1.2 e 10.2.2)  2.782  (120)  2.782  (118)
+F0011;28;14;DFC;atividades operacionais;Benefício fiscal – ágio incorporado;;;37;;37;37;37;Benefício fiscal – ágio incorporado  37  37  37  37
+F0011;28;16;DFC;Benefício a empregados – superávit/déficit atuarial (nota;11.3);;;44624;;44624;23755;23755;11.3)  44.624  23.755  44.624  23.755
+F0011;28;18;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Realização de ativo da concessão na aquisição de controlada (nota 7.2);;;19862;;19862;19854;19854;controlada (nota 7.2)  19.862  19.854  19.862  19.854
+F0011;28;19;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Resultado de equivalência patrimonial (nota 7.3);;;-1126738;;-584578;-1012225;-489318;Resultado de equivalência patrimonial (nota 7.3)  (1.126.738)  (1.012.225)  (584.578)  (489.318)
+F0011;28;20;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Ativos da concessão (nota 5.3);;;-8551436;;-10262943;-5800510;-6976264;Ativos da concessão (nota 5.3)  (8.551.436)  (5.800.510)  (10.262.943)  (6.976.264)
+F0011;28;21;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Rendimento sobre aplicações financeiras;;;-147231;;-164042;-53317;-61479;Rendimento sobre aplicações financeiras  (147.231)  (53.317)  (164.042)  (61.479)
+F0011;28;23;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Juros e variações cambiais sobre empréstimos, financiamentos e debêntures;;;1201543;;1209509;1008938;1018114;financiamentos e debêntures  1.201.543  1.008.938  1.209.509  1.018.114
+F0011;28;24;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Transações com acionistas não controladores;;;0;;-54315;0;-51245;Transações com acionistas não controladores  -  -  (54.315)  (51.245)
+F0011;28;26;DFC;Benefício a empregados – superávit/déficit atuarial (nota;Juros e variações monetárias e cambiais sobre ativos e passivos;;;8870;;11330;-559;1256;passivos  8.870  (559)  11.330  1.256
+F0011;28;28;DFC;Benefício a empregados – superávit/déficit atuarial (nota;;;;-4133585;;-5096144;-2636891;-3247339;(4.133.585)  (2.636.891)  (5.096.144)  (3.247.339)
+F0011;28;32;DFC;Aumento (diminuição) de ativos;Ativos da concessão;;;4523619;;5205495;4127346;4739653;Ativos da concessão  4.523.619  4.127.346  5.205.495  4.739.653
+F0011;28;33;DFC;Aumento (diminuição) de ativos;Estoques;;;58401;;65143;-141181;-160355;Estoques  58.401  (141.181)  65.143  (160.355)
+F0011;28;34;DFC;Aumento (diminuição) de ativos;Tributos e contribuições a compensar;;;-165227;;-175722;-153819;-154495;Tributos e contribuições a compensar  (165.227)  (153.819)  (175.722)  (154.495)
+F0011;28;35;DFC;Aumento (diminuição) de ativos;Valores a receber - Secretaria da Fazenda;;;-193220;;-193220;-195807;-195807;Valores a receber - Secretaria da Fazenda  (193.220)  (195.807)  (193.220)  (195.807)
+F0011;28;36;DFC;Aumento (diminuição) de ativos;Outros;;;126545;;113342;-156382;-159223;Outros  126.545  (156.382)  113.342  (159.223)
+F0011;28;38;DFC;Aumento (diminuição) de ativos;;;;4350118;;5015038;3480157;4069773;4.350.118  3.480.157  5.015.038  4.069.773
+F0011;28;41;DFC;Aumento (diminuição) de passivos;Fornecedores;;;7799;;3830;59750;62120;Fornecedores  7.799  59.750  3.830  62.120
+F0011;28;42;DFC;Aumento (diminuição) de passivos;Tributos e encargos sociais a recolher;;;172633;;213456;-164286;-133779;Tributos e encargos sociais a recolher  172.633  (164.286)  213.456  (133.779)
+F0011;28;43;DFC;Aumento (diminuição) de passivos;Imposto de renda e contribuição social pagos;;;-387376;;-422317;-143359;-166233;Imposto de renda e contribuição social pagos  (387.376)  (143.359)  (422.317)  (166.233)
+F0011;28;44;DFC;Aumento (diminuição) de passivos;Obrigações Trabalhistas;;;5238;;5238;10130;10130;Obrigações Trabalhistas  5.238  10.130  5.238  10.130
+F0011;28;45;DFC;Aumento (diminuição) de passivos;Encargos regulatórios a recolher;;;7190;;8263;-3419;-971;Encargos regulatórios a recolher  7.190  (3.419)  8.263  (971)
+F0011;28;46;DFC;Aumento (diminuição) de passivos;Provisões;;;-19544;;-20715;-22495;-24281;Provisões  (19.544)  (22.495)  (20.715)  (24.281)
+F0011;28;47;DFC;Aumento (diminuição) de passivos;Outros;;;21348;;111874;-1548;10364;Outros  21.348  (1.548)  111.874  10.364
+F0011;28;49;DFC;Aumento (diminuição) de passivos;;;;-192712;;-100371;-265227;-242650;(192.712)  (265.227)  (100.371)  (242.650)
+F0011;28;52;DFC;Aumento (diminuição) de passivos;Fluxo de caixa líquido (aplicado) gerado pelas atividades operacionais;;;23821;;-181477;578039;579784;operacionais  23.821  578.039  (181.477)  579.784
+F0011;29;6;DFC;Atividades de investimentos;Caixa Restrito;;;6502;;6373;8349;10064;Caixa Restrito  6.502  8.349  6.373  10.064
+F0011;29;7;DFC;Atividades de investimentos;Aplicações financeiras;;;-5733955;;-6296500;-2646384;-2985529;Aplicações financeiras  (5.733.955)  (2.646.384)  (6.296.500)  (2.985.529)
+F0011;29;8;DFC;Atividades de investimentos;Resgates de aplicações financeiras;;;6862704;;7445884;2142609;2480669;Resgates de aplicações financeiras  6.862.704  2.142.609  7.445.884  2.480.669
+F0011;29;9;DFC;Atividades de investimentos;Imobilizado (nota 10.1.2);;;-34970;;-35888;-35108;-36484;Imobilizado (nota 10.1.2)  (34.970)  (35.108)  (35.888)  (36.484)
+F0011;29;10;DFC;Atividades de investimentos;Intangível (nota 10.2.2);;;-7514;;-7514;-9485;-9485;Intangível (nota 10.2.2)  (7.514)  (9.485)  (7.514)  (9.485)
+F0011;29;11;DFC;Atividades de investimentos;Aumento de capital em investidas (nota 7.2);;;-454580;;0;-359025;0;Aumento de capital em investidas (nota 7.2)  (454.580)  (359.025)  -  -
+F0011;29;12;DFC;Atividades de investimentos;Adiantamento para futuro aumento de capital (nota 7.2);;;-97490;;0;0;0;Adiantamento para futuro aumento de capital (nota 7.2)  (97.490)  -  -  -
+F0011;29;13;DFC;Atividades de investimentos;Dividendos recebidos;;;495559;;205422;548597;244439;Dividendos recebidos  495.559  548.597  205.422  244.439
+F0011;29;17;DFC;Atividades de investimentos;Fluxo de caixa líquido (aplicado) gerado pelas atividades de investimentos;;;1036256;;1317777;-350447;-296326;de investimentos  1.036.256  (350.447)  1.317.777  (296.326)
+F0011;29;21;DFC;Atividades de financiamento;Adições de empréstimos e debêntures (notas 6.2.2 e 6.1.2);;;4116668;;4116668;2467412;2467412;Adições de empréstimos e debêntures (notas 6.2.2 e 6.1.2)  4.116.668  2.467.412  4.116.668  2.467.412
+F0011;29;23;DFC;Pagamentos de empréstimos e debêntures (principal) (notas;6.2.2 e 6.1.2);;;-540140;;-554936;-1297484;-1311578;6.2.2 e 6.1.2)  (540.140)  (1.297.484)  (554.936)  (1.311.578)
+F0011;29;25;DFC;Pagamentos de empréstimos e debêntures (juros) (notas;6.2.2 e 6.1.2);;;-764760;;-772742;-906828;-916093;6.2.2 e 6.1.2)  (764.760)  (906.828)  (772.742)  (916.093)
+F0011;29;26;DFC;Pagamentos de empréstimos e debêntures (juros) (notas;Pagamentos de arrendamentos (nota 6.3.2);;;-19932;;-20295;-14186;-14344;Pagamentos de arrendamentos (nota 6.3.2)  (19.932)  (14.186)  (20.295)  (14.344)
+F0011;29;27;DFC;Pagamentos de empréstimos e debêntures (juros) (notas;Instrumentos financeiros derivativos;;;3359;;3003;-1802;-1802;Instrumentos financeiros derivativos  3.359  (1.802)  3.003  (1.802)
+F0011;29;29;DFC;Dividendos e juros sobre capital próprios pagos (nota;15.2.2);;;-1239070;;-1239070;-597757;-597757;15.2.2)  (1.239.070)  (597.757)  (1.239.070)  (597.757)
+F0011;29;33;DFC;Dividendos e juros sobre capital próprios pagos (nota;Fluxo de caixa líquido (aplicado) gerado pelas atividades de financiamentos;;;1556125;;1532628;-350645;-374162;de financiamentos  1.556.125  (350.645)  1.532.628  (374.162)
+F0011;29;38;DFC;Dividendos e juros sobre capital próprios pagos (nota;Aumento (diminuição) líquido (a) em caixa e equivalentes de caixa;;;2616202;;2668928;-123053;-90704;equivalentes de caixa  2.616.202  (123.053)  2.668.928  (90.704)
+F0011;29;41;DFC;Dividendos e juros sobre capital próprios pagos (nota;Caixa e equivalentes de caixa em 1º de janeiro;;;204012;;245819;327065;336523;Caixa e equivalentes de caixa em 1º de janeiro  204.012  327.065  245.819  336.523
+F0011;29;42;DFC;Dividendos e juros sobre capital próprios pagos (nota;Caixa e equivalentes de caixa em 31 de dezembro;;;2820214;;2914747;204012;245819;Caixa e equivalentes de caixa em 31 de dezembro  2.820.214  204.012  2.914.747  245.819
+F0011;29;45;DFC;Dividendos e juros sobre capital próprios pagos (nota;Variação em caixa e equivalentes de caixa;;;2616202;;2668928;-123053;-90704;Variação em caixa e equivalentes de caixa  2.616.202  (123.053)  2.668.928  (90.704)

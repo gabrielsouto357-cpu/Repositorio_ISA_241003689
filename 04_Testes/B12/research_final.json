@@ -1,0 +1,2287 @@
+{
+ "cutoff": "2026-10-21T20:48:38-03:00",
+ "parameters": {
+  "dataDe": "01/01/2026",
+  "dataAte": "21/10/2026",
+  "empresa": ",018376",
+  "setorAtividade": "-1",
+  "categoriaEmissor": "-1",
+  "situacaoEmissor": "-1",
+  "tipoParticipante": "-1",
+  "dataReferencia": "",
+  "categoria": "",
+  "periodo": "2",
+  "horaIni": "00:00",
+  "horaFim": "20:48",
+  "palavraChave": "",
+  "ultimaDtRef": "false",
+  "tipoEmpresa": "0",
+  "token": "",
+  "versaoCaptcha": ""
+ },
+ "records": 181,
+ "cvm_error": false,
+ "ri": [
+  {
+   "key": "RI_FR_FINAL",
+   "url": "https://ri.isaenergiabrasil.com.br/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "file": "RI_FR_FINAL.html",
+   "access": "2026-10-21T20:48:39-03:00",
+   "sha256": "7e9fcf56fc04c6aaffcca2217c864150ab60c50f3ecfa3e29685516ed3af6b07",
+   "links": [
+    {
+     "text": "ISA ENERGIA BRASIL",
+     "href": "/pt"
+    },
+    {
+     "text": "ISA",
+     "href": "https://www.isa.co/"
+    },
+    {
+     "text": "Institucional",
+     "href": "https://www.isaenergiabrasil.com.br/"
+    },
+    {
+     "text": "",
+     "href": "/pt/RSS"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/glossario"
+    },
+    {
+     "text": "0",
+     "href": "/pt/cesta-de-downloads"
+    },
+    {
+     "text": "ENG",
+     "href": "/en/markets-disclosure/notices-to-the-market-material-facts"
+    },
+    {
+     "text": "A ISA ENERGIA",
+     "href": "#"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Governança Corporativa",
+     "href": "#"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Informações Financeiras",
+     "href": "#"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Divulgação ao Mercado",
+     "href": "#"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Atendimento aos Acionistas",
+     "href": "#"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Sustentabilidade",
+     "href": "#"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Imprimir",
+     "href": "javascript:window.print();"
+    },
+    {
+     "text": "A+",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "A-",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "Comunicado ao Mercado",
+     "href": "#tipo_15"
+    },
+    {
+     "text": "Fatos Relevantes",
+     "href": "#tipo_16"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6792"
+    },
+    {
+     "text": "19/10/2026 \r\n     \r\n    Comunicado ao Mercado - Participação de executivo em evento online",
+     "href": "/pt/documentos/6792-2026.10.19-Comunicado-ao-Mercado-Participacao-em-evento-online.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6788"
+    },
+    {
+     "text": "13/10/2026 \r\n     \r\n    Comunicado ao Mercado - Alteração de participação relevante",
+     "href": "/pt/documentos/6788-2026.10.13-Comunicado-ao-Mercado-Participacao-Societaria..pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6744"
+    },
+    {
+     "text": "23/07/2026 \r\n     \r\n    Anúncio de Início - Oferta Pública da Distribuição Primária",
+     "href": "/pt/documentos/6744-2026.07.23-Anuncio-de-Inicio-Oferta-publica.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6718"
+    },
+    {
+     "text": "15/07/2026 \r\n     \r\n    Aviso ao Mercado - Lançamento de Oferta Pública Primária",
+     "href": "/pt/documentos/6718-Projeto-Saluki-Aviso-ao-Mercado-(V.-Divulgacao)(117714377.1).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6709"
+    },
+    {
+     "text": "08/07/2026 \r\n     \r\n    Comunicado ao Mercado - 23ª Emissão de Debêntures - Alteração de cronograma e divulgação do resultado da coleta de intenções de investimento",
+     "href": "/pt/documentos/6709-Comunicado-ao-Mercado-08-07-26.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6698"
+    },
+    {
+     "text": "03/07/2026 \r\n     \r\n    Comunicado ao Mercado - 23ª Emissão de Debêntures",
+     "href": "/pt/documentos/6698-Aviso-ao-Mercado.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6672"
+    },
+    {
+     "text": "11/06/2026 \r\n     \r\n    Comunicado ao Mercado - Início da operação comercial - Bloco 3 - Projeto Piraquê",
+     "href": "/pt/documentos/6672-2026.06.11-Comunicado-ao-Mercado-Piraque-(bloco-3).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6669"
+    },
+    {
+     "text": "27/05/2026 \r\n     \r\n    Comunicado ao Mercado - Obtenção de Licença de Instalação - Projeto Serra Dourada (Bloco 2)",
+     "href": "/pt/documentos/6669-2026.05.27-Comunicado-ao-Mercado-LI-Serra-Dourada.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6570"
+    },
+    {
+     "text": "04/05/2026 \r\n     \r\n    Comunicado ao Mercado - Mudança de Auditor",
+     "href": "/pt/documentos/6570-2026.05.04-Comunicado-ao-Mercado-Auditor.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6530"
+    },
+    {
+     "text": "22/04/2026 \r\n     \r\n    Comunicado ao Mercado - Alteração de participação relevante",
+     "href": "/pt/documentos/6530-2026.04.22-Comunicado-ao-Mercado-Participacao-Societaria-cAnexo.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6528"
+    },
+    {
+     "text": "22/04/2026 \r\n     \r\n    Comunicado ao Mercado - Início da operação comercial - Projeto Jacarandá",
+     "href": "/pt/documentos/6528-2026.04.22-Comunicado-ao-Mercado-Jacaranda-v1.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6478"
+    },
+    {
+     "text": "23/03/2026 \r\n     \r\n    Comunicado ao Mercado - Início da operação comercial do Bloco 2 do projeto Piraquê",
+     "href": "/pt/documentos/6478-2026.03.23-Comunicado-ao-Mercado-Piraque-(bloco-2).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6473"
+    },
+    {
+     "text": "20/03/2026 \r\n     \r\n    Comunicado ao Mercado - 22ª Emissão de Debêntures",
+     "href": "/pt/documentos/6473-Aviso-ao-Mercado.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6440"
+    },
+    {
+     "text": "06/03/2026 \r\n     \r\n    Comunicado ao Mercado - Renúncia do Presidente e Membro do Conselho de Administração",
+     "href": "/pt/documentos/6440-2026.03.06-Comunicado-ao-Mercado-Renuncia-de-membro-do-CA.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6410"
+    },
+    {
+     "text": "30/01/2026 \r\n     \r\n    Comunicado ao Mercado - 21ª Emissão de Debêntures – Exercício parcial do lote adicional",
+     "href": "/pt/documentos/6410-ISA-Energia-(Exchange)-21-Emissao-Comunicado-ao-Mercado-Exercicio-Lote-Adicional-(VDivulgacao).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6403"
+    },
+    {
+     "text": "28/01/2026 \r\n     \r\n    Comunicado ao Mercado - 21ª Emissão de Debêntures",
+     "href": "/pt/documentos/6403-Comunicado-ao-Mercado.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6401"
+    },
+    {
+     "text": "26/01/2026 \r\n     \r\n    Comunicado ao Mercado - Atualização da data de aquisição Facultativa (1ª Série - 9ª Emissão)",
+     "href": "/pt/documentos/6401-Comunicado-ao-Mercado-atualizacao-cronograma.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6393"
+    },
+    {
+     "text": "15/01/2026 \r\n     \r\n    Comunicado ao Mercado - 21ª Emissão de Debêntures",
+     "href": "/pt/documentos/6393-Comunicado-ao-Mercado.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6379"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Comunicado ao Mercado - 21ª Emissão de Debêntures",
+     "href": "/pt/documentos/6379-Aviso-ao-Mercado.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6388"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Comunicado ao Mercado - Aquisição Facultativa (13ª Emissão)",
+     "href": "/pt/documentos/6388-ISA-Energia-Exchange-Comunicado-ao-Mercado-Aquisicao-Facultativa-(13-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6389"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Comunicado ao Mercado - Aquisição Facultativa (16ª Emissão)",
+     "href": "/pt/documentos/6389-ISA-Energia-Exchange-Comunicado-ao-Mercado-Aquisicao-Facultativa-(16-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6386"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Comunicado ao Mercado - Aquisição Facultativa (1ª Série - 9ª Emissão)",
+     "href": "/pt/documentos/6386-ISA-Energia-Exchange-Comunicado-ao-Mercado-Aquisicao-Facultativa-(1-Serie-9-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6387"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Comunicado ao Mercado - Aquisição Facultativa (1ª, 2ª e 3ª Série - 15ª Emissão)",
+     "href": "/pt/documentos/6387-ISA-Energia-Exchange-Comunicado-ao-Mercado-Aquisicao-Facultativa-(1,-2-e-3-Serie-15-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6753"
+    },
+    {
+     "text": "31/07/2026 \r\n     \r\n    Fato Relevante - Conclusão do descruzamento de participações na IE Madeira e IE Garanhuns",
+     "href": "/pt/documentos/6753-2026.07.31-Madeira-e-Garanhuns-closing-CVM.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6742"
+    },
+    {
+     "text": "23/07/2026 \r\n     \r\n    Fato Relevante - Precificação de Oferta Pública Primária",
+     "href": "/pt/documentos/6742-FR-F-On.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6717"
+    },
+    {
+     "text": "15/07/2026 \r\n     \r\n    Fato Relevante - Lançamento de Oferta Pública Primária",
+     "href": "/pt/documentos/6717-Projeto-Saluki-Fato-Relevante-Launch-(Divulgacao).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6701"
+    },
+    {
+     "text": "06/07/2026 \r\n     \r\n    Fato Relevante - Potencial oferta pública",
+     "href": "/pt/documentos/6701-2026.07.06-Potencial-Oferta-Publica-(sidicato).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6689"
+    },
+    {
+     "text": "03/07/2026 \r\n     \r\n    Fato Relevante - Potencial oferta pública",
+     "href": "/pt/documentos/6689-FATO-RELEVANTE-Potencial-Oferta-Publica.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6667"
+    },
+    {
+     "text": "27/05/2026 \r\n     \r\n    Fato Relevante - Julgamento do Tribunal Regional Federal da 1ª Região (TRF1) Sobre o RBSE",
+     "href": "/pt/documentos/6667-2026.05.27-RBSE.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6518"
+    },
+    {
+     "text": "07/04/2026 \r\n     \r\n    Fato Relevante - Conversão de ações ordinárias - Resultado",
+     "href": "/pt/documentos/6518-2026.04.07-Conversao.cont.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6454"
+    },
+    {
+     "text": "19/03/2026 \r\n     \r\n    Fato Relevante - Conversão de ações ordinárias",
+     "href": "/pt/documentos/6454-2026.03.19-conversao-v3.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6464"
+    },
+    {
+     "text": "19/03/2026 \r\n     \r\n    Fato Relevante - Descruzamento de Participações na IE Madeira e IE Garanhuns",
+     "href": "/pt/documentos/6464-2026.03.19-Madeira-e-Garanhuns.pdf"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Compartilhar no Facebook",
+     "href": "https://www.facebook.com/isacteepbr"
+    },
+    {
+     "text": "Compartilhar no Instagram",
+     "href": "https://www.instagram.com/isacteepbr/"
+    },
+    {
+     "text": "Compartilhar no Youtube",
+     "href": "https://www.youtube.com/user/canalCTEEP"
+    },
+    {
+     "text": "Compartilhar no Linkedin",
+     "href": "https://www.linkedin.com/company/isacteepbr/"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/ri/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Innova",
+     "href": "https://www.aatb.com.br"
+    }
+   ]
+  },
+  {
+   "key": "RI_AVISOS_FINAL",
+   "url": "https://ri.isaenergiabrasil.com.br/pt/divulgacao-ao-mercado/avisos",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "file": "RI_AVISOS_FINAL.html",
+   "access": "2026-10-21T20:48:39-03:00",
+   "sha256": "f44fd9e7864556c5618b49db8468d3555d10c88a7af8d7b691c11ade273e7edf",
+   "links": [
+    {
+     "text": "ISA ENERGIA BRASIL",
+     "href": "/pt"
+    },
+    {
+     "text": "ISA",
+     "href": "https://www.isa.co/"
+    },
+    {
+     "text": "Institucional",
+     "href": "https://www.isaenergiabrasil.com.br/"
+    },
+    {
+     "text": "",
+     "href": "/pt/RSS"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/glossario"
+    },
+    {
+     "text": "0",
+     "href": "/pt/cesta-de-downloads"
+    },
+    {
+     "text": "ENG",
+     "href": "/en/markets-disclosure/notices"
+    },
+    {
+     "text": "A ISA ENERGIA",
+     "href": "#"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Governança Corporativa",
+     "href": "#"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Informações Financeiras",
+     "href": "#"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Divulgação ao Mercado",
+     "href": "#"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Atendimento aos Acionistas",
+     "href": "#"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Sustentabilidade",
+     "href": "#"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Imprimir",
+     "href": "javascript:window.print();"
+    },
+    {
+     "text": "A+",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "A-",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "Avisos aos Acionistas",
+     "href": "#tipo_13"
+    },
+    {
+     "text": "Avisos aos Debenturistas",
+     "href": "#tipo_14"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6781"
+    },
+    {
+     "text": "29/09/2026 \r\n     \r\n    Aviso aos acionistas - Pagamento de JCP",
+     "href": "/pt/documentos/6781-2026.09.29-Aviso-aos-acionistas-JCP.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6477"
+    },
+    {
+     "text": "23/03/2026 \r\n     \r\n    Aviso aos acionistas - Reapresentação proposta da administração",
+     "href": "/pt/documentos/6477-2026.03.23-Aviso-aos-Acionistas-Reapresentacao-da-Proposta-da-Adm-v1.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6422"
+    },
+    {
+     "text": "24/02/2026 \r\n     \r\n    Aviso aos acionistas - Pagamento de dividendos",
+     "href": "/pt/documentos/6422-2026.02.24-Aviso-aos-acionistas-Dividendos.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6395"
+    },
+    {
+     "text": "15/01/2026 \r\n     \r\n    Data Assembleia Geral Ordinária (AGO) 2026",
+     "href": "/pt/documentos/6395-2026.01.15-Aviso-aos-Acionistas-Data-da-Assembleia-Geral-Ordinaria.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6790"
+    },
+    {
+     "text": "14/10/2026 \r\n     \r\n    Aviso aos Debenturistas - Pagamento de juros da 11ª, 14ª, 17ª e 20ª emissões",
+     "href": "/pt/documentos/6790-Aviso-aos-debenturistas-11,14,17-e-22-emissao-2026.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6777"
+    },
+    {
+     "text": "14/09/2026 \r\n     \r\n    Aviso aos Debenturistas - Pagamento de juros da 13ª, 15ª, 18ª e 22ª emissões",
+     "href": "/pt/documentos/6777-Aviso-aos-debenturistas-13,15,18-e-22-emissao-2026.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6711"
+    },
+    {
+     "text": "14/07/2026 \r\n     \r\n    Aviso aos Debenturistas - Pagamento de juros da 21ª e 10ª Emissão",
+     "href": "/pt/documentos/6711-Aviso-aos-debenturistas-julho-2026.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6677"
+    },
+    {
+     "text": "12/06/2026 \r\n     \r\n    Aviso aos Debenturistas - Pagamento de juros da 8ª e 18ª (1serie)",
+     "href": "/pt/documentos/6677-Aviso-aos-debenturistas-junho-8-e-18-(1serie).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6680"
+    },
+    {
+     "text": "12/06/2026 \r\n     \r\n    Pagamento de principal e juros da 1a Emissão de Debêntures Simples da IE Ivaí",
+     "href": "/pt/documentos/6680-IVAI-Aviso-aos-debenturistas-modificado-1.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6517"
+    },
+    {
+     "text": "06/04/2026 \r\n     \r\n    Anúncio de Encerramento - 22a Emissão de Debêntures",
+     "href": "/pt/documentos/6517-Anuncio-de-Encerramento-22a-emissao.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6447"
+    },
+    {
+     "text": "13/03/2026 \r\n     \r\n    Aviso aos Debenturistas - Pagamento de juros",
+     "href": "/pt/documentos/6447-Aviso-aos-debenturistas-Marco-26.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6411"
+    },
+    {
+     "text": "30/01/2026 \r\n     \r\n    Aviso aos Debenturistas - 21ª Emissão de Debêntures - 1º Aditamento",
+     "href": "/pt/documentos/6411-Isa-Energia-21-Emissao-Aditamento-Escritura-Book-(VAssinada).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6399"
+    },
+    {
+     "text": "26/01/2026 \r\n     \r\n    Aviso aos Debenturistas - Atualização da data de Aquisição Facultativa - 9ª Emissão",
+     "href": "/pt/documentos/6399-Aviso-aos-Debenturistas-atualizacao-cronograma.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6390"
+    },
+    {
+     "text": "14/01/2026 \r\n     \r\n    Aviso aos Debenturistas - Pagamento de juros e principal 10ª Emissão",
+     "href": "/pt/documentos/6390-Aviso-aos-debenturistas-10-14.01.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6384"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Aviso aos Debenturistas Aquisição Facultativa (13ª Emissão)",
+     "href": "/pt/documentos/6384-ISA-Energia-Exchange-Aviso-aos-Debenturistas-Aquisicao-Facultativa-(13-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6385"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Aviso aos Debenturistas Aquisição Facultativa (16ª Emissão)",
+     "href": "/pt/documentos/6385-ISA-Energia-Exchange-Aviso-aos-Debenturistas-Aquisicao-Facultativa-(16-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6382"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Aviso aos Debenturistas Aquisição Facultativa (1ª Série - 9ª Emissão)",
+     "href": "/pt/documentos/6382-ISA-Energia-Exchange-Aviso-aos-Debenturistas-Aquisicao-Facultativa-(1-Serie-9-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6383"
+    },
+    {
+     "text": "09/01/2026 \r\n     \r\n    Aviso aos Debenturistas Aquisição Facultativa (1ª, 2ª e 3ª Série - 15ª Emissão)",
+     "href": "/pt/documentos/6383-ISA-Energia-Exchange-Aviso-aos-Debenturistas-Aquisicao-Facultativa-(1,-2-e-3-Serie-15-Emissao)-(VFinal).pdf"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Compartilhar no Facebook",
+     "href": "https://www.facebook.com/isacteepbr"
+    },
+    {
+     "text": "Compartilhar no Instagram",
+     "href": "https://www.instagram.com/isacteepbr/"
+    },
+    {
+     "text": "Compartilhar no Youtube",
+     "href": "https://www.youtube.com/user/canalCTEEP"
+    },
+    {
+     "text": "Compartilhar no Linkedin",
+     "href": "https://www.linkedin.com/company/isacteepbr/"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/ri/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Innova",
+     "href": "https://www.aatb.com.br"
+    }
+   ]
+  },
+  {
+   "key": "RI_FRE_FINAL",
+   "url": "https://ri.isaenergiabrasil.com.br/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "file": "RI_FRE_FINAL.html",
+   "access": "2026-10-21T20:48:39-03:00",
+   "sha256": "3b2afafcd4e388ba9034ac5016a515a6aff448c576cf67744830e555991fb6a2",
+   "links": [
+    {
+     "text": "ISA ENERGIA BRASIL",
+     "href": "/pt"
+    },
+    {
+     "text": "ISA",
+     "href": "https://www.isa.co/"
+    },
+    {
+     "text": "Institucional",
+     "href": "https://www.isaenergiabrasil.com.br/"
+    },
+    {
+     "text": "",
+     "href": "/pt/RSS"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/glossario"
+    },
+    {
+     "text": "0",
+     "href": "/pt/cesta-de-downloads"
+    },
+    {
+     "text": "ENG",
+     "href": "/en/markets-disclosure/reference-form-and-cadastral"
+    },
+    {
+     "text": "A ISA ENERGIA",
+     "href": "#"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Governança Corporativa",
+     "href": "#"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Informações Financeiras",
+     "href": "#"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Divulgação ao Mercado",
+     "href": "#"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Atendimento aos Acionistas",
+     "href": "#"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Sustentabilidade",
+     "href": "#"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Imprimir",
+     "href": "javascript:window.print();"
+    },
+    {
+     "text": "A+",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "A-",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "Formulário de Referência",
+     "href": "#tipo_17"
+    },
+    {
+     "text": "Formulário Cadastral",
+     "href": "#tipo_25"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6671"
+    },
+    {
+     "text": "28/05/2026 \r\n     \r\n    Formulário de Referência 2026",
+     "href": "/pt/documentos/6671-Formulario-de-Referencia-v8-10-09-26.pdf"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6581"
+    },
+    {
+     "text": "05/05/2026 \r\n     \r\n    Formulário Cadastral 2026",
+     "href": "/pt/documentos/6581-FCA-2026.pdf"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Compartilhar no Facebook",
+     "href": "https://www.facebook.com/isacteepbr"
+    },
+    {
+     "text": "Compartilhar no Instagram",
+     "href": "https://www.instagram.com/isacteepbr/"
+    },
+    {
+     "text": "Compartilhar no Youtube",
+     "href": "https://www.youtube.com/user/canalCTEEP"
+    },
+    {
+     "text": "Compartilhar no Linkedin",
+     "href": "https://www.linkedin.com/company/isacteepbr/"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/ri/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Innova",
+     "href": "https://www.aatb.com.br"
+    }
+   ]
+  },
+  {
+   "key": "RI_CALENDARIO_FINAL",
+   "url": "https://ri.isaenergiabrasil.com.br/pt/atendimento-aos-acionistas/calendario-de-eventos",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "file": "RI_CALENDARIO_FINAL.html",
+   "access": "2026-10-21T20:48:39-03:00",
+   "sha256": "dc46283a006b72ad97d49ae4ccb99bc21236ad74e00ceba19792237aa6df95e2",
+   "links": [
+    {
+     "text": "ISA ENERGIA BRASIL",
+     "href": "/pt"
+    },
+    {
+     "text": "ISA",
+     "href": "https://www.isa.co/"
+    },
+    {
+     "text": "Institucional",
+     "href": "https://www.isaenergiabrasil.com.br/"
+    },
+    {
+     "text": "",
+     "href": "/pt/RSS"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "",
+     "href": "/pt/atendimento-aos-acionistas/glossario"
+    },
+    {
+     "text": "0",
+     "href": "/pt/cesta-de-downloads"
+    },
+    {
+     "text": "ENG",
+     "href": "/en/shareholder-service/events-calendar"
+    },
+    {
+     "text": "A ISA ENERGIA",
+     "href": "#"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Governança Corporativa",
+     "href": "#"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Informações Financeiras",
+     "href": "#"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Divulgação ao Mercado",
+     "href": "#"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Atendimento aos Acionistas",
+     "href": "#"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Sustentabilidade",
+     "href": "#"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Imprimir",
+     "href": "javascript:window.print();"
+    },
+    {
+     "text": "A+",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "A-",
+     "href": "javascript:void(0);"
+    },
+    {
+     "text": "Calendário Anual",
+     "href": "#tipo_24"
+    },
+    {
+     "text": "",
+     "href": "/ajax/CestaDownload/Adicionar?Id=6392"
+    },
+    {
+     "text": "06/02/2026 \r\n     \r\n    Calendário de Eventos - 2026",
+     "href": "/pt/documentos/6392-calendario-anual-de-eventos-corporativos.pdf"
+    },
+    {
+     "text": "Perfil Corporativo",
+     "href": "/pt/a-isa-energia/perfil-corporativo"
+    },
+    {
+     "text": "Prêmios & Reconhecimentos",
+     "href": "/pt/a-isa-energia/premios-reconhecimentos"
+    },
+    {
+     "text": "História",
+     "href": "/pt/a-isa-energia/historia"
+    },
+    {
+     "text": "Concessões",
+     "href": "/pt/a-isa-energia/concessoes"
+    },
+    {
+     "text": "Setor de Transmissão",
+     "href": "/pt/a-isa-energia/setor-de-transmissao"
+    },
+    {
+     "text": "Principais Documentos Regulatórios",
+     "href": "/pt/a-isa-energia/principais-documentos-regulatorios"
+    },
+    {
+     "text": "Composição Acionária e Estrutura Societária",
+     "href": "/pt/governanca-corporativa/composicao-acionaria-e-estrutura-societaria"
+    },
+    {
+     "text": "Políticas & Regulamentos",
+     "href": "/pt/governanca-corporativa/politicas-regulamentos"
+    },
+    {
+     "text": "Administração, Conselhos & Comitês",
+     "href": "/pt/governanca-corporativa/administracao-conselhos-comites"
+    },
+    {
+     "text": "Estatuto Social",
+     "href": "/pt/governanca-corporativa/estatuto-social"
+    },
+    {
+     "text": "Central de Resultados",
+     "href": "/pt/informacoes-financeiras/central-de-resultados"
+    },
+    {
+     "text": "Demonstrações das Subsidiárias",
+     "href": "/pt/informacoes-financeiras/demonstracoes-das-subsidiarias"
+    },
+    {
+     "text": "RAP Ciclo",
+     "href": "/pt/informacoes-financeiras/rap-ciclo"
+    },
+    {
+     "text": "Remuneração aos Acionistas",
+     "href": "/pt/informacoes-financeiras/remuneracao-aos-acionistas"
+    },
+    {
+     "text": "Endividamento",
+     "href": "/pt/informacoes-financeiras/endividamento"
+    },
+    {
+     "text": "Ratings",
+     "href": "/pt/informacoes-financeiras/ratings"
+    },
+    {
+     "text": "Relatórios",
+     "href": "/pt/informacoes-financeiras/relatorios"
+    },
+    {
+     "text": "Suporte para Modelagem",
+     "href": "/pt/informacoes-financeiras/suporte-para-modelagem"
+    },
+    {
+     "text": "Apresentações & Teleconferências",
+     "href": "/pt/divulgacao-ao-mercado/apresentacoes-teleconferencias"
+    },
+    {
+     "text": "Avisos",
+     "href": "/pt/divulgacao-ao-mercado/avisos"
+    },
+    {
+     "text": "Comunicados & Fatos Relevantes",
+     "href": "/pt/divulgacao-ao-mercado/comunicados-fatos-relevantes"
+    },
+    {
+     "text": "Formulário de Referência e Cadastral",
+     "href": "/pt/divulgacao-ao-mercado/formulario-de-referencia-e-cadastral"
+    },
+    {
+     "text": "Ofertas Públicas",
+     "href": "/pt/divulgacao-ao-mercado/ofertas-publicas"
+    },
+    {
+     "text": "Assembleias e Reuniões da Administração",
+     "href": "/pt/divulgacao-ao-mercado/assembleias-e-reunioes-da-administracao"
+    },
+    {
+     "text": "Outros Arquivamentos",
+     "href": "/pt/divulgacao-ao-mercado/outros-arquivamentos"
+    },
+    {
+     "text": "Investor Day",
+     "href": "/pt/divulgacao-ao-mercado/investor-day"
+    },
+    {
+     "text": "Escriturador e Informe de Rendimentos",
+     "href": "/pt/atendimento-aos-acionistas/escriturador-e-informe-de-rendimentos"
+    },
+    {
+     "text": "Perguntas Frequentes",
+     "href": "/pt/atendimento-aos-acionistas/perguntas-frequentes"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/pt/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Calendário de Eventos",
+     "href": "/pt/atendimento-aos-acionistas/calendario-de-eventos"
+    },
+    {
+     "text": "Formador de Mercado",
+     "href": "/pt/atendimento-aos-acionistas/formador-de-mercado"
+    },
+    {
+     "text": "Cobertura dos Analistas",
+     "href": "/pt/atendimento-aos-acionistas/cobertura-dos-analistas"
+    },
+    {
+     "text": "Fale com RI",
+     "href": "/pt/atendimento-aos-acionistas/fale-com-ri"
+    },
+    {
+     "text": "Cotações das Ações",
+     "href": "/pt/atendimento-aos-acionistas/cotacoes-das-acoes"
+    },
+    {
+     "text": "Série: O Investidor Pergunta",
+     "href": "/pt/atendimento-aos-acionistas/serie-o-investidor-pergunta"
+    },
+    {
+     "text": "Visão Geral",
+     "href": "/pt/sustentabilidade/visao-geral"
+    },
+    {
+     "text": "ASG",
+     "href": "/pt/sustentabilidade/asg"
+    },
+    {
+     "text": "Relatório Anual de Sustentabilidade",
+     "href": "/pt/sustentabilidade/relatorio-anual-de-sustentabilidade"
+    },
+    {
+     "text": "Trajetória Net zero",
+     "href": "https://www.isaenergiabrasil.com.br/sustentabilidade/net-zero-2050"
+    },
+    {
+     "text": "Compartilhar no Facebook",
+     "href": "https://www.facebook.com/isacteepbr"
+    },
+    {
+     "text": "Compartilhar no Instagram",
+     "href": "https://www.instagram.com/isacteepbr/"
+    },
+    {
+     "text": "Compartilhar no Youtube",
+     "href": "https://www.youtube.com/user/canalCTEEP"
+    },
+    {
+     "text": "Compartilhar no Linkedin",
+     "href": "https://www.linkedin.com/company/isacteepbr/"
+    },
+    {
+     "text": "Cadastro no Mailing",
+     "href": "/ri/atendimento-aos-acionistas/cadastro-no-mailing"
+    },
+    {
+     "text": "Innova",
+     "href": "https://www.aatb.com.br"
+    }
+   ]
+  }
+ ],
+ "b3_limit": "Página B3 aberta em B12, HTML sem listagem de documentos; não usada para afirmar completude de eventos."
+}

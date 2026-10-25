@@ -1,0 +1,16 @@
+[
+  {
+    "arquivo": "03_Base_sintetica\\base_B07\\dados_sinteticos\\SINTETICO_lancamentos_2025_REFERENCIA.csv.gz",
+    "registros": 600650,
+    "soma_brl": "36431298000.00",
+    "ids_duplicados": 0,
+    "aceite": true
+  },
+  {
+    "arquivo": "03_Base_sintetica\\base_B07\\dados_sinteticos\\SINTETICO_lancamentos_2025_TESTE.csv.gz",
+    "registros": 600474,
+    "soma_brl": "36463023784.44",
+    "ids_duplicados": 0,
+    "aceite": true
+  }
+]

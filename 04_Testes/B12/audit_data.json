@@ -1,0 +1,2289 @@
+{
+ "reproduction": [
+  {
+   "file": "dados_sinteticos\\SINTETICO_cadastro_fornecedores.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_cadastro_usuarios_pagadores.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_lancamentos_2025_REFERENCIA.csv.gz",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_lancamentos_2025_TESTE.csv.gz",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_lancamentos_2026_jan_fev_REFERENCIA.csv.gz",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_lancamentos_2026_jan_fev_TESTE.csv.gz",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_parametros_contratos.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_saldos_REFERENCIA.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "dados_sinteticos\\SINTETICO_saldos_TESTE.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "gabarito_LACRADO\\LINHAS_ALTERADAS.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "gabarito_LACRADO\\MAPA_IDS_TESTE_COM_ERRO.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  },
+  {
+   "file": "gabarito_LACRADO\\PONTE_EFEITO_ERROS.xlsx",
+   "same_bytes": false,
+   "same_data": false,
+   "same_after_newline_normalization": false
+  },
+  {
+   "file": "gabarito_LACRADO\\REGISTRO_ERROS.csv",
+   "same_bytes": false,
+   "same_data": true,
+   "same_after_newline_normalization": true
+  }
+ ],
+ "environment": {
+  "python": "3.12.14",
+  "sistema": "Windows-11-10.0.26300-SP0",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "openpyxl": "3.1.5"
+ },
+ "saved_base": [
+  {
+   "file": "SINTETICO_lancamentos_2025_REFERENCIA.csv.gz",
+   "rows": 600650,
+   "unique_ids": 600650,
+   "duplicate_entire_record_except_id": 0,
+   "duplicate_doc_line": 0,
+   "contracts": 28,
+   "types": {
+    "RECEITA_INFRA": 269369,
+    "RECEBIMENTO": 221672,
+    "RECEITA_OEM": 108577,
+    "RECLASSIFICACAO": 440,
+    "REMUNERACAO": 361,
+    "PROVISAO_MEDICAO": 72,
+    "ESTORNO_PROVISAO": 66,
+    "SALDO_ABERTURA": 55,
+    "SALDO_ABERTURA_PERDA_ESPERADA": 22,
+    "PERDA_ESPERADA": 6,
+    "RTP": 5,
+    "EFICIENCIA": 5
+   },
+   "sum_cents": 3643129800000,
+   "date_min": "2025-01-01",
+   "date_max": "2025-12-31",
+   "months": 13,
+   "columns": [
+    "id_lancamento",
+    "id_documento",
+    "seq_linha_documento",
+    "data_lancamento",
+    "hora_lancamento",
+    "data_documento",
+    "competencia",
+    "entidade",
+    "grupo",
+    "contrato",
+    "componente",
+    "tipo_movimento",
+    "valor_movimento_brl",
+    "id_obra_aneel",
+    "id_modulo_aneel",
+    "tipo_receita_aneel",
+    "fornecedor_id",
+    "tipo_custo",
+    "custo_documento_brl",
+    "margem_construcao",
+    "usuario_pagador_id",
+    "tipo_usuario",
+    "data_vencimento",
+    "dias_atraso",
+    "taxa_implicita_aa",
+    "base_calculo_brl",
+    "origem",
+    "usuario_sistema",
+    "aprovador",
+    "historico",
+    "natureza_dado"
+   ]
+  },
+  {
+   "file": "SINTETICO_lancamentos_2025_TESTE.csv.gz",
+   "rows": 600474,
+   "unique_ids": 600474,
+   "duplicate_entire_record_except_id": 0,
+   "duplicate_doc_line": 36,
+   "contracts": 28,
+   "types": {
+    "RECEITA_INFRA": 269191,
+    "RECEBIMENTO": 221672,
+    "RECEITA_OEM": 108577,
+    "RECLASSIFICACAO": 440,
+    "REMUNERACAO": 361,
+    "PROVISAO_MEDICAO": 72,
+    "ESTORNO_PROVISAO": 66,
+    "SALDO_ABERTURA": 55,
+    "SALDO_ABERTURA_PERDA_ESPERADA": 22,
+    "PERDA_ESPERADA": 6,
+    "RTP": 5,
+    "EFICIENCIA": 5,
+    "AJUSTE_MANUAL": 2
+   },
+   "sum_cents": 3646302378444,
+   "date_min": "2025-01-01",
+   "date_max": "2025-12-31",
+   "months": 13,
+   "columns": [
+    "id_lancamento",
+    "id_documento",
+    "seq_linha_documento",
+    "data_lancamento",
+    "hora_lancamento",
+    "data_documento",
+    "competencia",
+    "entidade",
+    "grupo",
+    "contrato",
+    "componente",
+    "tipo_movimento",
+    "valor_movimento_brl",
+    "id_obra_aneel",
+    "id_modulo_aneel",
+    "tipo_receita_aneel",
+    "fornecedor_id",
+    "tipo_custo",
+    "custo_documento_brl",
+    "margem_construcao",
+    "usuario_pagador_id",
+    "tipo_usuario",
+    "data_vencimento",
+    "dias_atraso",
+    "taxa_implicita_aa",
+    "base_calculo_brl",
+    "origem",
+    "usuario_sistema",
+    "aprovador",
+    "historico",
+    "natureza_dado"
+   ]
+  }
+ ],
+ "balances": {
+  "2024-12-31": "31046823000.00",
+  "2025-12-31": "36431298000.00"
+ },
+ "originals": [
+  {
+   "id": "F0001",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f22bf3d655e7e85b503fdc478cbffd6bc880cc2ce96cb581d98c57e0e6bedf3e"
+  },
+  {
+   "id": "F0002",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a5c237f41ba4f87f254412ef305ee4c3bea35d985c472b4803f22c3d14f6b205"
+  },
+  {
+   "id": "F0003",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b798833e00992911987e0905aa455fb475ffc332ac9b4e67e4abae0993bd584c"
+  },
+  {
+   "id": "F0004",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c34e43d26464ce5c6e6e1db02f1eee032e4c112663953c5e0bfeeff2c6995d1b"
+  },
+  {
+   "id": "F0005",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "853865dd34571ffced947e658fb1a7b2568eb3a4a64e14bb92d48f644657909f"
+  },
+  {
+   "id": "F0006",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "27ce3cae822b118a33dc7e1fed87db4775b127ef15343d5afc85c9cf3ec4dbf0"
+  },
+  {
+   "id": "F0007",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e0804a7965cdef840f6fa3c113381f5d39220bf8536eaf4339daecb5f76a948c"
+  },
+  {
+   "id": "F0008",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "cb5acaa4fb78abe7f0b4e576b94cd4fd783eb20c5061ee064ec5876ee239304f"
+  },
+  {
+   "id": "F0009",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4629e9610cde132f4562f916c01744a888f24ebc95e85511c97af9e49669ab33"
+  },
+  {
+   "id": "F0010",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1cda2c04868c5f4ac9eb0ce956fcf12cea3a9c4ce6ecef0fed03bb261bba49e1"
+  },
+  {
+   "id": "F0011",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "16f71bfebb444fc1cf2f1c5f59ea764a7e0f6aa52c7538dffe3fc172bdca235a"
+  },
+  {
+   "id": "F0012",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8f78d7c12a79be41f51c4d4f0e79b6d2d8ebb3375a97a14026a70c8dcfe47970"
+  },
+  {
+   "id": "F0013",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "371e8a4d2aba8e5aba3e4509983812bf306f51e4c336c0545c297d581f1db041"
+  },
+  {
+   "id": "F0014",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d26179c7a626852d06fb97e211e2fafbfb261823141d388ddfd99fad64650f3b"
+  },
+  {
+   "id": "F0015",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1f4cfca5b1d105e551e310859900d7d7e576a9fe15127d44353152b19f0634d7"
+  },
+  {
+   "id": "F0016",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7ec7cf67e2992833a0c67eac35a3816c1070675cc7ecc29639cb21ff708d3061"
+  },
+  {
+   "id": "F0017",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b51c920793c18edb66e8780c0780836d441af1199e1077064b73c7de6c865df0"
+  },
+  {
+   "id": "F0018",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5e273568aae97d1301c852e9f5d2ed024584beab31ee82a65eff47478ffdf34f"
+  },
+  {
+   "id": "F0019",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "becdbefe65a63cdeebd30ad832c54ff020a867ed0bba99a7ae694bceed54991c"
+  },
+  {
+   "id": "F0020",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a3b369721392b5194daacc2850b057ac9c977f0cfc5409d4ff433b2370bf6fa8"
+  },
+  {
+   "id": "F0021",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "057f02ec0ed30ad5b487c3ec4c5898a2a103fcfb925d4c077df9bca18f69dd09"
+  },
+  {
+   "id": "F0022",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "64fb60636ea6e207a4950f94d23b9c601b54d47cd6832f4c7abf14369ab1dffd"
+  },
+  {
+   "id": "F0023",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c9eb6e49a03f7bc59b5ee6eb53c5302be8aca17c2b250d21623db8b0bb680d5e"
+  },
+  {
+   "id": "F0024",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "0f5ccfe4288a0d3bfc4f28dc75a6851ec2477b7725d7cf992f9d595a04c77d19"
+  },
+  {
+   "id": "F0025",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b261d7073f703fb6ecfb4a5f8f26018918b2c746af4e085ff087a603ef29c01e"
+  },
+  {
+   "id": "F0026",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e9c6a5aa780e5f09de8f50ba72171422a00399b730b3201e288256b08b485e9f"
+  },
+  {
+   "id": "F0027",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "035c8f5b448b864c88d5c0fb433d56c60678daaefe0065b7074f135b2e6524a8"
+  },
+  {
+   "id": "F0028",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "079afde88c1690d6aa467c7cce120620142d5a716ff0f89f57fdf954ec4cafff"
+  },
+  {
+   "id": "F0029",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7f1b2410c6fc91bd84f53fe25d49b1b69bba19741ff92767ab00dc6b43501dc9"
+  },
+  {
+   "id": "F0030",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "64635cf4eb2c5f1237200726684cb980be52476024e6bfb4e2464f5cfa69b860"
+  },
+  {
+   "id": "F0031",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "16f403125138d8ee52e4bd5ef752b87507aa4482ae1834be373639ea0be17f6e"
+  },
+  {
+   "id": "F0032",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "71a35c7501bd64b7ee97a833bcd5696476d764e662ff05a44368fd2f8db1afd2"
+  },
+  {
+   "id": "F0033",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c36b3b2acd656f48fdd837d92236d27aa1dcc765bdf4217dfbece4cda80b03d1"
+  },
+  {
+   "id": "F0034",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "707361a2106bf1348f637642a7c189741535c8a1e49da86a466df666d7333a8c"
+  },
+  {
+   "id": "F0035",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8fbeb4240105ad1f9412a6ecafc0983a02c812174f912826996f423f0b6677c5"
+  },
+  {
+   "id": "F0036",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2383b4eeac3a60077928cb41ae05ead9b6a9b5da4af45c07502f817646756529"
+  },
+  {
+   "id": "F0037",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e30e9a74834e0318c882a5e515dc25e7d9e0bce2a98dc43bb1c818b4fe2fa9f9"
+  },
+  {
+   "id": "F0038",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ab2d06c79d7017374e21f1928223e8a712452f6bdf2384190ff35244505e12c8"
+  },
+  {
+   "id": "F0039",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6dd6e83dd36dfc92d81567a5de0293691976aa7de927eef75b2e78395807dd97"
+  },
+  {
+   "id": "F0040",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "551020fa0e31bc98a9bb5ef2637ff6232eec2e8900c0982ead5ce4292b9fe684"
+  },
+  {
+   "id": "F0041",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "0cf78a27c1567be32192d1b589e0f6f6b976e48e95d115bea6808d7ae4bb9edb"
+  },
+  {
+   "id": "F0042",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8d79f0c7f4263feadcc2613bbcc55313336479f20a2ff7be58fdebadfcbf8eca"
+  },
+  {
+   "id": "F0043",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "049d5501c61bf15a37616a30bba4366ef06dece394b1e77566c70f2432741f97"
+  },
+  {
+   "id": "F0044",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b794366bf187a2a25e02a6c9c807ad2431431a458b052127627e02fc85dfb646"
+  },
+  {
+   "id": "F0045",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2c7f973507d0ba46715c2aff39f21bc056de7fc81308607a9e6b900204e05d54"
+  },
+  {
+   "id": "F0046",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ade0e405ca98f9b7503b6b9c52d233f6738d4b3b855f08f8e5d3db22e107bd3c"
+  },
+  {
+   "id": "F0047",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5d0737efcfd8fd75fedf289a413089f7549a4583c919e0343b4100fc78e9f9f9"
+  },
+  {
+   "id": "F0048",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "793d1111612f4cdd46e8440ff831a6faa0bd5b92cb3f15ca0f78b0d16ad92715"
+  },
+  {
+   "id": "F0049",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "50d7a9570a3159b397f49d7524d3ce678def0c64f17eaa0d9a0e186507da8c00"
+  },
+  {
+   "id": "F0050",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6bd18bb27f8f8a157f169c14405bac8229999276ec79bc09db25ea03b9873a1c"
+  },
+  {
+   "id": "F0051",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b8894cbc0d704219a090e333335e8aeafd321525a0285fb0eacdbd5df2673966"
+  },
+  {
+   "id": "F0052",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "54ffa29ec57b15ad5ee6e75544941b756f61fb1391a301d550b2e75d370fea58"
+  },
+  {
+   "id": "F0053",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2920c568d4581d1afc5e0ca34bdbefc2d15e53809eb489189fa5c1c41b54e184"
+  },
+  {
+   "id": "F0054",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f8e1e7f7063f0890c43434cd1b02bd09e17ba98a51090a65c1074646aa018f45"
+  },
+  {
+   "id": "F0055",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5e75c2dedecdd5697235340f230e8c4a69022c99caa282add08ed8a80b4781f1"
+  },
+  {
+   "id": "F0056",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c5eae06f2e0dc87334c134b52da4018d27adceb5a3cf8478df5c9a90c443de0f"
+  },
+  {
+   "id": "F0057",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "63fda3fded36369e6ea69802871b409963e64e49eff9f52eeaf030ea9bdf2062"
+  },
+  {
+   "id": "F0058",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b7cfb9ac5f85085a6423c905354655fec5a0c0ba1d582f16564fa32c8eb66b3e"
+  },
+  {
+   "id": "F0059",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4c6b6ba51340f1fdf4d0bb686daf0279cbb175833f27705eb3d989ce0e85c753"
+  },
+  {
+   "id": "F0060",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ff5b51f97e0627ad88d5c8228244ffe9e6a91415b315e31734eb4af509cd9043"
+  },
+  {
+   "id": "F0061",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2c0378a65d37c0cc801675161179b7845cba8fea0766beb35ed3d834c6bc87f5"
+  },
+  {
+   "id": "F0062",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "99e6c33056939c0ef2034e343bae758fbfd444900af726a958c7826f69e7438a"
+  },
+  {
+   "id": "F0063",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c405db556dda31c16fcbce7da8faa17ac9954bd65b84a2cc727e1eab2100f8cb"
+  },
+  {
+   "id": "F0064",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "afa777fa9da9b84b6a166bf4aa72d282eb77eaba7758a72c19bdccc41013042d"
+  },
+  {
+   "id": "F0065",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4b6c06bc94bd644d2474808d062f99524c1d8ff45ae331122b9cf569567c34da"
+  },
+  {
+   "id": "F0066",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ac8175fc957fef0946e18655639e8c54cec5da3b1f7f205df8568b5f251d3be7"
+  },
+  {
+   "id": "F0067",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "037d382a38b49f8acb2c60609373280f62fc03cfced869bea9100dc8d61561f1"
+  },
+  {
+   "id": "F0068",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "0979d778ab178fb7a51f71f3beeacd39341a6a662fa909ec20b64109fb50f4b0"
+  },
+  {
+   "id": "F0069",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f0cfa305380aa246bb0ec53b51d2e0b83930155afbde004e04069eff2796a81d"
+  },
+  {
+   "id": "F0070",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7e8d6c9bf2586896dbb59102ac44bc370287589bd9f21237721007b722fe13a1"
+  },
+  {
+   "id": "F0071",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a44bb16fee1e98cdb9cf3fb6787d7433151e8f8e4303e23c7853566849914841"
+  },
+  {
+   "id": "F0072",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "26ce57d24ab40ec592c031a18af081d75fceac14202ab198715036f26fa4044a"
+  },
+  {
+   "id": "F0073",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "55714a201e49b6cabd0df04e9c14ed7bf6d79556aeeae4779095a61b3620e168"
+  },
+  {
+   "id": "F0074",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2edc31bdb716c39c35e3a9654bc1b0cead77d30db2120c8b1222cdb112efc0b7"
+  },
+  {
+   "id": "F0075",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ce47615f8628977eb658a18a1ef782378fe8f25fd73674e600e025e6a57c14cd"
+  },
+  {
+   "id": "F0076",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a6b693e2059d599364f53983b7b77e1768b01a403194dbaf33895eb994c3e507"
+  },
+  {
+   "id": "F0077",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ef1a2277c257454f6d9b0b2ca3bfe0dafcae5aad04191e50b9a3789fc96a19bc"
+  },
+  {
+   "id": "F0078",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ce47615f8628977eb658a18a1ef782378fe8f25fd73674e600e025e6a57c14cd"
+  },
+  {
+   "id": "F0079",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "cdf7bb7670e89ea4b1457eafca979b0186d55166a614f8f47929e37bba5bc7c2"
+  },
+  {
+   "id": "F0080",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "378499d31eec89ce384a78cd108e9e63c29d8a260785296f3fad0e0cdeaefb64"
+  },
+  {
+   "id": "F0081",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6c12d11b39af2b9c0deb8e898de06d7e83e51caef7158024087ff6e6f047b9c1"
+  },
+  {
+   "id": "F0082",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bc9b97d7e42f18a44c3df231ac2b8143f34ca5e01c34d690fce52056b68c737e"
+  },
+  {
+   "id": "F0083",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "234de7c4053d59a96139d6bc1cde0281d63a8dd1dec27724db7bd634a992df76"
+  },
+  {
+   "id": "F0084",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "506d68d5e2620a98caed38864df4dd2be5c1bdf4883bea385ec929d6af4ce388"
+  },
+  {
+   "id": "F0085",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "cdf7bb7670e89ea4b1457eafca979b0186d55166a614f8f47929e37bba5bc7c2"
+  },
+  {
+   "id": "F0086",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "378499d31eec89ce384a78cd108e9e63c29d8a260785296f3fad0e0cdeaefb64"
+  },
+  {
+   "id": "F0087",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6c12d11b39af2b9c0deb8e898de06d7e83e51caef7158024087ff6e6f047b9c1"
+  },
+  {
+   "id": "F0088",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bc9b97d7e42f18a44c3df231ac2b8143f34ca5e01c34d690fce52056b68c737e"
+  },
+  {
+   "id": "F0089",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bc9b97d7e42f18a44c3df231ac2b8143f34ca5e01c34d690fce52056b68c737e"
+  },
+  {
+   "id": "F0090",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8cdf1424d7e9a341d7335b8d2d91cf6e4360db9496fbe25841a0f310ae271d59"
+  },
+  {
+   "id": "F0091",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c7e6dbdc8149e0208fa42fe164ff2bc45bbf7164634da6de5126caf3ce25d36b"
+  },
+  {
+   "id": "F0092",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "59ea9c42ea9d5d9f7a89d7417c2baeda41299aabd1ac5b943a8d2cf69a5ca340"
+  },
+  {
+   "id": "F0093",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ac605d320c0c0841ec5adb9c3907daa543be7c0e9daa2daf05d19fe488a5371d"
+  },
+  {
+   "id": "F0094",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4167184496c48e3bb49ec20f438c10b4e4af52ae2764fa3713b791aad1c54f3c"
+  },
+  {
+   "id": "F0095",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a84c99a77f2b2d749c231db08b098dcb45cfc3658d7c4735d182986527653843"
+  },
+  {
+   "id": "F0096",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7c2d6a9d6e924881fec6cb22dc9d1bdc4d4f0fb130fb2908ea0a9f72e591ae95"
+  },
+  {
+   "id": "F0097",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c2d0181c10c73574264ea7b2eabada22e46aa1b82019a5ca1a3873a124aa8844"
+  },
+  {
+   "id": "F0098",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d0478f3c2b1dc7ede66adb6a09095ba7465a8080c4cc74c9b78c064002513aeb"
+  },
+  {
+   "id": "F0099",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "86f29ab4b079ab3f69eb6cc1cf9b484b8022f5a1e5fec14372e454def15f8549"
+  },
+  {
+   "id": "F0100",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e75e610e52411dbef7e3573162e0beece81c8e3d98c417570be6edbeedf91142"
+  },
+  {
+   "id": "F0101",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "36dc7f9d0b86b1b6cd016fb7f8d7dab573451f000ab437dda72935953405267e"
+  },
+  {
+   "id": "F0102",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1fdf0163b0abef82a89e656625c03fbc339795ddc3b94ed274376e0920bb08e7"
+  },
+  {
+   "id": "F0103",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3793a31e9214f01d1bab09ff8b5eeec4b33a626b19d06de6b5fa908b75e25566"
+  },
+  {
+   "id": "F0104",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "05866007add178279cccd843e0cf134dee4958e11080ee5d73eb50467ad1f33f"
+  },
+  {
+   "id": "F0105",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "23cf6aea6934e0159a1fc09c40f6d392b8fea5c3e2239d00125b828d13070e26"
+  },
+  {
+   "id": "F0106",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "9e60d4ee9fbeba88412206967801e7ff4ed4d5ca81915699f51a068606d28ee8"
+  },
+  {
+   "id": "F0107",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "57b831cf10e19b8205f0e32cfa0eba9eb43dbce88a6782c55904b8ddd58540df"
+  },
+  {
+   "id": "F0108",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "951ac7e94de48e990d09d08674f88e4ee3f3de9158fe381ab93d202adb59762f"
+  },
+  {
+   "id": "F0109",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2244cee97e61ad21ef6aec3cda6b937d3a05953ec0189afd0d10734bcafa05c7"
+  },
+  {
+   "id": "F0110",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "fc515d12e15e5b5fc1775b3803d92ec5fcbaf119ef7931c11fbd3507723e7b06"
+  },
+  {
+   "id": "F0111",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c8ec945d86bac4125dd600dda2b6f982b04b147d37951f1369d7b0e7a6841e9e"
+  },
+  {
+   "id": "F0112",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6162bc863ed65a2bd8f1db5ccb96820e2103ddcf284de6fb7f5f88e27240dd7d"
+  },
+  {
+   "id": "F0113",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d5804890f76d2b99d43989d3f8a6b9d9d6d7968a2bd1c2e4b9053e2a287bc6a6"
+  },
+  {
+   "id": "F0114",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d95ce5cea3e83d9bca56816fe698464893d3c4994fbb3522025ee833acb7fce6"
+  },
+  {
+   "id": "F0115",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "391ba36e2dfdc3b5f6a2d418528ea224d9d8645f3d9cbd5529bac836624cae10"
+  },
+  {
+   "id": "F0116",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4432fa02acdffd3860a196796a30db240ace6f643b634eafd314a83aad9590d8"
+  },
+  {
+   "id": "F0117",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "acf7e06c492a0cca7f8242d4dfb6e89c38d68e90a69df770e99702f230af6f93"
+  },
+  {
+   "id": "F0118",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "63775f64b9e3fdb948c93c8c29cb35596e617ef56f39f5f471ebf807f4b94e34"
+  },
+  {
+   "id": "F0119",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "93242cded63a61fa598beaad2ff17d05f22d3e58fc70efe0b235592c1b74a122"
+  },
+  {
+   "id": "F0120",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "70b00e3ad1666aae8c48f9c351aab7a9a5db8d0616273267fa634c08dd79a2fc"
+  },
+  {
+   "id": "F0121",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1616a98f4f7f05db45d3f86d7e6ae9d841d8000a6b33797d2db47980007a57cc"
+  },
+  {
+   "id": "F0122",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "fbeb6bb65642ab2d3f196ddcf6736807bec15ee30c5fe9ec4351614ca2e23a51"
+  },
+  {
+   "id": "F0123",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "aa4f188228e29800ddb676765a031ea67c8cf883217933de13a063527fa0b89c"
+  },
+  {
+   "id": "F0124",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "62eb08ab68e3469f81aba8835d5185faee2762ee80f1010e53c35631f377b093"
+  },
+  {
+   "id": "F0125",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d2256b298f81914c11c65b5fbd752510ebe81ba779d0586c20d7c69e3ff81b40"
+  },
+  {
+   "id": "F0126",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3094932be582edd7c34b41a3ac79a18a84af8b8ae097e82f53cea434548b148d"
+  },
+  {
+   "id": "F0127",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "85c1f70e05ad342c14d9251c42d9f51a7ef13ba578d6089c1141264eda011979"
+  },
+  {
+   "id": "F0128",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c2ac0bc277410584579e63375aef96c88e84048ca339064442c4fdfb4b8ab450"
+  },
+  {
+   "id": "F0129",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "dc521f110f95c2ca7b72e940e3badb5c9d09341474d7f8c68136fd7a7b9f0ee1"
+  },
+  {
+   "id": "F0130",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5d29661e4d45fb2f6ae90de922e782a1ea9690a4cea6c109445d54cfb5fb2400"
+  },
+  {
+   "id": "F0131",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "fe9328528386ced39ac8be1208d30f13b195fedee509cb3e1ed0a3c57f89257d"
+  },
+  {
+   "id": "F0132",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "44380cd20063c16abf6c6bce8a6778b37dcf03ef1d1a1ecff2593d61a33829a9"
+  },
+  {
+   "id": "F0133",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "cfffa5bdff831519aa41ccf7bbc522d0bd7b596564ba81ae85db310070ad2b67"
+  },
+  {
+   "id": "F0134",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ca7f9e3fa2218d0eb503a018548c15c8290cb5ab24118a77d7dd3278f4052b6a"
+  },
+  {
+   "id": "F0135",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4b3075b8de402bec63061cea3badda36d4fdcdbf8d9aa61c8b2d24ab33830703"
+  },
+  {
+   "id": "F0136",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "914ba2a87be79cad2975ef023ef286cd2fc47dfe06af600ef08f5bfe5e91e1db"
+  },
+  {
+   "id": "F0137",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "9fec483d08c98f72251c21a68847354d11cfb39d710ef3cf084c0b4e5c61c7fb"
+  },
+  {
+   "id": "F0138",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "98f6be1ef59f45a22da00037b3ced6d3c4b54ba0380afe8b2ae9967173c87476"
+  },
+  {
+   "id": "F0139",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d75db401dee50eed78f7f888e02696f99e6572c7cc5ca1f98369d82cdc601a7a"
+  },
+  {
+   "id": "F0140",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1ca17424c2249848b1a9f854f9f62b6342df732c7ece2ac404a8d817d88309e8"
+  },
+  {
+   "id": "F0141",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f08d0d75ee1a36aa62d7b1f5663a2374a024f9b55f17205d075cb805ef2ec213"
+  },
+  {
+   "id": "F0142",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "9037f5b00fc57a0103f1bb5824c5c02a6bde72f4713328379943f8aa8e505bcb"
+  },
+  {
+   "id": "F0143",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "87f1118637e37f4ad2238994b9a67433a6f3026e77a8dedaedeaf7c5cec02b89"
+  },
+  {
+   "id": "F0144",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "cb90d206d34c30b246d78815a64236692f218ae43c46cee959cfcb0a2e11f261"
+  },
+  {
+   "id": "F0145",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8fc74d859cdf92d61d2d7fe777d199a3f11e368cc7f4f6442a01b820c353490d"
+  },
+  {
+   "id": "F0146",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "aaa2a0b1b31d14940b7998fc5e187a1503cc5e50c7b2672dfd4682cb956c9b40"
+  },
+  {
+   "id": "F0147",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "69329122b3ef1ded98176c55d395293e3bbdc4ab36542c41c98ac00fccfa68b8"
+  },
+  {
+   "id": "F0148",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ea6dada6eea1cd2cfb6f2aa642ea57685944c3cd99273de755086dbacc7d07f3"
+  },
+  {
+   "id": "F0149",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6abbe27d566e615fdbf2f61275d678c11163c8037aa83ffa38a34cc61255b70b"
+  },
+  {
+   "id": "F0150",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "40a2e2fbcd3c1d05507066efb35fbf3dcc482e724435ce9e74e4afaddab37804"
+  },
+  {
+   "id": "F0151",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5f8b34c062f509bc5bdc3fded8075a2e25c4826e51babf97d5f92bde035b9c41"
+  },
+  {
+   "id": "F0152",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a830fa3b8501908bb7567965cc28c85d3ab037f1ce05067e11a55e4e925fdc7c"
+  },
+  {
+   "id": "F0153",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "850cc9728078ce4a5ce5e8dd4dbc55082466041b8523e9cfe2661e5b102dba82"
+  },
+  {
+   "id": "F0154",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "055ca888ca841563f226d336adb018cfc6d600293ea8ea12e7b66af2346d86d0"
+  },
+  {
+   "id": "F0155",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4a541ad2ea62369b48e91eaffe19569509038f3f67ff96aef39f3d34d5438ef6"
+  },
+  {
+   "id": "F0156",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "802d26f0817e5e288e21820e6eadcd4b6b75da3da6eecb29ea759287a63d6d52"
+  },
+  {
+   "id": "F0157",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "770df2bdbb58f09c398973d0cb5296b03ae733cc1c3b027496a92c6dd112d1c9"
+  },
+  {
+   "id": "F0158",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3c56b1799af6cf090442210e7814d00d94401d940d67e9a3a8b87dc8204172c8"
+  },
+  {
+   "id": "F0159",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6bd6a918a75cfbdf4184cac6075ba1f5244252bc19b0023c23354773e48e6ffa"
+  },
+  {
+   "id": "F0160",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2df2d3fb3c23699f1d0c4d7126c65fd53b9ef1f2553733e653d7d2e4b9c6c2e5"
+  },
+  {
+   "id": "F0161",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "15a3cba103a69e36bc0816c98b8442a62bac4dde4d705b032620493ee29b3ca8"
+  },
+  {
+   "id": "F0162",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "10f83ba1dcb98820c392868fff9f3662e2f259b5b30dbc66316688f6c94a5df4"
+  },
+  {
+   "id": "F0163",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3c3bcc02a2a22ec98a24e8125cecfb9655c97eccfca4ccebb7b0dc147714ff03"
+  },
+  {
+   "id": "F0164",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d8b9143fa292a0871ffd3e0105b07d77b346346b2788655936947e4c9d4bdb50"
+  },
+  {
+   "id": "F0165",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "986b6e7938e21a25be0421d4fc73bb52668c625bf923a9806edb29272ae29129"
+  },
+  {
+   "id": "F0166",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bce27feef76704b34a8508684f6728abfdad1d2d622beac69fc0578411870f80"
+  },
+  {
+   "id": "F0167",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d9f772355904c1433f8a75cb64dd29c3be689122428ad29e1065869eaaa81967"
+  },
+  {
+   "id": "F0168",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "47f58fe7caabcf7f7b11655b9b6823893695de3eef7a40e98fd021e0faef5b69"
+  },
+  {
+   "id": "F0169",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "02cfb4bc4ab7d787b1b9773be4e88c7f31ab27bc899bf969905ca06b759eca55"
+  },
+  {
+   "id": "F0170",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bc9d2e1bf79612b563288b30d8003561afc0e5fdc6a9b8dc8a3fed8f15bb24fb"
+  },
+  {
+   "id": "F0171",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "21de2f87e3e0a6a112bed2a43595be1d9d82ac4e48fae36e8d355e0e7e9a96f2"
+  },
+  {
+   "id": "F0172",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bf7110a579f99bf3cdcc8a185e065cfe3e6d4244b11818f6af775724d13f9f66"
+  },
+  {
+   "id": "F0173",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bc8740f15aebef67adc41cf61f51e8db34d8d71a64dc6e5338973f6642bf6727"
+  },
+  {
+   "id": "F0174",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c7875fc1d034c3c75fef4c718149ad6b7aac0df133b6c1741d5691828c564f2b"
+  },
+  {
+   "id": "F0175",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8e6811f25d76473825421a9936eca63512af5a57d439fbdc16a69b5f20983c49"
+  },
+  {
+   "id": "F0176",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b230f4bf84db1281d6e43a567f4a2acaf06726c1d0eb7da61e13a943b951ecea"
+  },
+  {
+   "id": "F0177",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d2e64b4ed9fa09248d0c42425d949ea0331e2cc94bec2b7cdf7b30c8c9d52a36"
+  },
+  {
+   "id": "F0178",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bbaa19bb57e5d5590f4b528defb5bff382a556cd96f5802b0324d7ca644e3262"
+  },
+  {
+   "id": "F0179",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6f197fb1987b4bb8dccd9c70277110099a78746cf45d54e8888c232f2d384f89"
+  },
+  {
+   "id": "F0180",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1d60b626806cc1e04438e88272f1c08be5d959c974d2fb097b5a8d0daa94dc89"
+  },
+  {
+   "id": "F0181",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7815882333804ebdb74e10a55852503ea2c5e733940383c13b9682f5f66bd873"
+  },
+  {
+   "id": "F0182",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "263e3b8591a5e5f3eb3130f9c8558532ecec6e7b0ab72a930f376b5ed6183c54"
+  },
+  {
+   "id": "F0183",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "291977cfe9515380099b546e2444a9f2ec9a7010cd0b30c9658712bc2b67d67b"
+  },
+  {
+   "id": "F0184",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bcc908f44deb18a2476a5a04cdd052e632e077615aefc0e0ce8e03efad8c8ad5"
+  },
+  {
+   "id": "F0185",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f36c2d99e625c6b5f97cf28fd7acf20c6378639507eb6e2adccfef3c2784391d"
+  },
+  {
+   "id": "F0186",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "29e2812d159e1cab60fc962f410fb40cc98ed86daf949c80020875f3be8f53f3"
+  },
+  {
+   "id": "F0187",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "650a6f72eb55a630f2a70472ff6dc54f2f8b1968f0e756e70737be1616c3d331"
+  },
+  {
+   "id": "F0188",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c0aadb83bd44d19b6d86791254d1d4d2e0415c1f75e19e2770a707b10c083899"
+  },
+  {
+   "id": "F0189",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4c33df5e4d5a110b71069bb21c3698e7e45d8e45ea30ea4e842a43e3ed214762"
+  },
+  {
+   "id": "F0190",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "76f572ec1fc092f18dae72e9aba8ad8844cc21e96bf27463351c82693d6c5b58"
+  },
+  {
+   "id": "F0191",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3d264fd460b5f0a3abe03eacf63d4b1b150659f52ff98531ba5eddcb05ab1dab"
+  },
+  {
+   "id": "F0192",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ac6df467dd4ea74680333df6064df73bb603d6d407dfe9b7160dd78633f2973a"
+  },
+  {
+   "id": "F0193",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d825aa7e74eb1c8fc980740329d872091c277fe66a74b42c4ef539b3b0ff059b"
+  },
+  {
+   "id": "F0194",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a9302402d2773acd8f50b4b057c41adea93f80265b4fb3ad293f46d8a3f8e7ac"
+  },
+  {
+   "id": "F0195",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b2bc1e009fc284f05d488e64eedf6fcca174f312cf32795312cf010c7f3b017c"
+  },
+  {
+   "id": "F0196",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "04265adbf08924967433aa6ca1ff3f2e4407d8450bcb21a6d69166651a8d29c9"
+  },
+  {
+   "id": "F0197",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8ab887f448b0c9f0a89c3d8eac034caf656bf3bc33e8ca6580b09589706ddf4f"
+  },
+  {
+   "id": "F0198",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c24ee5a43c5d53e600b7a092e6358533c3721cd0e58de3c4bd5c3f2cf68c286d"
+  },
+  {
+   "id": "F0199",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f94f63467d700446df93c3edfe2b41973cbd26d37e1c176c8db95c18159c6962"
+  },
+  {
+   "id": "F0200",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7abd6b674ea85896e2148ac10b31799f733e93634032db2a24e1ad7fdd8f840c"
+  },
+  {
+   "id": "F0201",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2afad3ce0d933a92726c3b8dd6938413285f64983237dea5b4b2f0940de9bb4f"
+  },
+  {
+   "id": "F0202",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "921936c385369f218f762a8f1ee010b8ac592c26c10fb99bffd2a9d5805e5147"
+  },
+  {
+   "id": "F0203",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3e80cf2895d682facddffa3d5613ec13e3a81d14ca035ab0210d573f3c40fb3c"
+  },
+  {
+   "id": "F0204",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ffd27125f7339b2b0c65acec87ec8469bcc087ec973ff0af4341906bcc1ec8f9"
+  },
+  {
+   "id": "F0205",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "96bf06655fc48558afbf8ef2c0b8b3a58d9c50d56e0cdd222b53bd07c54a45af"
+  },
+  {
+   "id": "F0206",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "86a705f5848a5a8df40351a5b5439d382e29c560577c88d02599b6a9ef807946"
+  },
+  {
+   "id": "F0207",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "db782fd01629f698667f40e8f0aa67f19bd605d7f3db1c34af36f90f2a2d8bb7"
+  },
+  {
+   "id": "F0208",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "06ce0a079ef7a5da5126992c7d18cf74fa6f1f07bd979c3d47186e44a1547f21"
+  },
+  {
+   "id": "F0209",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c94cff5410d634d11be4bfe1c2d21145dbe4320d129e7a3c2daaec18a4fc7f30"
+  },
+  {
+   "id": "F0210",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6ced097f1ab02a8ada66ed05389d383fa06ba53c37f1b0140d054dab78e96fef"
+  },
+  {
+   "id": "F0211",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "224f3653ec64ad33b245101b5ed7fbe1fe6513b6928c54aca50e045dc8ecd8e5"
+  },
+  {
+   "id": "F0212",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "0616a6024d17785b53dc87ea55149301ea750f5208951dfe5060f5b2fb0c22b9"
+  },
+  {
+   "id": "F0213",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "0dc929036579f0085f0c941437bab333b20b2ce81601036cacdb3e37f611cc4b"
+  },
+  {
+   "id": "F0214",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "7cefd5cae9d8138bc649fd756a3e32449b7bd3be6b04b2787d4b1e6c0d719722"
+  },
+  {
+   "id": "F0215",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "d88edc2fb7a93477ce774dccfb463268e74a76a7cbeb449daa7aced6db1688cd"
+  },
+  {
+   "id": "F0216",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "9e9410c9d4f59482bc698b565f062073ec1d65989e0a287ff93b5e81149e55db"
+  },
+  {
+   "id": "F0217",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1271972425bd731a88f230f6df32ecf96690acdc1a26c89f2225e170d694979a"
+  },
+  {
+   "id": "F0218",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "6373978db1868b2e2e4da707f67301b007ad2084fb6372f7ce4bc0c3e742d412"
+  },
+  {
+   "id": "F0219",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8a56f990c392f1244d3ae60b920369825d7cccac23cee0fa7fd7f28e2e131e97"
+  },
+  {
+   "id": "F0220",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "68b854fc3017c7ec9bfeb5ee7901a2014a54738d0a2b9bc888f654b146e1482f"
+  },
+  {
+   "id": "F0221",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2846b5df4793cf2ec72ca461d6091c93c39be698befe19c622cb8d9c185b3b49"
+  },
+  {
+   "id": "F0222",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "88d65d824cb98d0fe7ceb0f61dd11e82af9dc3023ba9a6506d9ed615c69ca7e8"
+  },
+  {
+   "id": "F0223",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a4662d192f9a2c763fa937db79e23c6fb05675f808e799935a688d589a42d8bf"
+  },
+  {
+   "id": "F0224",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "509b32d8a8d42ea4bae8bd338f37363e21839acfec1897c8d78763a16f93a740"
+  },
+  {
+   "id": "F0225",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "bbc74ccb175088c5a49c8c3e1cef7f0eabb3ac77842e03aa4ccb7af66f9adc42"
+  },
+  {
+   "id": "F0226",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "fea2c960921474711f9956312d83496feb38cc692cafe091929058f8a44e2e4b"
+  },
+  {
+   "id": "F0227",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ee1d3422b3ddf4bc3049facb96fa963874ba18001f361ae2a519f33e426e7ea7"
+  },
+  {
+   "id": "F0228",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5a127e99c62b06f607821f333b9cd5cf4797ab725b7c2b00af0d813697ca1b3c"
+  },
+  {
+   "id": "F0229",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e826de0bde6c575e604a6e92f4720c70991e806a338b335ca2a47d3b208ea0f8"
+  },
+  {
+   "id": "F0230",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "71de9a4480a2445a406f145632e27c349bdfc453bb81eceaf99aca8a667a47dc"
+  },
+  {
+   "id": "F0231",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "465c00eec0bc3ee0969e896d1bc761f91443d6619d08e2d453e0e68327da2bd5"
+  },
+  {
+   "id": "F0232",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c8df74013e2fa0f25738b96774f6260c5601df8a4e8e58a31031289958a1eb55"
+  },
+  {
+   "id": "F0233",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1529cba55d3f230f62f2dc8f1408b8584ff3ca15228be0088d20ebabb00f8de5"
+  },
+  {
+   "id": "F0234",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2e46516ff6cb05670a944c0cef5f9f554f9f19042865aeeb8a5785a39a1a0c06"
+  },
+  {
+   "id": "F0235",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "2846b5df4793cf2ec72ca461d6091c93c39be698befe19c622cb8d9c185b3b49"
+  },
+  {
+   "id": "F0236",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "509b32d8a8d42ea4bae8bd338f37363e21839acfec1897c8d78763a16f93a740"
+  },
+  {
+   "id": "F0237",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8cb69215494c4bd277c519357285306be5595b6f705d84418e14d4ad4ce012a3"
+  },
+  {
+   "id": "F0238",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "555830c3db9a5934e0da0ee5b9e9730bb1722b021845533aa36e75fab43a7aff"
+  },
+  {
+   "id": "F0239",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "643174fe6e2c820857eaa26c2f8f1d2489a7f1e637d5a7b06b2b3021469a8461"
+  },
+  {
+   "id": "F0240",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c074ee9a23af3a633819135bd7c9b7a21106fb7a617f815af7de2a99e68e0f5c"
+  },
+  {
+   "id": "F0241",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b711433dd2c6eefcff80977d98823af57130744acb57e6e41bca5cf7e71b48f4"
+  },
+  {
+   "id": "F0242",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "3d8d2422f7824a7c739fc099e60458f515846f4137b0d65f4396ff4e8cc5c923"
+  },
+  {
+   "id": "F0243",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a4c3d075a266ab05e1b9c70eae6fb536bd5a0f6bbbc1ef90374c9f4efcfeb8ae"
+  },
+  {
+   "id": "F0244",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "0e7119fd8ee43368ddd19b3be98cab3035ce9b4a38a714aa4901a5bca498bbe8"
+  },
+  {
+   "id": "F0245",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5d39a0b6fa15c57f458ead07a31bfe454ec2e1ba673bc61c9508034c0c1846da"
+  },
+  {
+   "id": "F0246",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c868a8946c4e66fcf805c42c1f587abb1a5fab608a8b1ffe28fc991cb36e0304"
+  },
+  {
+   "id": "F0247",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "9e9f0ba5d15ce282e3fd9330b2d6d85a2272e91ff2883076c4f4f300e51058c0"
+  },
+  {
+   "id": "F0248",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "15abfa231119b1bb5e6a747e2186447a6709a0feaeb356da197f3d232f9e747e"
+  },
+  {
+   "id": "F0249",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5902d7d8f5a459b5422be105fdae5df22ff574330463a782268b9b586663990b"
+  },
+  {
+   "id": "F0250",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ba7a40b8667186c31c3b8176b8a1e9e4ea845b9abe5760879520777d02115b96"
+  },
+  {
+   "id": "F0251",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "45831f5624343584cf8b1c3be95b0a33e73f842c26c962609d845e1465cf35ca"
+  },
+  {
+   "id": "F0252",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b54514de490a910fe5bec8b165e79efb280d16bb92ab851ddaad1ed6c84d569f"
+  },
+  {
+   "id": "F0253",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "193d8ec787195b06f75fdae631a049b797f988a0a7a1af0de988d1d520abbcfd"
+  },
+  {
+   "id": "F0254",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c221864d68a0ce37d42a095befdf96391d5d27b6ecd24c822c2ee6d65ff125d9"
+  },
+  {
+   "id": "F0255",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "dc37378774dee0819533ecc2b7c8f3279191727ed2d83e2a90a26ea134820c49"
+  },
+  {
+   "id": "F0256",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e0f0f6f6e7a8532dc2f084fcdda1b5f55f4bf5ccc1570bdee8ea61bd5ebdec2e"
+  },
+  {
+   "id": "F0257",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "091c6f95fecbd1d2e6347b9035538fd8221102b472e5fa1c0bd1e9148b5860be"
+  },
+  {
+   "id": "F0258",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8b417b08cb205b315f6737e847cc0d171659af1c4a0e9c54ce61f54d7b174678"
+  },
+  {
+   "id": "F0259",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "384c2ebb0bee7d312bda55007fe502ef45c58c567b14e1167bbccaefea7865a9"
+  },
+  {
+   "id": "F0260",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "4d5ff900b1304904adb994fe86d71854ef7ea3bed41db4d2ca5be3eefdd7e476"
+  },
+  {
+   "id": "F0261",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "05a60973368b680185573b32669f7c566f4fd29c257458c603dd8ee1abfc552c"
+  },
+  {
+   "id": "F0262",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e87c341a35e1d97756c53c9073851dbf3d9408ea70d0001e5aa3129d998232c9"
+  },
+  {
+   "id": "F0263",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "1b0578cae31eda2a66eed574658e946b7b996675cdb7eac2cfbcf31e83034586"
+  },
+  {
+   "id": "F0264",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "da27fbdad2c3ab9745b137d75449752227a2d3b97ad023e77871872f7e5eaba5"
+  },
+  {
+   "id": "F0265",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ec1a9ea2bd8b10482893ca88fe57a5e9f955eddffff66129975fc0fb7d73adfd"
+  },
+  {
+   "id": "F0266",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "902f15cb1b335cd08dad0a2ecf9e85f9cc65fc79fe938490603a80bcb863b6fa"
+  },
+  {
+   "id": "F0267",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "af420c594876a5c348d70c44dcbcbff44976da1782026619f3e1dc63dde5313c"
+  },
+  {
+   "id": "F0268",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "926771fbab46a1a3259b0bd545ff4c3e3f10466ee1ea8f7c2b07f1d09555a877"
+  },
+  {
+   "id": "F0269",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "b7a739fc4d19c24f5403ea72edaf72d16c7a74c2be58e6855e11c302aff0bc30"
+  },
+  {
+   "id": "F0270",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "5dce40f1eea1ce16176010c1501976448d812949082b5e09e8fb3adec68aa12a"
+  },
+  {
+   "id": "F0271",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "917ad77a1dc2c642e88d09ebd715d6a73df758560354184ff8b7ab0fce94ca2e"
+  },
+  {
+   "id": "F0272",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "c323c4e3833892add1ec0f759cd25b629246f30f81c0f9e6dddc2c75e902736a"
+  },
+  {
+   "id": "F0273",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "ad319d1be934e44c90420a9c7e29c1cbb6638fbc48bcb6656d36f64a95f462f5"
+  },
+  {
+   "id": "F0274",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "e5205240b1335b629fb83febf1be47fae52e763737995c5d66f08c113bc31e7d"
+  },
+  {
+   "id": "F0275",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f7c6fd12122113d480f8eb8332228c538cdfdb73153ce6325acc9a567107d66b"
+  },
+  {
+   "id": "F0276",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "67b0cfa39b8fec9d9326fbcd77a348672cdc31c01ef6d96c952e6ed4ce0f0aa2"
+  },
+  {
+   "id": "F0277",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "f330a6b7dae0c8835b4b3c9f2833fd41444f19939e2b0bdf49a9e6d2c62bcf80"
+  },
+  {
+   "id": "F0278",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a8d07776abae7122aa19cdae4e63390957262a19663f3037e4531045f07e4271"
+  },
+  {
+   "id": "F0279",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "32773b9026862500640135f8168617efcd33454d309b44106ee688649003595e"
+  },
+  {
+   "id": "F0280",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "322b94153e837a2eab571100fd04fe6fe9646fadf0d2231cbc8ca0e665887dbc"
+  },
+  {
+   "id": "F0281",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "8750d3c35cc23eb04f969c76e7b3c853adfa4892b055bd8a204319647ec8ffcb"
+  },
+  {
+   "id": "F0282",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "dcec209ea1c0476aa27928b66777cae5075c9e34395cd193fa7dcc90abcc2e3c"
+  },
+  {
+   "id": "F0283",
+   "exists": true,
+   "same_as_inventory": true,
+   "actual_sha256": "a0a2f2182189166aaf77a42ead4a60e87799848d16e3343c3df6087aa5c7c403"
+  }
+ ],
+ "tests": [
+  {
+   "file": "resultados\\DISTORCOES_ESTAGIO1.csv",
+   "same_data": true,
+   "rows": 543
+  },
+  {
+   "file": "resultados\\EXCECOES_EXAMINADAS_ESTAGIO1.csv",
+   "same_data": true,
+   "rows": 588
+  },
+  {
+   "file": "resultados\\TD05_REMUNERACAO_RECALCULO.csv",
+   "same_data": true,
+   "rows": 336
+  },
+  {
+   "file": "resultados\\TD06_CLASSIFICACAO.csv",
+   "same_data": true,
+   "rows": 55
+  },
+  {
+   "file": "amostras\\AMOSTRA_MUS.csv",
+   "same_data": true,
+   "rows": 710
+  },
+  {
+   "file": "amostras\\POPULACAO_ELEGIVEL_MUS.csv.gz",
+   "same_data": true,
+   "rows": 268963
+  }
+ ],
+ "test_results": {
+  "entradas_lidas": [
+   "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_lancamentos_2025_TESTE.csv.gz",
+   "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_lancamentos_2026_jan_fev_TESTE.csv.gz",
+   "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_saldos_TESTE.csv",
+   "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_cadastro_fornecedores.csv",
+   "03_Base_sintetica/base_B07/dados_sinteticos/SINTETICO_cadastro_usuarios_pagadores.csv",
+   "03_Base_sintetica/base_B07/dados_reais_derivados/REAL_contratos_F0003_p36.csv",
+   "03_Base_sintetica/base_B07/dados_reais_derivados/REAL_catalogo_modulos_ANEEL_28_contratos.csv"
+  ],
+  "populacao_TD01": {
+   "linhas": 269265,
+   "valor_brl": 6477413245.75,
+   "por_tipo": {
+    "AJUSTE_MANUAL": [
+     2,
+     15500000.0
+    ],
+    "PROVISAO_MEDICAO": [
+     72,
+     133222095.0
+    ],
+    "RECEITA_INFRA": [
+     269191,
+     6328691150.75
+    ]
+   }
+  },
+  "negativos_e_zeros": {
+   "linhas": 66,
+   "valor_brl": -121857113.0,
+   "zeros": 0
+  },
+  "completude": {
+   "soma_P1_mais_negativos_brl": 6355556132.75,
+   "nota": "= linha Receita de infraestrutura do razão TESTE (CONCILIACAO_BASE_B07, aba C_TESTE)"
+  },
+  "medicoes_sem_custo": 0,
+  "estagio1": {
+   "excecoes_examinadas": 588,
+   "linhas_com_distorcao": 543,
+   "soma_abs_efeito_saldo_brl": 44928821.04,
+   "soma_abs_efeito_resultado_brl": 48456342.18,
+   "efeito_liquido_saldo_brl": 30525784.48,
+   "efeito_liquido_resultado_brl": 34053305.62,
+   "por_teste": {
+    "TD-01|R1": {
+     "linhas": 35,
+     "saldo_brl": 4893510.12,
+     "resultado_brl": 4893510.12
+    },
+    "TD-01|R2": {
+     "linhas": 20,
+     "saldo_brl": 7716140.92,
+     "resultado_brl": 7716140.92
+    },
+    "TD-01|R4": {
+     "linhas": 60,
+     "saldo_brl": 4600000.0,
+     "resultado_brl": 4600000.0
+    },
+    "TD-01|R5": {
+     "linhas": 150,
+     "saldo_brl": 0.0,
+     "resultado_brl": 3527521.14
+    },
+    "TD-01|R6": {
+     "linhas": 2,
+     "saldo_brl": 15500000.0,
+     "resultado_brl": 15500000.0
+    },
+    "TD-03|CORTE-2026": {
+     "linhas": 273,
+     "saldo_brl": -7201518.28,
+     "resultado_brl": -7201518.28
+    },
+    "TD-05|REM": {
+     "linhas": 3,
+     "saldo_brl": 5017651.72,
+     "resultado_brl": 5017651.72
+    }
+   },
+   "classificacao_contratos_TD04_brl": -1986044.78,
+   "classificacao_circulante_TD06": [
+    {
+     "contrato": "059/2001",
+     "componente": "SE_FIN",
+     "indice_2024": 0.2430312587001021,
+     "indice_2025": 0.449107010887604,
+     "circulante_2025_brl": 1397735540.17,
+     "circulante_esperado_brl": 756375250.05,
+     "diferenca_brl": 641360290.12,
+     "excecao": true
+    }
+   ],
+   "ajustes_provisao_dez_2026": [
+    {
+     "contrato": "005/2021",
+     "diferenca_brl": -751252.0,
+     "abs_menor_que_CT": true
+    },
+    {
+     "contrato": "006/2023",
+     "diferenca_brl": 686226.0,
+     "abs_menor_que_CT": true
+    },
+    {
+     "contrato": "008/2022",
+     "diferenca_brl": 64169.0,
+     "abs_menor_que_CT": true
+    },
+    {
+     "contrato": "011/2022",
+     "diferenca_brl": 234794.0,
+     "abs_menor_que_CT": true
+    },
+    {
+     "contrato": "012/2023",
+     "diferenca_brl": -1442686.0,
+     "abs_menor_que_CT": true
+    },
+    {
+     "contrato": "014/2023",
+     "diferenca_brl": -168989.0,
+     "abs_menor_que_CT": true
+    }
+   ]
+  },
+  "mus": {
+   "TM_base_brl": 90000000.0,
+   "TM_amostra_brl": 41543657.82,
+   "EE_brl": 9000000.0,
+   "FE": 1.6,
+   "FC0": 2.9957322735539895,
+   "itens_especificos_excluidos": 302,
+   "estrato_superior_itens": 1,
+   "estrato_superior_valor_brl": 10000000.0,
+   "estrato_superior_distorcao_brl": 0.0,
+   "VC_restante_brl": 6424285941.99,
+   "linhas_restante": 268962,
+   "n_calculado": 710,
+   "J_brl": 9048290.05,
+   "inicio_aleatorio_centavos": 519156127,
+   "n_selecionado": 710,
+   "distorcoes_na_amostra": 0,
+   "soma_distorcoes_amostra_brl": 0.0,
+   "precisao_basica_brl": 27106254.523262445,
+   "distorcao_projetada_brl": 0.0,
+   "acrescimo_brl": 0.0,
+   "limite_superior_brl": 27106254.523262445,
+   "conclusao": "limite superior ≤ TM_amostra"
+  },
+  "tamanho_referencia_B06": 257
+ },
+ "workbooks": [
+  {
+   "file": "00_Controle\\CONCILIACAO_INVENTARIO_B01.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "00_Controle\\FONTES_USADAS.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "00_Controle\\MAPA_NORMATIVO.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "00_Controle\\MATRIZ_COBERTURA.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "00_Controle\\MATRIZ_RISCOS_RESPOSTAS.xlsx",
+   "formulas": 13,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": [
+    "Matriz!B47:=SUMPRODUCT(--ISNUMBER(SEARCH(\"[RP]\",Q5:Q44)))",
+    "Matriz!B48:=SUMPRODUCT(--ISNUMBER(SEARCH(\"[PA]\",Q5:Q44)))",
+    "Matriz!B49:=SUMPRODUCT(--ISNUMBER(SEARCH(\"[SD]\",Q5:Q44)))"
+   ]
+  },
+  {
+   "file": "00_Controle\\REFERENCIAS_MODELOS.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "00_Controle\\REGISTRO_REVISAO.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "01_Dados_reais\\CONF_B01_ATIVO_TOTAL_PDF_CVM.xlsx",
+   "formulas": 7,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "01_Dados_reais\\DADOS_REAIS_DF_2025_2024.xlsx",
+   "formulas": 4244,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "02_Planejamento\\GRUPO_ISA_2025.xlsx",
+   "formulas": 66,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "02_Planejamento\\MAPA_DOCUMENTOS_POR_NOTA.xlsx",
+   "formulas": 0,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "02_Planejamento\\MATERIALIDADE_PT320.xlsx",
+   "formulas": 54,
+   "errors": [],
+   "missing_caches": [
+    "Bases!D4"
+   ],
+   "external_links": []
+  },
+  {
+   "file": "02_Planejamento\\MATRIZ_RISCOS_PT315.xlsx",
+   "formulas": 117,
+   "errors": [],
+   "missing_caches": [
+    "Matriz_315!F18",
+    "Matriz_315!F19",
+    "Matriz_315!G19",
+    "Matriz_315!F20",
+    "Matriz_315!G20",
+    "Matriz_315!F21",
+    "Matriz_315!G21"
+   ],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B08\\resultados\\MEMORIA_CALCULO_B08.xlsx",
+   "formulas": 868,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B09\\planilhas\\PT510_SALDOS_INICIAIS.xlsx",
+   "formulas": 117,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B09\\planilhas\\PT520_ANALITICOS.xlsx",
+   "formulas": 269,
+   "errors": [],
+   "missing_caches": [
+    "RevisaoFinal_variacoes!F32",
+    "RevisaoFinal_variacoes!F43",
+    "RevisaoFinal_variacoes!F49"
+   ],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B09\\planilhas\\PT540_ESTIMATIVA_ATIVO_CONTRATUAL.xlsx",
+   "formulas": 99,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B09\\planilhas\\PT550_PARTES_RELACIONADAS.xlsx",
+   "formulas": 141,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B10\\planilhas\\PT501_ITENS_ESPECIFICOS.xlsx",
+   "formulas": 94,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B10\\planilhas\\PT505_CONTROLE_CIRCULARIZACAO.xlsx",
+   "formulas": 24,
+   "errors": [],
+   "missing_caches": [
+    "Selecao!H6",
+    "Selecao!H8",
+    "Controle!O2",
+    "Controle!O3",
+    "Controle!O4",
+    "Controle!O5",
+    "Controle!O6",
+    "Controle!O7",
+    "Controle!O8",
+    "Controle!O9",
+    "Controle!O10",
+    "Diferencas!D2"
+   ],
+   "external_links": []
+  },
+  {
+   "file": "04_Testes\\B10\\planilhas\\PT560_EVENTOS_SUBSEQUENTES.xlsx",
+   "formulas": 5,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": [
+    "Eventos!G27:=COUNTIF(K2:K25,\"[PA]\")"
+   ]
+  },
+  {
+   "file": "04_Testes\\B10\\planilhas\\PT570_CONTINUIDADE.xlsx",
+   "formulas": 72,
+   "errors": [],
+   "missing_caches": [],
+   "external_links": []
+  }
+ ]
+}

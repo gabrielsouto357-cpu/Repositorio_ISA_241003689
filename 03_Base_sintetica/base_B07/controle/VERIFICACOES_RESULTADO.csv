@@ -1,0 +1,83 @@
+cenario;grupo;codigo;verificacao;ocorrencias;status;exemplo_ids
+REFERENCIA;G;G01;Esquema: 31 colunas na ordem do dicionário (2025 e 2026);0;OK;
+REFERENCIA;G;G02;Contagem 2025 ≥ 500.000 linhas de dados (lidas: 600.650);0;OK;
+REFERENCIA;G;G03;Chave primária id_lancamento única e não vazia (2025 + 2026);0;OK;
+REFERENCIA;G;G04;Formato do id_lancamento (L25/L26 + 8 dígitos);0;OK;
+REFERENCIA;G;G05;natureza_dado = SINTETICO_DIDATICO em todas as linhas;0;OK;
+REFERENCIA;G;G06;valor_movimento_brl numérico com exatamente 2 casas (sem notação científica);0;OK;
+REFERENCIA;G;G07;Campos obrigatórios gerais preenchidos (12 campos);0;OK;
+REFERENCIA;G;G08;data_lancamento válida e dentro de 2025 (arquivo 2025);0;OK;
+REFERENCIA;G;G09;data_lancamento do arquivo 2026 entre 01/01 e 28/02/2026;0;OK;
+REFERENCIA;G;G10;Domínios: componente, grupo, origem;0;OK;
+REFERENCIA;G;G11;Domínio tipo_movimento (13 tipos do dicionário);0;OK;
+REFERENCIA;G;G12;FK contrato ∈ 28 contratos reais (F0003 p.36);0;OK;
+REFERENCIA;G;G13;Tabela de saldos: circulante + não circulante = saldo (por linha);0;OK;
+REFERENCIA;G;G14;Tabela de saldos: chave (data_base, contrato, componente) única;0;OK;
+REFERENCIA;N;N01;Entidade e grupo coerentes com o contrato (F0003 p.36);0;OK;
+REFERENCIA;N;N02;Chave natural (id_documento, seq_linha_documento) única;0;OK;
+REFERENCIA;N;N03;Linhas idênticas (todas as colunas exceto id_lancamento);0;OK;
+REFERENCIA;N;N04;Duplicidade indevida em RECEITA_INFRA: mesmos contrato, fornecedor, módulo, tipo de custo, valor e custo, com mesmo documento ou lançados com até 10 dias de distância;0;OK;
+REFERENCIA;I;I02;Duplicidade aparente justificada: mesmo contrato, fornecedor e valor, mas documentos distintos e sem o padrão do N04 (coincidência de valores em itens pequenos de fornecedor frequente);74;INFORMATIVO (justificada);L2500032316, L2500032543, L2500037273
+REFERENCIA;N;N05;Lançamento sem documento-suporte (id_documento ou data_documento vazio);0;OK;
+REFERENCIA;N;N06;"Sinal coerente com o tipo (receitas > 0; recebimentos, estornos e perdas < 0)";0;OK;
+REFERENCIA;N;N07;RECEITA_INFRA com módulo ANEEL válido (FK ao catálogo real F0242);0;OK;
+REFERENCIA;N;N08;Módulo ANEEL pertence ao contrato do lançamento;0;OK;
+REFERENCIA;N;N09;RECEITA_INFRA com fornecedor cadastrado e tipo de custo do domínio de obra;0;OK;
+REFERENCIA;N;N10;Recálculo: valor = custo do documento × (1 + margem), tolerância de arredondamento ≤ R$ 0,02;0;OK;
+REFERENCIA;N;N11;Faturas e recebimentos com usuário pagador cadastrado;0;OK;
+REFERENCIA;N;N12;Corte: documento de 2024 lançado como movimento de 2025;0;OK;
+REFERENCIA;N;N13;Data do documento posterior ao lançamento (exceto remuneração, calculada no fim do mês e lançada no último dia útil);0;OK;
+REFERENCIA;N;N14;"Competência = mês do lançamento (recebimentos usam o mês da fatura; aberturas 2024-12)";0;OK;
+REFERENCIA;N;N15;Lançamento manual fora do horário 07h–20h ou sem hora;0;OK;
+REFERENCIA;N;N16;Segregação: lançamento manual aprovado pelo próprio usuário;0;OK;
+REFERENCIA;I;I01;Informativo: lançamentos manuais (exceto reclassificações) com valor redondo ≥ R$ 1 milhão (há marcos contratuais legítimos);12;INFORMATIVO;L2500319697, L2500321863, L2500322243
+REFERENCIA;N;N17;Reclassificações: cada documento soma zero;0;OK;
+REFERENCIA;N;N18;Taxa implícita da remuneração dentro da faixa divulgada 4,2%–9,9% a.a. (F0003 p.44);0;OK;
+REFERENCIA;N;N19;Recebimentos: linha 1 de cada documento quita O&M e todo documento tem linha 1;0;OK;
+REFERENCIA;N;N25;Recebimentos: todas as linhas de um documento no mesmo contrato;0;OK;
+REFERENCIA;N;N20;"Saldo 31/12/2025 (tabela) = abertura + Σ fluxos, por contrato e componente; abertura = saldo 31/12/2024";0;OK;
+REFERENCIA;N;N21;Parcelas circulante e não circulante não negativas;0;OK;
+REFERENCIA;N;N22;O&M (prazo < 30 dias) integralmente circulante;0;OK;
+REFERENCIA;N;N23;Σ base 2025 = saldo publicado 36,431,298 mil (diferença em R$ mil: 0,000);0;OK;
+REFERENCIA;N;N24;Σ circulante 31/12/2025 = 4,106,084 mil (diferença em R$ mil: 0,000);0;OK;
+TESTE;G;G01;Esquema: 31 colunas na ordem do dicionário (2025 e 2026);0;OK;
+TESTE;G;G02;Contagem 2025 ≥ 500.000 linhas de dados (lidas: 600.474);0;OK;
+TESTE;G;G03;Chave primária id_lancamento única e não vazia (2025 + 2026);0;OK;
+TESTE;G;G04;Formato do id_lancamento (L25/L26 + 8 dígitos);0;OK;
+TESTE;G;G05;natureza_dado = SINTETICO_DIDATICO em todas as linhas;0;OK;
+TESTE;G;G06;valor_movimento_brl numérico com exatamente 2 casas (sem notação científica);0;OK;
+TESTE;G;G07;Campos obrigatórios gerais preenchidos (12 campos);0;OK;
+TESTE;G;G08;data_lancamento válida e dentro de 2025 (arquivo 2025);0;OK;
+TESTE;G;G09;data_lancamento do arquivo 2026 entre 01/01 e 28/02/2026;0;OK;
+TESTE;G;G10;Domínios: componente, grupo, origem;0;OK;
+TESTE;G;G11;Domínio tipo_movimento (13 tipos do dicionário);0;OK;
+TESTE;G;G12;FK contrato ∈ 28 contratos reais (F0003 p.36);0;OK;
+TESTE;G;G13;Tabela de saldos: circulante + não circulante = saldo (por linha);0;OK;
+TESTE;G;G14;Tabela de saldos: chave (data_base, contrato, componente) única;0;OK;
+TESTE;N;N01;Entidade e grupo coerentes com o contrato (F0003 p.36);0;OK;
+TESTE;N;N02;Chave natural (id_documento, seq_linha_documento) única;70;EXCEÇÃO A INVESTIGAR;L2500034399, L2500044234, L2500070821
+TESTE;N;N03;Linhas idênticas (todas as colunas exceto id_lancamento);0;OK;
+TESTE;N;N04;Duplicidade indevida em RECEITA_INFRA: mesmos contrato, fornecedor, módulo, tipo de custo, valor e custo, com mesmo documento ou lançados com até 10 dias de distância;70;EXCEÇÃO A INVESTIGAR;L2500034399, L2500044234, L2500070821
+TESTE;I;I02;Duplicidade aparente justificada: mesmo contrato, fornecedor e valor, mas documentos distintos e sem o padrão do N04 (coincidência de valores em itens pequenos de fornecedor frequente);72;INFORMATIVO (justificada);L2500032322, L2500032549, L2500037279
+TESTE;N;N05;Lançamento sem documento-suporte (id_documento ou data_documento vazio);2;EXCEÇÃO A INVESTIGAR;L2500582500, L2500583897
+TESTE;N;N06;"Sinal coerente com o tipo (receitas > 0; recebimentos, estornos e perdas < 0)";0;OK;
+TESTE;N;N07;RECEITA_INFRA com módulo ANEEL válido (FK ao catálogo real F0242);60;EXCEÇÃO A INVESTIGAR;L2500005883, L2500005884, L2500024753
+TESTE;N;N08;Módulo ANEEL pertence ao contrato do lançamento;0;OK;
+TESTE;N;N09;RECEITA_INFRA com fornecedor cadastrado e tipo de custo do domínio de obra;60;EXCEÇÃO A INVESTIGAR;L2500005883, L2500005884, L2500024753
+TESTE;N;N10;Recálculo: valor = custo do documento × (1 + margem), tolerância de arredondamento ≤ R$ 0,02;20;EXCEÇÃO A INVESTIGAR;L2500002347, L2500027099, L2500033134
+TESTE;N;N11;Faturas e recebimentos com usuário pagador cadastrado;0;OK;
+TESTE;N;N12;Corte: documento de 2024 lançado como movimento de 2025;150;EXCEÇÃO A INVESTIGAR;L2500000178, L2500000616, L2500000632
+TESTE;N;N13;Data do documento posterior ao lançamento (exceto remuneração, calculada no fim do mês e lançada no último dia útil);0;OK;
+TESTE;N;N14;"Competência = mês do lançamento (recebimentos usam o mês da fatura; aberturas 2024-12)";0;OK;
+TESTE;N;N15;Lançamento manual fora do horário 07h–20h ou sem hora;2;EXCEÇÃO A INVESTIGAR;L2500582500, L2500583897
+TESTE;N;N16;Segregação: lançamento manual aprovado pelo próprio usuário;2;EXCEÇÃO A INVESTIGAR;L2500582500, L2500583897
+TESTE;I;I01;Informativo: lançamentos manuais (exceto reclassificações) com valor redondo ≥ R$ 1 milhão (há marcos contratuais legítimos);14;INFORMATIVO;L2500319749, L2500321915, L2500322295
+TESTE;N;N17;Reclassificações: cada documento soma zero;0;OK;
+TESTE;N;N18;Taxa implícita da remuneração dentro da faixa divulgada 4,2%–9,9% a.a. (F0003 p.44);0;OK;
+TESTE;N;N19;Recebimentos: linha 1 de cada documento quita O&M e todo documento tem linha 1;0;OK;
+TESTE;N;N25;Recebimentos: todas as linhas de um documento no mesmo contrato;8;EXCEÇÃO A INVESTIGAR;
+TESTE;N;N20;"Saldo 31/12/2025 (tabela) = abertura + Σ fluxos, por contrato e componente; abertura = saldo 31/12/2024";0;OK;
+TESTE;N;N21;Parcelas circulante e não circulante não negativas;0;OK;
+TESTE;N;N22;O&M (prazo < 30 dias) integralmente circulante;0;OK;
+TESTE;N;N23;Σ base 2025 = saldo publicado 36,431,298 mil (diferença em R$ mil: 31.725,784);1;EXCEÇÃO A INVESTIGAR;
+TESTE;N;N24;Σ circulante 31/12/2025 = 4,106,084 mil (diferença em R$ mil: 61.200,000);1;EXCEÇÃO A INVESTIGAR;

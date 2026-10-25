@@ -1,0 +1,544 @@
+teste;regra;arquivo;id_lancamento;contrato;valor_brl;classificacao;natureza;dist_saldo_brl;dist_resultado_brl
+TD-01;R6;2025;L2500582500;006/2023;12000000.0;factual;Sem documento-suporte;12000000.0;12000000.0
+TD-01;R6;2025;L2500583897;012/2023;3500000.0;factual;Sem documento-suporte;3500000.0;3500000.0
+TD-01;R4;2025;L2500005883;059/2001;46427.58;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";46427.58;46427.58
+TD-01;R4;2025;L2500005884;059/2001;28680.72;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";28680.72;28680.72
+TD-01;R4;2025;L2500024753;059/2001;21414.77;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";21414.77;21414.77
+TD-01;R4;2025;L2500025516;059/2001;32150.36;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";32150.36;32150.36
+TD-01;R4;2025;L2500026339;059/2001;54872.51;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";54872.51;54872.51
+TD-01;R4;2025;L2500029535;059/2001;61508.75;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";61508.75;61508.75
+TD-01;R4;2025;L2500072727;059/2001;64472.5;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";64472.5;64472.5
+TD-01;R4;2025;L2500076672;059/2001;37301.56;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";37301.56;37301.56
+TD-01;R4;2025;L2500113969;059/2001;79920.65;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";79920.65;79920.65
+TD-01;R4;2025;L2500118955;059/2001;40688.28;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";40688.28;40688.28
+TD-01;R4;2025;L2500121006;059/2001;116109.87;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";116109.87;116109.87
+TD-01;R4;2025;L2500139052;059/2001;55619.77;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";55619.77;55619.77
+TD-01;R4;2025;L2500141882;059/2001;50812.51;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";50812.51;50812.51
+TD-01;R4;2025;L2500143971;059/2001;43041.87;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";43041.87;43041.87
+TD-01;R4;2025;L2500167453;059/2001;41842.8;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";41842.8;41842.8
+TD-01;R4;2025;L2500169506;059/2001;65674.72;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";65674.72;65674.72
+TD-01;R4;2025;L2500170560;059/2001;24672.27;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";24672.27;24672.27
+TD-01;R4;2025;L2500186273;059/2001;74664.29;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";74664.29;74664.29
+TD-01;R4;2025;L2500186274;059/2001;227691.76;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";227691.76;227691.76
+TD-01;R4;2025;L2500189343;059/2001;27081.23;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";27081.23;27081.23
+TD-01;R4;2025;L2500190369;059/2001;154367.85;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";154367.85;154367.85
+TD-01;R4;2025;L2500192410;059/2001;107104.47;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";107104.47;107104.47
+TD-01;R4;2025;L2500215825;059/2001;146381.67;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";146381.67;146381.67
+TD-01;R4;2025;L2500218016;059/2001;243126.01;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";243126.01;243126.01
+TD-01;R4;2025;L2500238178;059/2001;38628.31;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";38628.31;38628.31
+TD-01;R4;2025;L2500260720;059/2001;34532.04;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";34532.04;34532.04
+TD-01;R4;2025;L2500261804;059/2001;124575.75;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";124575.75;124575.75
+TD-01;R4;2025;L2500268216;059/2001;34481.39;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";34481.39;34481.39
+TD-01;R4;2025;L2500269267;059/2001;48174.33;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";48174.33;48174.33
+TD-01;R4;2025;L2500312687;059/2001;26996.03;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";26996.03;26996.03
+TD-01;R4;2025;L2500312688;059/2001;63819.44;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";63819.44;63819.44
+TD-01;R4;2025;L2500315855;059/2001;43169.43;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";43169.43;43169.43
+TD-01;R4;2025;L2500318021;059/2001;43632.9;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";43632.9;43632.9
+TD-01;R4;2025;L2500318022;059/2001;79544.94;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";79544.94;79544.94
+TD-01;R4;2025;L2500336849;059/2001;31187.03;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";31187.03;31187.03
+TD-01;R4;2025;L2500339157;059/2001;92661.3;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";92661.3;92661.3
+TD-01;R4;2025;L2500339158;059/2001;62346.85;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";62346.85;62346.85
+TD-01;R4;2025;L2500360475;059/2001;36447.03;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";36447.03;36447.03
+TD-01;R4;2025;L2500361248;059/2001;158094.39;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";158094.39;158094.39
+TD-01;R4;2025;L2500361297;059/2001;66088.16;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";66088.16;66088.16
+TD-01;R4;2025;L2500361298;059/2001;47312.58;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";47312.58;47312.58
+TD-01;R4;2025;L2500363621;059/2001;112255.89;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";112255.89;112255.89
+TD-01;R4;2025;L2500365895;059/2001;25324.73;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";25324.73;25324.73
+TD-01;R4;2025;L2500369573;059/2001;18986.76;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";18986.76;18986.76
+TD-01;R4;2025;L2500393556;059/2001;383944.31;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";383944.31;383944.31
+TD-01;R4;2025;L2500393557;059/2001;35244.64;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";35244.64;35244.64
+TD-01;R4;2025;L2500416940;059/2001;44290.31;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";44290.31;44290.31
+TD-01;R4;2025;L2500420496;059/2001;69928.27;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";69928.27;69928.27
+TD-01;R4;2025;L2500463330;059/2001;123224.91;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";123224.91;123224.91
+TD-01;R4;2025;L2500466272;059/2001;62573.14;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";62573.14;62573.14
+TD-01;R4;2025;L2500466273;059/2001;55200.04;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";55200.04;55200.04
+TD-01;R4;2025;L2500469688;059/2001;32536.68;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";32536.68;32536.68
+TD-01;R4;2025;L2500492819;059/2001;78726.38;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";78726.38;78726.38
+TD-01;R4;2025;L2500495375;059/2001;70589.36;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";70589.36;70589.36
+TD-01;R4;2025;L2500516763;059/2001;120863.92;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";120863.92;120863.92
+TD-01;R4;2025;L2500519330;059/2001;251955.26;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";251955.26;251955.26
+TD-01;R4;2025;L2500526018;059/2001;61984.45;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";61984.45;61984.45
+TD-01;R4;2025;L2500526019;059/2001;24047.77;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";24047.77;24047.77
+TD-01;R4;2025;L2500551416;059/2001;35784.22;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";35784.22;35784.22
+TD-01;R4;2025;L2500572150;059/2001;115218.29;factual;"Medição sem vínculo de obra válido (módulo """", tipo de custo ""Manutenção corretiva"")";115218.29;115218.29
+TD-01;R1;2025;L2500294104;006/2023;127054.34;factual;Documento MED-0062023-0002374 lançado novamente;127054.34;127054.34
+TD-01;R1;2025;L2500044234;006/2023;118467.13;factual;Documento MED-0062023-0005664 lançado novamente;118467.13;118467.13
+TD-01;R1;2025;L2500100276;006/2023;98638.69;factual;Documento MED-0062023-0013732 lançado novamente;98638.69;98638.69
+TD-01;R1;2025;L2500438298;006/2023;100265.75;factual;Documento MED-0062023-0022813 lançado novamente;100265.75;100265.75
+TD-01;R1;2025;L2500100277;006/2023;118781.23;factual;Documento MED-0062023-0028994 lançado novamente;118781.23;118781.23
+TD-01;R1;2025;L2500478838;006/2023;147238.74;factual;Documento MED-0062023-0029293 lançado novamente;147238.74;147238.74
+TD-01;R1;2025;L2500438439;006/2023;92532.47;factual;Documento MED-0062023-0034032 lançado novamente;92532.47;92532.47
+TD-01;R1;2025;L2500551405;006/2023;134958.88;factual;Documento MED-0062023-0035006 lançado novamente;134958.88;134958.88
+TD-01;R1;2025;L2500571232;006/2023;110748.52;factual;Documento MED-0062023-0036863 lançado novamente;110748.52;110748.52
+TD-01;R1;2025;L2500367219;006/2023;149518.65;factual;Documento MED-0062023-0050358 lançado novamente;149518.65;149518.65
+TD-01;R1;2025;L2500523287;012/2023;85358.64;factual;Documento MED-0122023-0006722 lançado novamente;85358.64;85358.64
+TD-01;R1;2025;L2500190937;012/2023;146530.5;factual;Documento MED-0122023-0010975 lançado novamente;146530.5;146530.5
+TD-01;R1;2025;L2500285363;012/2023;137378.49;factual;Documento MED-0122023-0022190 lançado novamente;137378.49;137378.49
+TD-01;R1;2025;L2500190354;012/2023;228355.11;factual;Documento MED-0122023-0029911 lançado novamente;228355.11;228355.11
+TD-01;R1;2025;L2500297759;012/2023;113676.86;factual;Documento MED-0122023-0038241 lançado novamente;113676.86;113676.86
+TD-01;R1;2025;L2500289854;012/2023;135571.64;factual;Documento MED-0122023-0039084 lançado novamente;135571.64;135571.64
+TD-01;R1;2025;L2500388036;059/2001;80371.46;factual;Documento MED-0592001-0000724 lançado novamente;80371.46;80371.46
+TD-01;R1;2025;L2500393592;059/2001;120616.35;factual;Documento MED-0592001-0007764 lançado novamente;120616.35;120616.35
+TD-01;R1;2025;L2500113968;059/2001;80480.87;factual;Documento MED-0592001-0013464 lançado novamente;80480.87;80480.87
+TD-01;R1;2025;L2500115555;059/2001;115503.67;factual;Documento MED-0592001-0014706 lançado novamente;115503.67;115503.67
+TD-01;R1;2025;L2500521702;059/2001;205067.34;factual;Documento MED-0592001-0015166 lançado novamente;205067.34;205067.34
+TD-01;R1;2025;L2500234282;059/2001;93618.96;factual;Documento MED-0592001-0018183 lançado novamente;93618.96;93618.96
+TD-01;R1;2025;L2500528418;059/2001;243034.42;factual;Documento MED-0592001-0032774 lançado novamente;243034.42;243034.42
+TD-01;R1;2025;L2500516762;059/2001;168430.93;factual;Documento MED-0592001-0033737 lançado novamente;168430.93;168430.93
+TD-01;R1;2025;L2500544014;059/2001;84722.05;factual;Documento MED-0592001-0034853 lançado novamente;84722.05;84722.05
+TD-01;R1;2025;L2500577762;059/2001;132390.64;factual;Documento MED-0592001-0035676 lançado novamente;132390.64;132390.64
+TD-01;R1;2025;L2500520465;059/2001;214619.84;factual;Documento MED-0592001-0042356 lançado novamente;214619.84;214619.84
+TD-01;R1;2025;L2500137823;059/2001;154606.39;factual;Documento MED-0592001-0044025 lançado novamente;154606.39;154606.39
+TD-01;R1;2025;L2500423783;059/2001;93018.11;factual;Documento MED-0592001-0048781 lançado novamente;93018.11;93018.11
+TD-01;R1;2025;L2500270358;059/2001;153873.33;factual;Documento MED-0592001-0049379 lançado novamente;153873.33;153873.33
+TD-01;R1;2025;L2500118854;059/2001;225410.6;factual;Documento MED-0592001-0054652 lançado novamente;225410.6;225410.6
+TD-01;R1;2025;L2500475177;059/2001;344969.42;factual;Documento MED-0592001-0061036 lançado novamente;344969.42;344969.42
+TD-01;R1;2025;L2500270359;059/2001;130894.17;factual;Documento MED-0592001-0065530 lançado novamente;130894.17;130894.17
+TD-01;R1;2025;L2500074732;059/2001;80759.09;factual;Documento MED-0592001-0074383 lançado novamente;80759.09;80759.09
+TD-01;R1;2025;L2500143954;059/2001;126046.84;factual;Documento MED-0592001-0078320 lançado novamente;126046.84;126046.84
+TD-01;R5;2025;L2500000178;059/2001;21500.43;factual;Documento de 2024-12-03 (exercício anterior) registrado como receita de 2025;0.0;21500.43
+TD-01;R5;2025;L2500000616;008/2022;1369.72;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;1369.72
+TD-01;R5;2025;L2500000632;008/2022;35422.03;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;35422.03
+TD-01;R5;2025;L2500000672;008/2022;32081.69;factual;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;32081.69
+TD-01;R5;2025;L2500000794;059/2001;11708.02;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;11708.02
+TD-01;R5;2025;L2500001103;008/2022;845.97;factual;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;845.97
+TD-01;R5;2025;L2500001280;059/2001;7837.43;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;7837.43
+TD-01;R5;2025;L2500001304;059/2001;39046.03;factual;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;39046.03
+TD-01;R5;2025;L2500001305;059/2001;1266.2;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;1266.2
+TD-01;R5;2025;L2500001357;059/2001;798.13;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;798.13
+TD-01;R5;2025;L2500001901;059/2001;26163.51;factual;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;26163.51
+TD-01;R5;2025;L2500001960;059/2001;3333.38;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;3333.38
+TD-01;R5;2025;L2500002331;008/2022;14318.11;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;14318.11
+TD-01;R5;2025;L2500002605;059/2001;56461.22;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;56461.22
+TD-01;R5;2025;L2500002636;059/2001;8989.42;factual;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;8989.42
+TD-01;R5;2025;L2500002643;059/2001;12045.62;factual;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;12045.62
+TD-01;R5;2025;L2500002675;059/2001;3293.58;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;3293.58
+TD-01;R5;2025;L2500002739;059/2001;46074.72;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;46074.72
+TD-01;R5;2025;L2500002749;059/2001;310213.58;factual;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;310213.58
+TD-01;R5;2025;L2500002947;008/2022;10240.98;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;10240.98
+TD-01;R5;2025;L2500003387;059/2001;8167.69;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;8167.69
+TD-01;R5;2025;L2500003388;059/2001;5226.08;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;5226.08
+TD-01;R5;2025;L2500003478;059/2001;21472.65;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;21472.65
+TD-01;R5;2025;L2500003726;008/2022;48455.91;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;48455.91
+TD-01;R5;2025;L2500003750;008/2022;9568.09;factual;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;9568.09
+TD-01;R5;2025;L2500003793;008/2022;729.86;factual;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;729.86
+TD-01;R5;2025;L2500003897;008/2022;31499.46;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;31499.46
+TD-01;R5;2025;L2500003898;008/2022;45544.68;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;45544.68
+TD-01;R5;2025;L2500003911;008/2022;5419.93;factual;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;5419.93
+TD-01;R5;2025;L2500004550;008/2022;86214.51;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;86214.51
+TD-01;R5;2025;L2500004894;059/2001;20381.11;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;20381.11
+TD-01;R5;2025;L2500004964;059/2001;11765.15;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;11765.15
+TD-01;R5;2025;L2500004972;059/2001;4817.63;factual;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;4817.63
+TD-01;R5;2025;L2500005006;059/2001;13090.03;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;13090.03
+TD-01;R5;2025;L2500005018;059/2001;1760.97;factual;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;1760.97
+TD-01;R5;2025;L2500005054;059/2001;24091.97;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;24091.97
+TD-01;R5;2025;L2500005320;008/2022;2075.06;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;2075.06
+TD-01;R5;2025;L2500005422;008/2022;9706.21;factual;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;9706.21
+TD-01;R5;2025;L2500005682;059/2001;5797.98;factual;Documento de 2024-12-03 (exercício anterior) registrado como receita de 2025;0.0;5797.98
+TD-01;R5;2025;L2500005703;059/2001;1579.32;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;1579.32
+TD-01;R5;2025;L2500005728;059/2001;1712.35;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;1712.35
+TD-01;R5;2025;L2500005729;059/2001;104.21;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;104.21
+TD-01;R5;2025;L2500005756;059/2001;8905.2;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;8905.2
+TD-01;R5;2025;L2500009881;008/2022;15742.88;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;15742.88
+TD-01;R5;2025;L2500009885;008/2022;38668.75;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;38668.75
+TD-01;R5;2025;L2500009913;008/2022;3596.11;factual;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;3596.11
+TD-01;R5;2025;L2500023040;059/2001;4927.0;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;4927.0
+TD-01;R5;2025;L2500023132;059/2001;38389.39;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;38389.39
+TD-01;R5;2025;L2500023140;059/2001;82689.53;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;82689.53
+TD-01;R5;2025;L2500023185;059/2001;1855.1;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;1855.1
+TD-01;R5;2025;L2500024216;008/2022;23597.88;factual;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;23597.88
+TD-01;R5;2025;L2500024310;008/2022;87.69;factual;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;87.69
+TD-01;R5;2025;L2500024682;059/2001;61151.93;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;61151.93
+TD-01;R5;2025;L2500024988;008/2022;43187.77;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;43187.77
+TD-01;R5;2025;L2500025040;008/2022;73499.31;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;73499.31
+TD-01;R5;2025;L2500025063;008/2022;20198.1;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;20198.1
+TD-01;R5;2025;L2500025303;059/2001;32911.57;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;32911.57
+TD-01;R5;2025;L2500025315;059/2001;10269.13;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;10269.13
+TD-01;R5;2025;L2500025430;059/2001;7587.39;factual;Documento de 2024-12-02 (exercício anterior) registrado como receita de 2025;0.0;7587.39
+TD-01;R5;2025;L2500025494;059/2001;71631.66;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;71631.66
+TD-01;R5;2025;L2500025878;008/2022;48594.43;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;48594.43
+TD-01;R5;2025;L2500025901;008/2022;14379.52;factual;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;14379.52
+TD-01;R5;2025;L2500025912;008/2022;2660.67;factual;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;2660.67
+TD-01;R5;2025;L2500025940;008/2022;7819.75;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;7819.75
+TD-01;R5;2025;L2500026186;059/2001;3363.53;factual;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;3363.53
+TD-01;R5;2025;L2500026189;059/2001;121971.69;factual;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;121971.69
+TD-01;R5;2025;L2500026308;059/2001;8785.95;factual;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;8785.95
+TD-01;R5;2025;L2500026317;059/2001;9826.56;factual;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;9826.56
+TD-01;R5;2025;L2500026627;008/2022;2260.48;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;2260.48
+TD-01;R5;2025;L2500026940;059/2001;648.64;factual;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;648.64
+TD-01;R5;2025;L2500026944;059/2001;921.18;factual;Documento de 2024-12-08 (exercício anterior) registrado como receita de 2025;0.0;921.18
+TD-01;R5;2025;L2500026965;059/2001;14709.38;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;14709.38
+TD-01;R5;2025;L2500026985;059/2001;3578.04;factual;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;3578.04
+TD-01;R5;2025;L2500027053;059/2001;112993.48;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;112993.48
+TD-01;R5;2025;L2500027129;059/2001;4310.05;factual;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;4310.05
+TD-01;R5;2025;L2500027139;059/2001;4453.53;factual;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;4453.53
+TD-01;R5;2025;L2500027336;008/2022;30200.18;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;30200.18
+TD-01;R5;2025;L2500027357;008/2022;19347.93;factual;Documento de 2024-12-02 (exercício anterior) registrado como receita de 2025;0.0;19347.93
+TD-01;R5;2025;L2500027398;008/2022;1949.07;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;1949.07
+TD-01;R5;2025;L2500027452;008/2022;18335.65;factual;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;18335.65
+TD-01;R5;2025;L2500027485;008/2022;24918.26;factual;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;24918.26
+TD-01;R5;2025;L2500027747;059/2001;44136.88;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;44136.88
+TD-01;R5;2025;L2500027794;059/2001;4862.21;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;4862.21
+TD-01;R5;2025;L2500027872;059/2001;3506.34;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;3506.34
+TD-01;R5;2025;L2500027915;059/2001;94995.14;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;94995.14
+TD-01;R5;2025;L2500028225;008/2022;18919.0;factual;Documento de 2024-12-11 (exercício anterior) registrado como receita de 2025;0.0;18919.0
+TD-01;R5;2025;L2500028229;008/2022;10865.87;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;10865.87
+TD-01;R5;2025;L2500028272;008/2022;2925.32;factual;Documento de 2024-12-03 (exercício anterior) registrado como receita de 2025;0.0;2925.32
+TD-01;R5;2025;L2500028285;008/2022;99103.65;factual;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;99103.65
+TD-01;R5;2025;L2500028547;059/2001;15321.45;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;15321.45
+TD-01;R5;2025;L2500028584;059/2001;14466.8;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;14466.8
+TD-01;R5;2025;L2500028681;059/2001;26895.31;factual;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;26895.31
+TD-01;R5;2025;L2500028967;008/2022;20914.86;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;20914.86
+TD-01;R5;2025;L2500028974;008/2022;10122.3;factual;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;10122.3
+TD-01;R5;2025;L2500028985;008/2022;8831.66;factual;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;8831.66
+TD-01;R5;2025;L2500028996;008/2022;46116.37;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;46116.37
+TD-01;R5;2025;L2500029311;059/2001;5723.02;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;5723.02
+TD-01;R5;2025;L2500029394;059/2001;12610.52;factual;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;12610.52
+TD-01;R5;2025;L2500029407;059/2001;1411.15;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;1411.15
+TD-01;R5;2025;L2500029480;059/2001;38695.68;factual;Documento de 2024-12-13 (exercício anterior) registrado como receita de 2025;0.0;38695.68
+TD-01;R5;2025;L2500029821;008/2022;20905.96;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;20905.96
+TD-01;R5;2025;L2500029900;008/2022;3277.86;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;3277.86
+TD-01;R5;2025;L2500030171;059/2001;3491.68;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;3491.68
+TD-01;R5;2025;L2500030225;059/2001;73109.32;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;73109.32
+TD-01;R5;2025;L2500030535;008/2022;5641.97;factual;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;5641.97
+TD-01;R5;2025;L2500030536;008/2022;145577.44;factual;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;145577.44
+TD-01;R5;2025;L2500030554;008/2022;28176.49;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;28176.49
+TD-01;R5;2025;L2500030569;008/2022;3042.07;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;3042.07
+TD-01;R5;2025;L2500030688;008/2022;13630.1;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;13630.1
+TD-01;R5;2025;L2500030712;008/2022;15192.8;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;15192.8
+TD-01;R5;2025;L2500030968;059/2001;1020.01;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;1020.01
+TD-01;R5;2025;L2500031035;059/2001;118268.16;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;118268.16
+TD-01;R5;2025;L2500031338;008/2022;2571.96;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;2571.96
+TD-01;R5;2025;L2500031385;008/2022;3334.52;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;3334.52
+TD-01;R5;2025;L2500031488;008/2022;2559.32;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;2559.32
+TD-01;R5;2025;L2500031794;059/2001;123795.05;factual;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;123795.05
+TD-01;R5;2025;L2500031855;059/2001;3384.99;factual;Documento de 2024-12-02 (exercício anterior) registrado como receita de 2025;0.0;3384.99
+TD-01;R5;2025;L2500032156;008/2022;247.44;factual;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;247.44
+TD-01;R5;2025;L2500032515;059/2001;7142.18;factual;Documento de 2024-12-04 (exercício anterior) registrado como receita de 2025;0.0;7142.18
+TD-01;R5;2025;L2500032546;059/2001;12807.52;factual;Documento de 2024-12-07 (exercício anterior) registrado como receita de 2025;0.0;12807.52
+TD-01;R5;2025;L2500032547;059/2001;9842.13;factual;Documento de 2024-12-12 (exercício anterior) registrado como receita de 2025;0.0;9842.13
+TD-01;R5;2025;L2500032580;059/2001;17786.94;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;17786.94
+TD-01;R5;2025;L2500032602;059/2001;5891.37;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;5891.37
+TD-01;R5;2025;L2500032626;059/2001;5626.31;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;5626.31
+TD-01;R5;2025;L2500032643;059/2001;1500.19;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;1500.19
+TD-01;R5;2025;L2500035327;008/2022;23050.62;factual;Documento de 2024-12-14 (exercício anterior) registrado como receita de 2025;0.0;23050.62
+TD-01;R5;2025;L2500035372;008/2022;4339.15;factual;Documento de 2024-12-09 (exercício anterior) registrado como receita de 2025;0.0;4339.15
+TD-01;R5;2025;L2500035465;008/2022;3409.24;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;3409.24
+TD-01;R5;2025;L2500035491;008/2022;7935.83;factual;Documento de 2024-12-23 (exercício anterior) registrado como receita de 2025;0.0;7935.83
+TD-01;R5;2025;L2500035637;008/2022;4486.41;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;4486.41
+TD-01;R5;2025;L2500035639;008/2022;10456.18;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;10456.18
+TD-01;R5;2025;L2500035645;008/2022;2366.75;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;2366.75
+TD-01;R5;2025;L2500035709;008/2022;3731.16;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;3731.16
+TD-01;R5;2025;L2500035744;008/2022;9976.08;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;9976.08
+TD-01;R5;2025;L2500035776;008/2022;20267.83;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;20267.83
+TD-01;R5;2025;L2500035893;008/2022;9338.34;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;9338.34
+TD-01;R5;2025;L2500035900;008/2022;39961.77;factual;Documento de 2024-12-17 (exercício anterior) registrado como receita de 2025;0.0;39961.77
+TD-01;R5;2025;L2500042396;059/2001;40603.13;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;40603.13
+TD-01;R5;2025;L2500042547;059/2001;5511.07;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;5511.07
+TD-01;R5;2025;L2500042625;059/2001;14069.36;factual;Documento de 2024-12-06 (exercício anterior) registrado como receita de 2025;0.0;14069.36
+TD-01;R5;2025;L2500042638;059/2001;17736.68;factual;Documento de 2024-12-05 (exercício anterior) registrado como receita de 2025;0.0;17736.68
+TD-01;R5;2025;L2500042677;059/2001;10602.57;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;10602.57
+TD-01;R5;2025;L2500042684;059/2001;8258.92;factual;Documento de 2024-12-15 (exercício anterior) registrado como receita de 2025;0.0;8258.92
+TD-01;R5;2025;L2500042760;059/2001;75813.97;factual;Documento de 2024-12-16 (exercício anterior) registrado como receita de 2025;0.0;75813.97
+TD-01;R5;2025;L2500042772;059/2001;30381.38;factual;Documento de 2024-12-18 (exercício anterior) registrado como receita de 2025;0.0;30381.38
+TD-01;R5;2025;L2500042787;059/2001;67960.98;factual;Documento de 2024-12-21 (exercício anterior) registrado como receita de 2025;0.0;67960.98
+TD-01;R5;2025;L2500042803;059/2001;1815.01;factual;Documento de 2024-12-20 (exercício anterior) registrado como receita de 2025;0.0;1815.01
+TD-01;R5;2025;L2500042816;059/2001;4500.69;factual;Documento de 2024-12-22 (exercício anterior) registrado como receita de 2025;0.0;4500.69
+TD-01;R5;2025;L2500042952;059/2001;3938.17;factual;Documento de 2024-12-10 (exercício anterior) registrado como receita de 2025;0.0;3938.17
+TD-01;R5;2025;L2500043061;059/2001;1647.56;factual;Documento de 2024-12-19 (exercício anterior) registrado como receita de 2025;0.0;1647.56
+TD-01;R2;2025;L2500002347;008/2022;8499489.9;factual;Valor difere do custo × (1 + margem) em R$ 7,649,540.91;7649540.91;7649540.91
+TD-01;R2;2025;L2500027099;059/2001;225316.48;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500033134;001/2020;27503.07;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500045291;008/2022;57248.81;factual;Valor difere do custo × (1 + margem) em R$ 4,500.00;4500.0;4500.0
+TD-01;R2;2025;L2500189016;014/2023;99169.23;factual;Valor difere do custo × (1 + margem) em R$ 7,200.00;7200.0;7200.0
+TD-01;R2;2025;L2500214851;005/2021;97249.95;factual;Valor difere do custo × (1 + margem) em R$ 4,500.00;4500.0;4500.0
+TD-01;R2;2025;L2500227155;012/2023;57252.62;factual;Valor difere do custo × (1 + margem) em R$ 4,500.00;4500.0;4500.0
+TD-01;R2;2025;L2500235694;008/2022;49230.82;factual;Valor difere do custo × (1 + margem) em R$ 6,300.00;6300.0;6300.0
+TD-01;R2;2025;L2500262046;006/2023;59318.32;factual;Valor difere do custo × (1 + margem) em R$ 5,400.00;5400.0;5400.0
+TD-01;R2;2025;L2500269471;006/2023;33027.0;factual;Valor difere do custo × (1 + margem) em R$ 2,700.00;2700.0;2700.0
+TD-01;R2;2025;L2500286964;006/2023;131068.83;factual;Valor difere do custo × (1 + margem) em R$ 900.00;900.0;900.0
+TD-01;R2;2025;L2500312549;059/2001;33185.49;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500438248;059/2001;34235.8;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500463318;059/2001;67132.33;factual;Valor difere do custo × (1 + margem) em R$ 5,400.00;5400.0;5400.0
+TD-01;R2;2025;L2500476740;001/2020;33238.7;factual;Valor difere do custo × (1 + margem) em R$ 900.00;900.0;900.0
+TD-01;R2;2025;L2500497272;008/2022;53194.45;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500524954;006/2023;64248.78;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500540971;059/2001;39318.32;factual;Valor difere do custo × (1 + margem) em R$ 5,400.00;5400.0;5400.0
+TD-01;R2;2025;L2500546763;059/2001;24210.45;factual;Valor difere do custo × (1 + margem) em R$ 1,800.00;1800.0;1800.0
+TD-01;R2;2025;L2500598710;059/2001;28123.03;factual;Valor difere do custo × (1 + margem) em R$ 6,300.01;6300.01;6300.01
+TD-03;CORTE-2026;2026;L2600000206;006/2023;45736.1;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-05;-45736.1;-45736.1
+TD-03;CORTE-2026;2026;L2600000207;006/2023;70298.52;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-05;-70298.52;-70298.52
+TD-03;CORTE-2026;2026;L2600000208;006/2023;42494.24;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-05;-42494.24;-42494.24
+TD-03;CORTE-2026;2026;L2600000209;006/2023;45701.28;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-05;-45701.28;-45701.28
+TD-03;CORTE-2026;2026;L2600000210;006/2023;23370.83;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-05;-23370.83;-23370.83
+TD-03;CORTE-2026;2026;L2600000211;006/2023;14329.46;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-05;-14329.46;-14329.46
+TD-03;CORTE-2026;2026;L2600000312;012/2023;14143.36;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-05;-14143.36;-14143.36
+TD-03;CORTE-2026;2026;L2600000313;012/2023;2677.1;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-05;-2677.1;-2677.1
+TD-03;CORTE-2026;2026;L2600000314;012/2023;90168.71;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-05;-90168.71;-90168.71
+TD-03;CORTE-2026;2026;L2600000315;012/2023;66220.91;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-05;-66220.91;-66220.91
+TD-03;CORTE-2026;2026;L2600000349;059/2001;2901.74;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-05;-2901.74;-2901.74
+TD-03;CORTE-2026;2026;L2600000350;059/2001;3272.95;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-05;-3272.95;-3272.95
+TD-03;CORTE-2026;2026;L2600000351;059/2001;2538.51;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-05;-2538.51;-2538.51
+TD-03;CORTE-2026;2026;L2600000352;059/2001;204.93;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-05;-204.93;-204.93
+TD-03;CORTE-2026;2026;L2600000353;059/2001;18590.23;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-05;-18590.23;-18590.23
+TD-03;CORTE-2026;2026;L2600000354;059/2001;1668.78;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-05;-1668.78;-1668.78
+TD-03;CORTE-2026;2026;L2600000423;006/2023;151679.54;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-06;-151679.54;-151679.54
+TD-03;CORTE-2026;2026;L2600000424;006/2023;15550.24;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-06;-15550.24;-15550.24
+TD-03;CORTE-2026;2026;L2600000425;006/2023;4094.1;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-06;-4094.1;-4094.1
+TD-03;CORTE-2026;2026;L2600000426;006/2023;48078.9;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-06;-48078.9;-48078.9
+TD-03;CORTE-2026;2026;L2600000427;006/2023;31253.41;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-06;-31253.41;-31253.41
+TD-03;CORTE-2026;2026;L2600000428;006/2023;31006.14;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-06;-31006.14;-31006.14
+TD-03;CORTE-2026;2026;L2600000429;006/2023;18391.4;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-06;-18391.4;-18391.4
+TD-03;CORTE-2026;2026;L2600000557;012/2023;14763.78;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-06;-14763.78;-14763.78
+TD-03;CORTE-2026;2026;L2600000558;012/2023;103536.05;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-06;-103536.05;-103536.05
+TD-03;CORTE-2026;2026;L2600000594;059/2001;11972.3;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-06;-11972.3;-11972.3
+TD-03;CORTE-2026;2026;L2600000595;059/2001;198616.64;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-06;-198616.64;-198616.64
+TD-03;CORTE-2026;2026;L2600000596;059/2001;1342.68;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-06;-1342.68;-1342.68
+TD-03;CORTE-2026;2026;L2600000597;059/2001;9387.79;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-06;-9387.79;-9387.79
+TD-03;CORTE-2026;2026;L2600000598;059/2001;6835.71;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-06;-6835.71;-6835.71
+TD-03;CORTE-2026;2026;L2600000599;059/2001;1798.91;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-06;-1798.91;-1798.91
+TD-03;CORTE-2026;2026;L2600000600;059/2001;7810.81;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-06;-7810.81;-7810.81
+TD-03;CORTE-2026;2026;L2600000601;059/2001;18527.79;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-06;-18527.79;-18527.79
+TD-03;CORTE-2026;2026;L2600000602;059/2001;519.7;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-06;-519.7;-519.7
+TD-03;CORTE-2026;2026;L2600000603;059/2001;36124.96;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-06;-36124.96;-36124.96
+TD-03;CORTE-2026;2026;L2600000860;012/2023;17966.96;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-07;-17966.96;-17966.96
+TD-03;CORTE-2026;2026;L2600000908;059/2001;471.46;factual;Serviço com documento de 2025-12-10 lançado em 2026-01-07;-471.46;-471.46
+TD-03;CORTE-2026;2026;L2600000909;059/2001;9173.5;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-07;-9173.5;-9173.5
+TD-03;CORTE-2026;2026;L2600000910;059/2001;2885.63;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-07;-2885.63;-2885.63
+TD-03;CORTE-2026;2026;L2600000911;059/2001;1720.43;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-07;-1720.43;-1720.43
+TD-03;CORTE-2026;2026;L2600001019;006/2023;6002.36;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-08;-6002.36;-6002.36
+TD-03;CORTE-2026;2026;L2600001020;006/2023;4715.71;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-08;-4715.71;-4715.71
+TD-03;CORTE-2026;2026;L2600001021;006/2023;16339.24;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-08;-16339.24;-16339.24
+TD-03;CORTE-2026;2026;L2600001022;006/2023;12987.46;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-08;-12987.46;-12987.46
+TD-03;CORTE-2026;2026;L2600001023;006/2023;29201.13;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-08;-29201.13;-29201.13
+TD-03;CORTE-2026;2026;L2600001024;006/2023;1123.25;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-08;-1123.25;-1123.25
+TD-03;CORTE-2026;2026;L2600001025;006/2023;9355.6;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-08;-9355.6;-9355.6
+TD-03;CORTE-2026;2026;L2600001026;006/2023;4491.66;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-08;-4491.66;-4491.66
+TD-03;CORTE-2026;2026;L2600001213;012/2023;11124.42;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-08;-11124.42;-11124.42
+TD-03;CORTE-2026;2026;L2600001214;012/2023;106825.86;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-08;-106825.86;-106825.86
+TD-03;CORTE-2026;2026;L2600001215;012/2023;25923.44;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-08;-25923.44;-25923.44
+TD-03;CORTE-2026;2026;L2600001282;059/2001;26772.52;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-08;-26772.52;-26772.52
+TD-03;CORTE-2026;2026;L2600001283;059/2001;59313.65;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-08;-59313.65;-59313.65
+TD-03;CORTE-2026;2026;L2600001284;059/2001;257337.52;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-08;-257337.52;-257337.52
+TD-03;CORTE-2026;2026;L2600001285;059/2001;97378.66;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-08;-97378.66;-97378.66
+TD-03;CORTE-2026;2026;L2600001286;059/2001;2591.09;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-08;-2591.09;-2591.09
+TD-03;CORTE-2026;2026;L2600001287;059/2001;10050.48;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-08;-10050.48;-10050.48
+TD-03;CORTE-2026;2026;L2600001288;059/2001;9871.88;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-08;-9871.88;-9871.88
+TD-03;CORTE-2026;2026;L2600001289;059/2001;7319.11;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-08;-7319.11;-7319.11
+TD-03;CORTE-2026;2026;L2600001401;006/2023;7260.06;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-09;-7260.06;-7260.06
+TD-03;CORTE-2026;2026;L2600001402;006/2023;46291.35;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-09;-46291.35;-46291.35
+TD-03;CORTE-2026;2026;L2600001403;006/2023;10012.06;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-09;-10012.06;-10012.06
+TD-03;CORTE-2026;2026;L2600001404;006/2023;9093.73;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-09;-9093.73;-9093.73
+TD-03;CORTE-2026;2026;L2600001405;006/2023;18256.33;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-09;-18256.33;-18256.33
+TD-03;CORTE-2026;2026;L2600001406;006/2023;44630.39;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-09;-44630.39;-44630.39
+TD-03;CORTE-2026;2026;L2600001571;012/2023;16924.88;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-09;-16924.88;-16924.88
+TD-03;CORTE-2026;2026;L2600001572;012/2023;152473.35;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-09;-152473.35;-152473.35
+TD-03;CORTE-2026;2026;L2600001573;012/2023;3081.95;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-09;-3081.95;-3081.95
+TD-03;CORTE-2026;2026;L2600001629;059/2001;12530.76;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-09;-12530.76;-12530.76
+TD-03;CORTE-2026;2026;L2600001630;059/2001;27160.89;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-09;-27160.89;-27160.89
+TD-03;CORTE-2026;2026;L2600001631;059/2001;121851.25;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-09;-121851.25;-121851.25
+TD-03;CORTE-2026;2026;L2600001632;059/2001;29410.04;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-09;-29410.04;-29410.04
+TD-03;CORTE-2026;2026;L2600001633;059/2001;636.06;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-09;-636.06;-636.06
+TD-03;CORTE-2026;2026;L2600001634;059/2001;3183.31;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-09;-3183.31;-3183.31
+TD-03;CORTE-2026;2026;L2600001635;059/2001;7026.75;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-09;-7026.75;-7026.75
+TD-03;CORTE-2026;2026;L2600001738;006/2023;3471.17;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-10;-3471.17;-3471.17
+TD-03;CORTE-2026;2026;L2600001739;006/2023;3669.53;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-10;-3669.53;-3669.53
+TD-03;CORTE-2026;2026;L2600001740;006/2023;25825.0;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-10;-25825.0;-25825.0
+TD-03;CORTE-2026;2026;L2600001741;006/2023;2338.67;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-10;-2338.67;-2338.67
+TD-03;CORTE-2026;2026;L2600001742;012/2023;34315.12;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-10;-34315.12;-34315.12
+TD-03;CORTE-2026;2026;L2600001743;012/2023;59119.03;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-10;-59119.03;-59119.03
+TD-03;CORTE-2026;2026;L2600001744;012/2023;42489.0;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-10;-42489.0;-42489.0
+TD-03;CORTE-2026;2026;L2600001745;012/2023;12768.6;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-10;-12768.6;-12768.6
+TD-03;CORTE-2026;2026;L2600001746;059/2001;1167.73;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-10;-1167.73;-1167.73
+TD-03;CORTE-2026;2026;L2600001747;059/2001;1713.3;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-10;-1713.3;-1713.3
+TD-03;CORTE-2026;2026;L2600001748;059/2001;96415.29;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-10;-96415.29;-96415.29
+TD-03;CORTE-2026;2026;L2600001749;059/2001;23950.96;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-10;-23950.96;-23950.96
+TD-03;CORTE-2026;2026;L2600001750;059/2001;135768.36;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-10;-135768.36;-135768.36
+TD-03;CORTE-2026;2026;L2600001751;059/2001;4503.38;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-10;-4503.38;-4503.38
+TD-03;CORTE-2026;2026;L2600001752;059/2001;20211.78;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-10;-20211.78;-20211.78
+TD-03;CORTE-2026;2026;L2600001753;059/2001;1763.11;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-10;-1763.11;-1763.11
+TD-03;CORTE-2026;2026;L2600001754;059/2001;4014.74;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-10;-4014.74;-4014.74
+TD-03;CORTE-2026;2026;L2600001755;006/2023;2120.74;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-11;-2120.74;-2120.74
+TD-03;CORTE-2026;2026;L2600001756;006/2023;28951.72;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-11;-28951.72;-28951.72
+TD-03;CORTE-2026;2026;L2600001757;006/2023;648.66;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-11;-648.66;-648.66
+TD-03;CORTE-2026;2026;L2600001758;006/2023;32374.41;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-11;-32374.41;-32374.41
+TD-03;CORTE-2026;2026;L2600001759;006/2023;44187.79;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-11;-44187.79;-44187.79
+TD-03;CORTE-2026;2026;L2600001760;006/2023;7517.43;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-11;-7517.43;-7517.43
+TD-03;CORTE-2026;2026;L2600001761;006/2023;2445.86;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-11;-2445.86;-2445.86
+TD-03;CORTE-2026;2026;L2600001762;006/2023;1657.33;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-11;-1657.33;-1657.33
+TD-03;CORTE-2026;2026;L2600001763;006/2023;21766.71;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-11;-21766.71;-21766.71
+TD-03;CORTE-2026;2026;L2600001764;006/2023;3291.84;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-11;-3291.84;-3291.84
+TD-03;CORTE-2026;2026;L2600001765;012/2023;20288.51;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-11;-20288.51;-20288.51
+TD-03;CORTE-2026;2026;L2600001766;012/2023;1808.91;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-11;-1808.91;-1808.91
+TD-03;CORTE-2026;2026;L2600001767;012/2023;11561.2;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-11;-11561.2;-11561.2
+TD-03;CORTE-2026;2026;L2600001768;059/2001;3241.58;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-11;-3241.58;-3241.58
+TD-03;CORTE-2026;2026;L2600001769;059/2001;1222.69;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-11;-1222.69;-1222.69
+TD-03;CORTE-2026;2026;L2600001770;059/2001;1627.35;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-11;-1627.35;-1627.35
+TD-03;CORTE-2026;2026;L2600001771;059/2001;107689.49;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-11;-107689.49;-107689.49
+TD-03;CORTE-2026;2026;L2600001772;059/2001;166752.54;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-11;-166752.54;-166752.54
+TD-03;CORTE-2026;2026;L2600001773;059/2001;8891.68;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-11;-8891.68;-8891.68
+TD-03;CORTE-2026;2026;L2600001804;006/2023;5822.9;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-12;-5822.9;-5822.9
+TD-03;CORTE-2026;2026;L2600001805;006/2023;229.05;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-12;-229.05;-229.05
+TD-03;CORTE-2026;2026;L2600001806;006/2023;1290.92;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-12;-1290.92;-1290.92
+TD-03;CORTE-2026;2026;L2600001807;006/2023;10204.02;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-12;-10204.02;-10204.02
+TD-03;CORTE-2026;2026;L2600001808;006/2023;711.54;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-12;-711.54;-711.54
+TD-03;CORTE-2026;2026;L2600001985;012/2023;51326.31;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-12;-51326.31;-51326.31
+TD-03;CORTE-2026;2026;L2600002049;059/2001;37061.32;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-12;-37061.32;-37061.32
+TD-03;CORTE-2026;2026;L2600002050;059/2001;2967.35;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-12;-2967.35;-2967.35
+TD-03;CORTE-2026;2026;L2600002051;059/2001;1990.52;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-12;-1990.52;-1990.52
+TD-03;CORTE-2026;2026;L2600002052;059/2001;10690.29;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-12;-10690.29;-10690.29
+TD-03;CORTE-2026;2026;L2600002053;059/2001;64222.95;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-12;-64222.95;-64222.95
+TD-03;CORTE-2026;2026;L2600002054;059/2001;11948.44;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-12;-11948.44;-11948.44
+TD-03;CORTE-2026;2026;L2600002055;059/2001;36005.88;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-12;-36005.88;-36005.88
+TD-03;CORTE-2026;2026;L2600002056;059/2001;347481.6;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-12;-347481.6;-347481.6
+TD-03;CORTE-2026;2026;L2600002191;006/2023;14825.37;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-13;-14825.37;-14825.37
+TD-03;CORTE-2026;2026;L2600002192;006/2023;731.5;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-13;-731.5;-731.5
+TD-03;CORTE-2026;2026;L2600002193;006/2023;12696.46;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-13;-12696.46;-12696.46
+TD-03;CORTE-2026;2026;L2600002194;006/2023;6394.89;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-13;-6394.89;-6394.89
+TD-03;CORTE-2026;2026;L2600002195;006/2023;18802.01;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-13;-18802.01;-18802.01
+TD-03;CORTE-2026;2026;L2600002196;006/2023;9188.7;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-13;-9188.7;-9188.7
+TD-03;CORTE-2026;2026;L2600002372;012/2023;639.17;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-13;-639.17;-639.17
+TD-03;CORTE-2026;2026;L2600002429;059/2001;991.03;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-13;-991.03;-991.03
+TD-03;CORTE-2026;2026;L2600002430;059/2001;20186.83;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-13;-20186.83;-20186.83
+TD-03;CORTE-2026;2026;L2600002431;059/2001;6761.87;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-13;-6761.87;-6761.87
+TD-03;CORTE-2026;2026;L2600002432;059/2001;5174.71;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-13;-5174.71;-5174.71
+TD-03;CORTE-2026;2026;L2600002433;059/2001;4390.25;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-13;-4390.25;-4390.25
+TD-03;CORTE-2026;2026;L2600002434;059/2001;39591.36;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-13;-39591.36;-39591.36
+TD-03;CORTE-2026;2026;L2600002435;059/2001;2939.34;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-13;-2939.34;-2939.34
+TD-03;CORTE-2026;2026;L2600002436;059/2001;1695.5;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-13;-1695.5;-1695.5
+TD-03;CORTE-2026;2026;L2600002437;059/2001;5915.57;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-13;-5915.57;-5915.57
+TD-03;CORTE-2026;2026;L2600002574;006/2023;81466.71;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-14;-81466.71;-81466.71
+TD-03;CORTE-2026;2026;L2600002759;012/2023;7662.42;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-14;-7662.42;-7662.42
+TD-03;CORTE-2026;2026;L2600002760;012/2023;11126.39;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-14;-11126.39;-11126.39
+TD-03;CORTE-2026;2026;L2600002761;012/2023;29516.54;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-14;-29516.54;-29516.54
+TD-03;CORTE-2026;2026;L2600002762;012/2023;24339.72;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-14;-24339.72;-24339.72
+TD-03;CORTE-2026;2026;L2600002823;059/2001;20020.42;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-14;-20020.42;-20020.42
+TD-03;CORTE-2026;2026;L2600002824;059/2001;18935.92;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-18935.92;-18935.92
+TD-03;CORTE-2026;2026;L2600002825;059/2001;4265.77;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-4265.77;-4265.77
+TD-03;CORTE-2026;2026;L2600002826;059/2001;35248.87;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-14;-35248.87;-35248.87
+TD-03;CORTE-2026;2026;L2600002827;059/2001;2406.23;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-14;-2406.23;-2406.23
+TD-03;CORTE-2026;2026;L2600002828;059/2001;3810.67;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-3810.67;-3810.67
+TD-03;CORTE-2026;2026;L2600002829;059/2001;8079.95;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-14;-8079.95;-8079.95
+TD-03;CORTE-2026;2026;L2600002830;059/2001;11796.73;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-14;-11796.73;-11796.73
+TD-03;CORTE-2026;2026;L2600002831;059/2001;21407.4;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-14;-21407.4;-21407.4
+TD-03;CORTE-2026;2026;L2600004905;006/2023;3787.38;factual;Serviço com documento de 2025-12-10 lançado em 2026-01-15;-3787.38;-3787.38
+TD-03;CORTE-2026;2026;L2600004906;006/2023;16445.49;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-15;-16445.49;-16445.49
+TD-03;CORTE-2026;2026;L2600004907;006/2023;5374.29;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-5374.29;-5374.29
+TD-03;CORTE-2026;2026;L2600004908;006/2023;2151.03;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-2151.03;-2151.03
+TD-03;CORTE-2026;2026;L2600004909;006/2023;17883.68;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-15;-17883.68;-17883.68
+TD-03;CORTE-2026;2026;L2600007112;012/2023;19643.03;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-15;-19643.03;-19643.03
+TD-03;CORTE-2026;2026;L2600007113;012/2023;2469.46;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-2469.46;-2469.46
+TD-03;CORTE-2026;2026;L2600007114;012/2023;858.0;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-15;-858.0;-858.0
+TD-03;CORTE-2026;2026;L2600007115;012/2023;94267.96;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-15;-94267.96;-94267.96
+TD-03;CORTE-2026;2026;L2600007116;012/2023;9136.4;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-15;-9136.4;-9136.4
+TD-03;CORTE-2026;2026;L2600012109;059/2001;1711.55;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-15;-1711.55;-1711.55
+TD-03;CORTE-2026;2026;L2600012110;059/2001;74756.76;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-15;-74756.76;-74756.76
+TD-03;CORTE-2026;2026;L2600012111;059/2001;7122.32;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-15;-7122.32;-7122.32
+TD-03;CORTE-2026;2026;L2600012112;059/2001;126786.39;factual;Serviço com documento de 2025-12-10 lançado em 2026-01-15;-126786.39;-126786.39
+TD-03;CORTE-2026;2026;L2600012113;059/2001;8012.19;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-15;-8012.19;-8012.19
+TD-03;CORTE-2026;2026;L2600012114;059/2001;58230.65;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-15;-58230.65;-58230.65
+TD-03;CORTE-2026;2026;L2600012115;059/2001;3696.46;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-15;-3696.46;-3696.46
+TD-03;CORTE-2026;2026;L2600012116;059/2001;16042.83;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-15;-16042.83;-16042.83
+TD-03;CORTE-2026;2026;L2600012117;059/2001;10563.83;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-15;-10563.83;-10563.83
+TD-03;CORTE-2026;2026;L2600012118;059/2001;10940.02;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-15;-10940.02;-10940.02
+TD-03;CORTE-2026;2026;L2600013115;006/2023;11328.87;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-11328.87;-11328.87
+TD-03;CORTE-2026;2026;L2600013116;006/2023;24344.03;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-16;-24344.03;-24344.03
+TD-03;CORTE-2026;2026;L2600013117;006/2023;10387.67;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-16;-10387.67;-10387.67
+TD-03;CORTE-2026;2026;L2600013118;006/2023;1827.87;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-16;-1827.87;-1827.87
+TD-03;CORTE-2026;2026;L2600013119;006/2023;61150.76;factual;Serviço com documento de 2025-12-16 lançado em 2026-01-16;-61150.76;-61150.76
+TD-03;CORTE-2026;2026;L2600013120;006/2023;10403.34;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-16;-10403.34;-10403.34
+TD-03;CORTE-2026;2026;L2600013281;012/2023;4951.93;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-4951.93;-4951.93
+TD-03;CORTE-2026;2026;L2600013282;012/2023;8248.08;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-8248.08;-8248.08
+TD-03;CORTE-2026;2026;L2600013283;012/2023;8764.61;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-16;-8764.61;-8764.61
+TD-03;CORTE-2026;2026;L2600013284;012/2023;233544.78;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-16;-233544.78;-233544.78
+TD-03;CORTE-2026;2026;L2600013285;012/2023;48824.5;factual;Serviço com documento de 2025-12-09 lançado em 2026-01-16;-48824.5;-48824.5
+TD-03;CORTE-2026;2026;L2600013286;012/2023;31593.6;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-16;-31593.6;-31593.6
+TD-03;CORTE-2026;2026;L2600013346;059/2001;21197.75;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-16;-21197.75;-21197.75
+TD-03;CORTE-2026;2026;L2600013347;059/2001;15208.71;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-16;-15208.71;-15208.71
+TD-03;CORTE-2026;2026;L2600013348;059/2001;2218.39;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-16;-2218.39;-2218.39
+TD-03;CORTE-2026;2026;L2600013349;059/2001;103792.62;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-103792.62;-103792.62
+TD-03;CORTE-2026;2026;L2600013350;059/2001;48740.82;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-16;-48740.82;-48740.82
+TD-03;CORTE-2026;2026;L2600013351;059/2001;25598.51;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-16;-25598.51;-25598.51
+TD-03;CORTE-2026;2026;L2600013352;059/2001;8424.21;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-16;-8424.21;-8424.21
+TD-03;CORTE-2026;2026;L2600013465;006/2023;8391.0;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-17;-8391.0;-8391.0
+TD-03;CORTE-2026;2026;L2600013466;006/2023;67172.01;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-17;-67172.01;-67172.01
+TD-03;CORTE-2026;2026;L2600013467;006/2023;506.5;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-17;-506.5;-506.5
+TD-03;CORTE-2026;2026;L2600013468;006/2023;2261.27;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-17;-2261.27;-2261.27
+TD-03;CORTE-2026;2026;L2600013469;006/2023;18986.41;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-17;-18986.41;-18986.41
+TD-03;CORTE-2026;2026;L2600013470;012/2023;12120.86;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-17;-12120.86;-12120.86
+TD-03;CORTE-2026;2026;L2600013471;012/2023;2406.56;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-17;-2406.56;-2406.56
+TD-03;CORTE-2026;2026;L2600013472;012/2023;10944.35;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-17;-10944.35;-10944.35
+TD-03;CORTE-2026;2026;L2600013473;012/2023;13685.03;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-17;-13685.03;-13685.03
+TD-03;CORTE-2026;2026;L2600013474;059/2001;45605.31;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-17;-45605.31;-45605.31
+TD-03;CORTE-2026;2026;L2600013475;059/2001;21421.38;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-17;-21421.38;-21421.38
+TD-03;CORTE-2026;2026;L2600013476;059/2001;135.95;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-17;-135.95;-135.95
+TD-03;CORTE-2026;2026;L2600013477;059/2001;31951.92;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-17;-31951.92;-31951.92
+TD-03;CORTE-2026;2026;L2600013478;059/2001;17306.68;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-17;-17306.68;-17306.68
+TD-03;CORTE-2026;2026;L2600013479;059/2001;13357.12;factual;Serviço com documento de 2025-12-11 lançado em 2026-01-17;-13357.12;-13357.12
+TD-03;CORTE-2026;2026;L2600013480;059/2001;2419.5;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-17;-2419.5;-2419.5
+TD-03;CORTE-2026;2026;L2600013481;059/2001;8344.02;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-17;-8344.02;-8344.02
+TD-03;CORTE-2026;2026;L2600013482;059/2001;998.99;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-17;-998.99;-998.99
+TD-03;CORTE-2026;2026;L2600013483;059/2001;5734.88;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-17;-5734.88;-5734.88
+TD-03;CORTE-2026;2026;L2600013484;006/2023;1867.88;factual;Serviço com documento de 2025-12-10 lançado em 2026-01-18;-1867.88;-1867.88
+TD-03;CORTE-2026;2026;L2600013485;006/2023;4717.99;factual;Serviço com documento de 2025-12-03 lançado em 2026-01-18;-4717.99;-4717.99
+TD-03;CORTE-2026;2026;L2600013486;006/2023;989.86;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-18;-989.86;-989.86
+TD-03;CORTE-2026;2026;L2600013487;006/2023;6438.95;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-18;-6438.95;-6438.95
+TD-03;CORTE-2026;2026;L2600013488;006/2023;27879.13;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-18;-27879.13;-27879.13
+TD-03;CORTE-2026;2026;L2600013489;006/2023;13492.78;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-18;-13492.78;-13492.78
+TD-03;CORTE-2026;2026;L2600013490;012/2023;10756.49;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-18;-10756.49;-10756.49
+TD-03;CORTE-2026;2026;L2600013491;012/2023;8261.22;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-18;-8261.22;-8261.22
+TD-03;CORTE-2026;2026;L2600013492;012/2023;66354.85;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-18;-66354.85;-66354.85
+TD-03;CORTE-2026;2026;L2600013493;012/2023;14663.55;factual;Serviço com documento de 2025-12-15 lançado em 2026-01-18;-14663.55;-14663.55
+TD-03;CORTE-2026;2026;L2600013494;012/2023;13429.97;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-18;-13429.97;-13429.97
+TD-03;CORTE-2026;2026;L2600013495;012/2023;60608.3;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-18;-60608.3;-60608.3
+TD-03;CORTE-2026;2026;L2600013496;012/2023;742.96;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-18;-742.96;-742.96
+TD-03;CORTE-2026;2026;L2600013497;059/2001;30438.55;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-18;-30438.55;-30438.55
+TD-03;CORTE-2026;2026;L2600013498;059/2001;3091.36;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-18;-3091.36;-3091.36
+TD-03;CORTE-2026;2026;L2600013499;059/2001;3125.67;factual;Serviço com documento de 2025-12-17 lançado em 2026-01-18;-3125.67;-3125.67
+TD-03;CORTE-2026;2026;L2600013500;059/2001;8846.25;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-18;-8846.25;-8846.25
+TD-03;CORTE-2026;2026;L2600013501;059/2001;55793.18;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-18;-55793.18;-55793.18
+TD-03;CORTE-2026;2026;L2600013502;059/2001;177645.72;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-18;-177645.72;-177645.72
+TD-03;CORTE-2026;2026;L2600013523;006/2023;2606.22;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-19;-2606.22;-2606.22
+TD-03;CORTE-2026;2026;L2600013524;006/2023;10163.98;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-19;-10163.98;-10163.98
+TD-03;CORTE-2026;2026;L2600013525;006/2023;15629.26;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-19;-15629.26;-15629.26
+TD-03;CORTE-2026;2026;L2600013526;006/2023;3948.8;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-19;-3948.8;-3948.8
+TD-03;CORTE-2026;2026;L2600013527;006/2023;4673.49;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-19;-4673.49;-4673.49
+TD-03;CORTE-2026;2026;L2600013528;006/2023;6226.15;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-19;-6226.15;-6226.15
+TD-03;CORTE-2026;2026;L2600013529;006/2023;9088.0;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-19;-9088.0;-9088.0
+TD-03;CORTE-2026;2026;L2600013530;006/2023;6359.15;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-19;-6359.15;-6359.15
+TD-03;CORTE-2026;2026;L2600013709;012/2023;1422.56;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-19;-1422.56;-1422.56
+TD-03;CORTE-2026;2026;L2600013710;012/2023;72927.61;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-19;-72927.61;-72927.61
+TD-03;CORTE-2026;2026;L2600013711;012/2023;20964.99;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-19;-20964.99;-20964.99
+TD-03;CORTE-2026;2026;L2600013712;012/2023;14401.78;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-19;-14401.78;-14401.78
+TD-03;CORTE-2026;2026;L2600013713;012/2023;6652.11;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-19;-6652.11;-6652.11
+TD-03;CORTE-2026;2026;L2600013714;012/2023;49141.14;factual;Serviço com documento de 2025-12-04 lançado em 2026-01-19;-49141.14;-49141.14
+TD-03;CORTE-2026;2026;L2600013787;059/2001;2877.95;factual;Serviço com documento de 2025-12-29 lançado em 2026-01-19;-2877.95;-2877.95
+TD-03;CORTE-2026;2026;L2600013788;059/2001;21071.71;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-19;-21071.71;-21071.71
+TD-03;CORTE-2026;2026;L2600013789;059/2001;19996.0;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-19;-19996.0;-19996.0
+TD-03;CORTE-2026;2026;L2600013790;059/2001;111382.13;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-19;-111382.13;-111382.13
+TD-03;CORTE-2026;2026;L2600013791;059/2001;6867.93;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-19;-6867.93;-6867.93
+TD-03;CORTE-2026;2026;L2600013938;006/2023;9412.12;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-20;-9412.12;-9412.12
+TD-03;CORTE-2026;2026;L2600013939;006/2023;6849.54;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-20;-6849.54;-6849.54
+TD-03;CORTE-2026;2026;L2600013940;006/2023;8203.48;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-20;-8203.48;-8203.48
+TD-03;CORTE-2026;2026;L2600013941;006/2023;3984.09;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-20;-3984.09;-3984.09
+TD-03;CORTE-2026;2026;L2600014123;012/2023;1927.64;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-20;-1927.64;-1927.64
+TD-03;CORTE-2026;2026;L2600014124;012/2023;115015.95;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-20;-115015.95;-115015.95
+TD-03;CORTE-2026;2026;L2600014125;012/2023;4671.29;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-20;-4671.29;-4671.29
+TD-03;CORTE-2026;2026;L2600014126;012/2023;4694.03;factual;Serviço com documento de 2025-12-19 lançado em 2026-01-20;-4694.03;-4694.03
+TD-03;CORTE-2026;2026;L2600014127;012/2023;10644.08;factual;Serviço com documento de 2025-12-30 lançado em 2026-01-20;-10644.08;-10644.08
+TD-03;CORTE-2026;2026;L2600014128;012/2023;1608.8;factual;Serviço com documento de 2025-12-05 lançado em 2026-01-20;-1608.8;-1608.8
+TD-03;CORTE-2026;2026;L2600014129;012/2023;6840.66;factual;Serviço com documento de 2025-12-25 lançado em 2026-01-20;-6840.66;-6840.66
+TD-03;CORTE-2026;2026;L2600014192;059/2001;8258.95;factual;Serviço com documento de 2025-12-31 lançado em 2026-01-20;-8258.95;-8258.95
+TD-03;CORTE-2026;2026;L2600014193;059/2001;4544.01;factual;Serviço com documento de 2025-12-08 lançado em 2026-01-20;-4544.01;-4544.01
+TD-03;CORTE-2026;2026;L2600014194;059/2001;2267.44;factual;Serviço com documento de 2025-12-18 lançado em 2026-01-20;-2267.44;-2267.44
+TD-03;CORTE-2026;2026;L2600014195;059/2001;36743.25;factual;Serviço com documento de 2025-12-26 lançado em 2026-01-20;-36743.25;-36743.25
+TD-03;CORTE-2026;2026;L2600014196;059/2001;118317.02;factual;Serviço com documento de 2025-12-22 lançado em 2026-01-20;-118317.02;-118317.02
+TD-03;CORTE-2026;2026;L2600014197;059/2001;6222.92;factual;Serviço com documento de 2025-12-02 lançado em 2026-01-20;-6222.92;-6222.92
+TD-03;CORTE-2026;2026;L2600014198;059/2001;2806.91;factual;Serviço com documento de 2025-12-24 lançado em 2026-01-20;-2806.91;-2806.91
+TD-03;CORTE-2026;2026;L2600014199;059/2001;39495.81;factual;Serviço com documento de 2025-12-10 lançado em 2026-01-20;-39495.81;-39495.81
+TD-03;CORTE-2026;2026;L2600014200;059/2001;846.38;factual;Serviço com documento de 2025-12-23 lançado em 2026-01-20;-846.38;-846.38
+TD-03;CORTE-2026;2026;L2600014201;059/2001;2637.3;factual;Serviço com documento de 2025-12-12 lançado em 2026-01-20;-2637.3;-2637.3
+TD-03;CORTE-2026;2026;L2600014202;059/2001;104913.2;factual;Serviço com documento de 2025-12-01 lançado em 2026-01-20;-104913.2;-104913.2
+TD-05;REM;2025;L2500487467;046/2017;8413645.62;factual;"Taxa 0.099 (modal 0.069); esperado R$ 6,743,592.94";1670052.68;1670052.68
+TD-05;REM;2025;L2500540681;046/2017;8426031.69;factual;"Taxa 0.099 (modal 0.069); esperado R$ 6,753,520.46";1672511.23;1672511.23
+TD-05;REM;2025;L2500598421;046/2017;8439012.37;factual;"Taxa 0.099 (modal 0.069); esperado R$ 6,763,924.56";1675087.81;1675087.81

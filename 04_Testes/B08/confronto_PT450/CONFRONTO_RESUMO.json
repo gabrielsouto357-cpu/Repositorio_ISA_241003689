@@ -1,0 +1,18 @@
+{
+ "linhas_com_erro": 552,
+ "linhas_com_distorcao_atribuida": 543,
+ "verdadeiros_positivos": 543,
+ "falsos_positivos_com_distorcao": 0,
+ "excecoes_sem_erro_examinadas": {
+  "TD-01 R1": 35
+ },
+ "td06_sinalizados": [
+  [
+   "059/2001",
+   "SE_FIN"
+  ]
+ ],
+ "itens_com_erro_na_amostra_MUS": 0,
+ "soma_efeito_saldo_inserido": 31725784.44,
+ "soma_efeito_saldo_detectado": 30525784.479999997
+}

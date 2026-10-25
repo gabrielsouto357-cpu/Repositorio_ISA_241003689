@@ -1,0 +1,5 @@
+# Reextração e recálculo financeiro em 22/10/2026
+
+A extração financeira B02 foi reexecutada em 22/10/2026 com o extrator original inalterado e Poppler pdftotext 26.07.0, em área isolada. As 277 linhas (1.076 valores numéricos) coincidem integralmente com a extração salva. Reagregação com Decimal dos dados reextraídos e dos 2.522 registros CVM refez os 552 cruzamentos PDF × CVM, sem diferenças. Evidências e instruções em 04_Testes/B12/fechamento_22_10. Não se atribui essa reprodução aos procedimentos de acesso interno [PA].
+
+Extrator original: 99_Trabalho/scripts_B02/b02_extrair_dfs.py. Dependência: Poppler pdftotext 26.07.0 no PATH. Runtime Python do projeto; pandas conforme instruções B02. A versão portátil usada foi extraída de https://conda.anaconda.org/conda-forge/win-64/poppler-26.07.0-h6618ce5_3.conda; o binário não é dependência de caminho temporário do dossiê. Scripts de conferência e instruções de entrada ficam em 99_Trabalho/scripts_B12/fechamento_22_10. Os hashes e diferenças são provas de reprodução; não evidência da veracidade econômica de operações.

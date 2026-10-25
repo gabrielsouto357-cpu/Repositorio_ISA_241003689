@@ -1,0 +1,324 @@
+[
+  {
+    "file": "00_Controle\\CONCILIACAO_INVENTARIO_B01.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\FONTES_USADAS.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\MAPA_NORMATIVO.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\MATRIZ_COBERTURA.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\MATRIZ_RISCOS_RESPOSTAS.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [
+      [
+        "Matriz",
+        "B47",
+        0,
+        24
+      ],
+      [
+        "Matriz",
+        "B48",
+        0,
+        16
+      ],
+      [
+        "Matriz",
+        "B49",
+        0,
+        7
+      ],
+      [
+        "Matriz",
+        "B51",
+        0,
+        3
+      ]
+    ],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\REFERENCIAS_MODELOS.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\REGISTRO_REVISAO.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "00_Controle\\REGISTRO_REVISAO_B12.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "01_Dados_reais\\CONF_B01_ATIVO_TOTAL_PDF_CVM.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "01_Dados_reais\\DADOS_REAIS_DF_2025_2024.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "02_Planejamento\\GRUPO_ISA_2025.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "02_Planejamento\\MAPA_DOCUMENTOS_POR_NOTA.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "02_Planejamento\\MATERIALIDADE_PT320.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "02_Planejamento\\MATRIZ_RISCOS_PT315.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [
+      [
+        "Matriz_315",
+        "B24",
+        0,
+        5
+      ],
+      [
+        "Matriz_315",
+        "B25",
+        0,
+        7
+      ]
+    ],
+    "code": 0
+  },
+  {
+    "file": "04_Testes\\B09\\planilhas\\PT540_ESTIMATIVA_ATIVO_CONTRATUAL.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [
+      [
+        "Prazo",
+        "E2",
+        16.9993155439815,
+        16.9993155373032
+      ],
+      [
+        "Prazo",
+        "E3",
+        20.8870636574074,
+        20.8870636550308
+      ],
+      [
+        "Prazo",
+        "E4",
+        26.7488021990741,
+        26.7488021902806
+      ],
+      [
+        "Prazo",
+        "E5",
+        27.7453798842593,
+        27.7453798767967
+      ],
+      [
+        "Prazo",
+        "E6",
+        27.7453798842593,
+        27.7453798767967
+      ],
+      [
+        "Prazo",
+        "E7",
+        5.96851472222222,
+        5.96851471594798
+      ],
+      [
+        "Prazo",
+        "E8",
+        11.3100616087963,
+        11.3100616016427
+      ],
+      [
+        "Prazo",
+        "E9",
+        12.2053388194444,
+        12.2053388090349
+      ],
+      [
+        "Prazo",
+        "E10",
+        12.7885010300926,
+        12.788501026694
+      ],
+      [
+        "Prazo",
+        "E11",
+        12.7885010300926,
+        12.788501026694
+      ],
+      [
+        "Prazo",
+        "E12",
+        12.7885010300926,
+        12.788501026694
+      ],
+      [
+        "Prazo",
+        "E13",
+        12.7885010300926,
+        12.788501026694
+      ],
+      [
+        "Prazo",
+        "E14",
+        12.7885010300926,
+        12.788501026694
+      ],
+      [
+        "Prazo",
+        "E15",
+        13.8809034953704,
+        13.8809034907598
+      ],
+      [
+        "Prazo",
+        "E16",
+        15.9397672916667,
+        15.9397672826831
+      ],
+      [
+        "Prazo",
+        "E17",
+        21.1115674305556,
+        21.1115674195756
+      ],
+      [
+        "Prazo",
+        "E18",
+        21.6098562731481,
+        21.6098562628337
+      ],
+      [
+        "Prazo",
+        "E19",
+        21.6098562731481,
+        21.6098562628337
+      ],
+      [
+        "Prazo",
+        "E20",
+        21.6098562731481,
+        21.6098562628337
+      ],
+      [
+        "Prazo",
+        "E21",
+        21.6098562731481,
+        21.6098562628337
+      ],
+      [
+        "Prazo",
+        "E22",
+        22.7214236921296,
+        22.7214236824093
+      ],
+      [
+        "Prazo",
+        "E23",
+        22.7214236921296,
+        22.7214236824093
+      ],
+      [
+        "Prazo",
+        "E24",
+        24.2162902199074,
+        24.2162902121834
+      ],
+      [
+        "Prazo",
+        "E25",
+        24.2162902199074,
+        24.2162902121834
+      ],
+      [
+        "Prazo",
+        "E26",
+        24.2162902199074,
+        24.2162902121834
+      ],
+      [
+        "Prazo",
+        "E27",
+        25.2429842592593,
+        25.242984257358
+      ],
+      [
+        "Prazo",
+        "E28",
+        26.7488021990741,
+        26.7488021902806
+      ],
+      [
+        "Prazo",
+        "E29",
+        27.7453798842593,
+        27.7453798767967
+      ]
+    ],
+    "code": 0
+  },
+  {
+    "file": "04_Testes\\B10\\planilhas\\PT505_CONTROLE_CIRCULARIZACAO.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  },
+  {
+    "file": "04_Testes\\B10\\planilhas\\PT560_EVENTOS_SUBSEQUENTES.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [
+      [
+        "Eventos",
+        "C27",
+        0,
+        5
+      ]
+    ],
+    "code": 0
+  },
+  {
+    "file": "04_Testes\\B10\\planilhas\\PT570_CONTINUIDADE.xlsx",
+    "engine": "LibreOffice Calc; cache only; original formulas retained",
+    "changes": [],
+    "code": 0
+  }
+]

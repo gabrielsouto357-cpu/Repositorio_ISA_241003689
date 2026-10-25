@@ -1,0 +1,11 @@
+id_erro;tipo;linhas_inseridas;linhas_sinalizadas;linhas_com_distorcao;testes;efeito_saldo_inserido;efeito_saldo_detectado;efeito_resultado_inserido;efeito_resultado_detectado;situacao;na_amostra_MUS
+E01;Corte (exercício anterior);150;150;150;TD-01 R5;0.0;0.0;3527521.14;3527521.14;Detectado;0
+E02;Corte (exercício seguinte);273;273;273;TD-03 CORTE-2026;-7201518.28;-7201518.28;-7201518.28;-7201518.28;Detectado;0
+E03;Duplicidade;35;35;35;TD-01 R1;4893510.12;4893510.12;4893510.12;4893510.12;Detectado;0
+E04;Digitação;20;20;20;TD-01 R2;7716140.91;7716140.92;7716140.91;7716140.92;Detectado;0
+E05;Lançamento manual sem suporte;2;2;2;"TD-01 R6; TD-02 JE";15500000.0;15500000.0;15500000.0;15500000.0;Detectado;0
+E06;Estimativa;3;3;3;TD-05 REM;5017651.69;5017651.72;5017651.69;5017651.72;Detectado;0
+E07;Classificação / ocorrência;60;60;60;TD-01 R4;4600000.0;4600000.0;4600000.0;4600000.0;Detectado;0
+E08;Classificação;8;8;0;TD-04 CONTRATO;0.0;0.0;0.0;0.0;Detectado;0
+E09;Estimativa;1;0;0;—;1200000.0;0.0;1200000.0;0.0;NÃO detectado;0
+E10;Apresentação;1;0;0;—;0.0;0.0;0.0;0.0;NÃO detectado (regra TD-06 não sinalizou);0

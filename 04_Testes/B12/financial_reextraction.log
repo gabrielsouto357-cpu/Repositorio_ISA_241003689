@@ -1,0 +1,20 @@
+
+Traceback (most recent call last):
+  File "C:\Users\gabri\OneDrive\Documentos\AUD1\11_Elaboracao_do_trabalho\99_Trabalho\scripts_B02\b02_extrair_dfs.py", line 118, in <module>
+    linhas = extrair("F0003", f3) + extrair("F0011", f11)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gabri\OneDrive\Documentos\AUD1\11_Elaboracao_do_trabalho\99_Trabalho\scripts_B02\b02_extrair_dfs.py", line 46, in extrair
+    linhas = texto_pagina(pdf, pag).splitlines()
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gabri\OneDrive\Documentos\AUD1\11_Elaboracao_do_trabalho\99_Trabalho\scripts_B02\b02_extrair_dfs.py", line 33, in texto_pagina
+    return subprocess.run(["pdftotext", "-layout", "-f", str(p), "-l", str(p), pdf, "-"],
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gabri\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gabri\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\gabri\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado

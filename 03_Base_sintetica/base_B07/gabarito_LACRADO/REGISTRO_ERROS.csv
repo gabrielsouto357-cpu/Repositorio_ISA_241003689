@@ -1,0 +1,11 @@
+id_erro;tipo;descricao;afirmacao;n_linhas;campo_alterado;efeito_saldo_311225_brl;efeito_resultado_2025_brl
+E01;Corte (exercício anterior);Serviços executados em dez/2024 (data do documento) registrados como receita de 2025;"Corte; ocorrência (resultado)";150;data_documento;0.00;3527521.14
+E02;Corte (exercício seguinte);Medições de serviços de dez/2025 registradas só em jan/2026;"Integridade; corte";273;data_lancamento;-7201518.28;-7201518.28
+E03;Duplicidade;Mesma medição (documento, fornecedor e valor) lançada duas vezes;Ocorrência;35;linha adicional;4893510.12;4893510.12
+E04;Digitação;19 transposições de dígitos e 1 valor com um zero a mais (valor ≠ custo × (1 + margem));Exatidão;20;valor_movimento_brl;7716140.91;7716140.91
+E05;Lançamento manual sem suporte;Dois ajustes manuais em 30/12/2025 após 23h, valores redondos, sem documento, lançados e aprovados por U11;Ocorrência (burla de controles – NBC TA 240 it. 32(a));2;linhas novas;15500000.00;15500000.00
+E06;Estimativa;Remuneração de out–dez/2025 do 046/2017 com taxa implícita de 9,9% em vez de 6,9%;Avaliação;3;"valor; taxa";5017651.69;5017651.69
+E07;Classificação / ocorrência;Manutenção corretiva (O&M, custo do período) registrada como receita de infraestrutura e ativo contratual;"Ocorrência; classificação (CPC 47)";60;linhas novas;4600000.00;4600000.00
+E08;Classificação;Recebimentos do 027/2017 (IE Itaquerê) aplicados ao 018/2017 (IE Itaúnas);"Classificação; existência por contrato";8;contrato;0.00;0.00
+E09;Estimativa;Perda esperada sobre faturas de O&M inadimplentes constituída a menor em R$ 1,2 milhão;Avaliação;1;valor;1200000.00;1200000.00
+E10;Apresentação;R$ 60 milhões do 046/2017 realizáveis após 12 meses classificados como circulante;Classificação / apresentação;1;parcela_circulante;0.00;0.00

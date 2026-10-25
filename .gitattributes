@@ -1,0 +1,6 @@
+* -text
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.gz binary
+# Preserva bytes originais e os hashes, inclusive nos CSVs históricos.
